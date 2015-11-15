@@ -1,22 +1,22 @@
 # Site navigation links
 
 - title: Home
-  url: ./
+  url: /home/
 
 - title: Research
-  url: /posts/
+  url: /research/
 
 - title: Music
-  url: /about/
+  url: /music/
 
 - title: About Me
-  url: /about/
+  url: /aboutme/
 
 - title: CV
-  url: /about/
+  url: /cv/
 
 - title: Blog
-  url: /about/
+  url: /blog/
 
 - title: Contact
-  url: /about/
+  url: /contact/
