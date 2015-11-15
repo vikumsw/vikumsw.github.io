@@ -242,12 +242,12 @@ $button-size: 1.5rem;
 			@include grid(12,4.5);
 		}
         a {
-            color:red;
+            color:green;
             background-color:transparent;
             text-decoration:none;
         }
         a :hover {
-            color:green;
+            color:DarkGreen;
             background-color:transparent;
             text-decoration:none;
         }
