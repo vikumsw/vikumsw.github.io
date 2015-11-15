@@ -21,3 +21,7 @@ I continued following my passion at IIT Bombay through many events like Surbahaa
     <figcaption>Performing in Surbahaar, a musical extravaganza at IIT Bombay.</figcaption>
 </figure>
 
+Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+
+![Smithsonian Image]({{ site.url }}/images/music-3.jpg)
+{: .image-pull-right}
