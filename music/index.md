@@ -18,3 +18,7 @@ I continued following my passion at IIT Bombay through many events like Surbahaa
     <a href="/images/music-2.jpg"><img src="/images/music-2.jpg"></a>
     <figcaption>Lead violinist of Saptak, IIT Bombay.</figcaption>
 </figure>
+<figure>
+    <a href="/images/music-3.jpg"><img src="/images/music-3.jpg"></a>
+    <figcaption>Performing in Surbahaar, a musical extravaganza at IIT Bombay.</figcaption>
+</figure>
