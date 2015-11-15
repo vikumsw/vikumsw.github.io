@@ -242,12 +242,12 @@ $button-size: 1.5rem;
 			@include grid(12,4.5);
 		}
         a {
-            color:MediumVioletRed;
+            color:Brown;
             background-color:transparent;
             text-decoration:none;
         }
         a.hover:hover {
-            color:MediumOrchid;
+            color:DarkRed;
             background-color:transparent;
             text-decoration:none;
         }
