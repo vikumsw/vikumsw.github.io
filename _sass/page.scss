@@ -242,6 +242,11 @@ $button-size: 1.5rem;
 			@include grid(12,4.5);
 		}
 	}
+    a {
+        color:green;
+        background-color:transparent;
+        text-decoration:none}
+    }
 }
 
 /* Index listing specific styling */
