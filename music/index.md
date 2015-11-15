@@ -14,6 +14,9 @@ I performed in more than a hundred conerts at various places like Birmingham (U.
     <figcaption>One of my earliest performances.</figcaption>
 </figure>
 I continued following my passion at IIT Bombay through many events like Surbahaar, Swar Sandhya, Institute cultural night, classical night, etc.; which are attended by a large number of audience including students, faculties and staff of IIT Bombay. 
+![Smithsonian Image]({{ site.url }}/images/music-2.jpg)
+{: .image-pull-right}
+
 <figure>
     <a href="/images/music-2.jpg"><img src="/images/music-2.jpg"></a>
     <figcaption>Lead violinist of Saptak, IIT Bombay.</figcaption>
