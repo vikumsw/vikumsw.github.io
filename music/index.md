@@ -20,7 +20,7 @@ I continued following my passion at IIT Bombay through many events like Surbahaa
 </figure>
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
-[Smithsonian Image](/images/music-2.jpg)
+[Smithsonian Image Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.](/images/music-2.jpg)
 {: .image-pull-right}
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
