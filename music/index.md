@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Music
-tags: [about, Jekyll, theme, responsive]
+tags: [satwik, kottur, music, graduate]
 modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+comments: false
 ---
 
 ![Childhood concert](/images/music-2.jpg)
