@@ -28,6 +28,9 @@ kramdown:
 owner:
   name: Satwik Kottur
   avatar: bio-photo-1.jpg
+  position: Graduate Student
+  school: Carnegie Mellon University
+  place: Pittsburgh, PA.
   bio: "Graduate student<br/>ECE Department&#13;&#10;Carnegie Mellon University&#13;&#10;Pittsburgh, PA"
   email: satwik27@gmail.com
   disqus-shortname:
