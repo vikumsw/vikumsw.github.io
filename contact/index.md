@@ -8,20 +8,14 @@ comments: false
 
 You can contact me at :
 
-**Satwik Kottur**
+**Satwik Kottur**  
 
-Email:
-
+Email:  
 * skottur [at] andrew [dot] cmu [dot] edu
 * satwik27 [at] gmail [dot] com
 
-Address:
-
-B10, Porter Hall,
-
-5000 Forbes,
-
-Carnegie Mellon University,
-
-Pittsburgh, PA - 15213.
-
+Address:  
+B10, Porter Hall,  
+5000 Forbes,  
+Carnegie Mellon University,  
+Pittsburgh, PA - 15213.  
