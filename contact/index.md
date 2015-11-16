@@ -9,8 +9,8 @@ comments: false
 You can contact me at :
 
 **Satwik Kottur**  
-
 Email:  
+
 * skottur [at] andrew [dot] cmu [dot] edu
 * satwik27 [at] gmail [dot] com
 
