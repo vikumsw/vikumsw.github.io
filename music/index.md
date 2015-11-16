@@ -4,6 +4,7 @@ title: Music
 tags: [satwik, kottur, music, graduate]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
+share: false
 ---
 
 ![Childhood concert](/images/music-2.jpg)
@@ -22,19 +23,7 @@ I continued following my passion at IIT Bombay through many events like Surbahaa
 
 <div style="margin-bottom:200px"></div>
 Here are some pictures and video links of few of my performances:
-<figure>
+<figure class="half">
     <a href="/images/music-1.jpg"><img src="/images/music-1.jpg"></a>
-    <figcaption>Lead violinist of Saptak, IIT Bombay.</figcaption>
-</figure>
-<figure>
-    <a href="/images/music-1.jpg"><img src="/images/music-1.jpg"></a>
-    <figcaption>Lead violinist of Saptak, IIT Bombay.</figcaption>
-</figure>
-<figure>
-    <a href="/images/music-1.jpg"><img src="/images/music-1.jpg"></a>
-    <figcaption>Lead violinist of Saptak, IIT Bombay.</figcaption>
-</figure>
-<figure>
-    <a href="/images/music-1.jpg"><img src="/images/music-1.jpg"></a>
-    <figcaption>Lead violinist of Saptak, IIT Bombay.</figcaption>
+    <a href="/images/music-4.jpg"><img src="/images/music-4.jpg"></a>
 </figure>
