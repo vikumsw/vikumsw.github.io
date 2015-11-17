@@ -27,3 +27,5 @@ Here are some pictures and video links of few of my performances:
     <a href="/images/music-1.jpg"><img src="/images/music-1.jpg"></a>
     <a href="/images/music-4.jpg"><img src="/images/music-4.jpg"></a>
 </figure>
+
+You can find video links to my performances in Pittsburgh here:

@@ -1,9 +1,13 @@
 ---
-layout: page
+layout: project-page
 title: Research
 tags: [research, satwik, kottur, cmu, graduate, iitb]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
+image:
+    feature: title-2.jpg
+    credit: WeGraphics
+    creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 I am interested in computer vision, machine learning and natural language processing.
@@ -12,18 +16,15 @@ Will be updated [soon]().
 {% include _toc.html %}
 
 ### Publications
-1. **Satwik Kottur**, Ramakrishna Vedantam, Jos&eacute; M. F. Moura, Devi Parikh  
-[Visual Word2vec (vis-w2v): Learning Visually grounded Word Embeddings Using Abstract Scenes]()  
-*Submitted to IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016*
+1. Visual word2vec
 
-2. Manzil Zaheer, **Satwik Kottur**, 
+2. NIPS OPT
 
 3. Traffic survellience
 
 -----
 
 ### Visual Word2Vec
-[[Project page](/research/vis-w2v)]
 
 -----
 
