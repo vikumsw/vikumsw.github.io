@@ -3,8 +3,6 @@
 title:            
 locale:           en_US
 url:
-
-
 # Jekyll configuration
 
 permalink:   /:categories/:title/

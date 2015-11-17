@@ -14,29 +14,22 @@ Will be updated [soon]().
 ### Publications
 1. **Satwik Kottur**, Ramakrishna Vedantam, Jos&eacute; M. F. Moura, Devi Parikh  
 [Visual Word2vec (vis-w2v): Learning Visually grounded Word Embeddings Using Abstract Scenes]()  
-*Submitted to IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016*
+*Submitted to IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.*  
+[Project Page][Paper]
 
-2. Manzil Zaheer, **Satwik Kottur**, 
+2. Manzil Zaheer, Micheal Wick, **Satwik Kottur**, Jean-Baptiste  
+[Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models]()  
+*OPT: NIPS Workshop on Optimization for Machine Learning, 2015.*  
+[Paper]
 
-3. Traffic survellience
-
------
-
-### Visual Word2Vec
-[[Project page](/research/vis-w2v)]
-
------
-
-### Traffic Survellience
+3. Evgeny Toropov, Liangyan Gui, Shanghang Zhang, **Satwik Kottur**, Jos&eacute; M. F. Moura  
+[Traffic Flow from a Low Frame Rate City Camera]()  
+*Big Data Processing and Analysis (special session) in IEEE International Conference on Image Processing (ICIP), 2015*  
+[Project Page][Paper]
 
 -----
-
-You can find my research projects from undergraduate [here]().
-
 
 ### Academic projects
-
-#### Stochastic EM
 
 #### Stochastic Proximal Gradient based HMC
 
@@ -44,4 +37,4 @@ You can find my research projects from undergraduate [here]().
 
 #### Movie recommendation
 
-You can find my academic projects from undergraduate [here]().
+You can find my other projects from undergraduate [here]().
