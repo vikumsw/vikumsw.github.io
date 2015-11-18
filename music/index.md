@@ -14,7 +14,7 @@ Having learnt violin since childhood, I have a great passion towards music.
 I play South Indian classical music (Carnatic,  more [here](https://en.wikipedia.org/wiki/Carnatic_music)) along with fusion music. 
 I performed in more than a hundred conerts at various places like Birmingham (U.K.), Beijing, Pittsburgh, New Delhi, Bengaluru, Pune, etc., both individually and as a part of an orchestra. 
 
-<div style="margin-bottom:100px"></div>
+<div style="margin-bottom:80px"></div>
 
 ![Saptak concert](/images/music-3.jpg)
 {: .image-pull-left}
@@ -31,5 +31,5 @@ Here are some pictures of my performances (click to expand):
 
 You can find audio/video links to my performances in Pittsburgh below:  
 
-1. Carnatic Ensemble, Carnegie Music Hall, Pittsburgh, Fall 2014. [[SoundCloud](https://soundcloud.com/satwik-kottur/vatapi-hamsadhwani-violin-cmu)]
-1. Carnatic Ensemble, Carnegie Music Hall, Pittsburgh, Spring 2014. [[YouTube]()]
+1. Carnatic Ensemble, Mellon Auditorium, Pittsburgh, Fall 2014. [[SoundCloud](https://soundcloud.com/satwik-kottur/vatapi-hamsadhwani-violin-cmu)]
+1. Carnatic Ensemble, Mellon Auditorium, Pittsburgh, Spring 2014. [[YouTube](https://youtu.be/MKUKtMwCccQ)]

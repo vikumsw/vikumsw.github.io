@@ -33,11 +33,10 @@ More information about the competition can be found [here](http://www.auvsifound
 Details about the AUV IITB team are present [here](http://auv-iitb.org/).
 
 Machine vision for Autonomous Underwater Vehicles poses three important challenges:
-<ol class="proj-points">
-<li>Degraded image quality due to the medium&mdash;Low visibility, color casting (blue or green), poor constrast, varying illuminations, brightness artifacts and blurring are of primary concern. Hence, pre-processing of images to correct these degradations is necessary to ensure robust detection in later stages of analysis.</li>
-<li>Limited on-board computational capacity&mdash;Since the vehicle has a centralized processor and a plethora of sensors and other peripherals, power management is of utmost importance. Such a conservation lays a direct contraint on the amount of computing available for the current mission. This eliminates the scope for using processor-intensive techniques thereby increasing the challenge further.</li> 
-<li>Real-time requirement for navigation of the machine&mdash;The two on-board cameras are an importance source of feedback for the vehicle. For a reliable navigation and actuator control, detection algorithms have an additional condition of real-time execution.</li>
-</ol>
+
+1. Degraded image quality due to the medium&mdash;Low visibility, color casting (blue or green), poor constrast, varying illuminations, brightness artifacts and blurring are of primary concern. Hence, pre-processing of images to correct these degradations is necessary to ensure robust detection in later stages of analysis.
+1. Limited on-board computational capacity&mdash;Since the vehicle has a centralized processor and a plethora of sensors and other peripherals, power management is of utmost importance. Such a conservation lays a direct contraint on the amount of computing available for the current mission. This eliminates the scope for using processor-intensive techniques thereby increasing the challenge further.
+1. Real-time requirement for navigation of the machine&mdash;The two on-board cameras are an importance source of feedback for the vehicle. For a reliable navigation and actuator control, detection algorithms have an additional condition of real-time execution.
 
 To tackle the above problems, we devised adaptive identification and correction of color casts in images, edge-saliency based color segmentation and adaptive enhancement based on corrected color cast, amongst other techniques formulated after thorough literature survey.
 
