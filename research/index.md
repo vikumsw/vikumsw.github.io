@@ -6,10 +6,9 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-I am interested in computer vision, machine learning and natural language processing.
-Will be updated [soon]().
-
-{% include _toc.html %}
+My interests broadly lie in the fields of computer vision, image processing, machine learning and natural language processing.
+I recently got interested in understanding the semantic relatedness of words better with the help of vision.
+Such a multi-modal analysis allows us to learn complementary semantics from both text and vision.
 
 ### Publications
 1. **Satwik Kottur**, Ramakrishna Vedantam, Jos&eacute; M. F. Moura, Devi Parikh  
@@ -83,7 +82,7 @@ Humans are first detected with Deformable part models and tracked as a feature p
 Linear cyclic pursuit model is then employed to predict short-term trajectory and understand behavior.  
 [[Project Page](projects/#human-activity-recognition)] [[Report](/reports/HumanActivity-Report.pdf)] [[Poster](HumanActivity-Poster.pdf)]
 
-* **Autonomous Underwater Vehicle (AUV-IITB)**
+* **Autonomous Underwater Vehicle (AUV-IITB)**  
 *AUVSI and ONR''s International Robosub Competition, San Diego, USA*  
 *Vision (Spring 2012 - Spring 2013)*  
 Guides: Dr. Hemendra Arya and Dr. Leena Vachhani  

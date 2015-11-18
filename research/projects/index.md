@@ -8,6 +8,8 @@ comments: false
 
 You can find descriptions of all the projects below:
 
+{% include _toc-projects.html %}
+
 ### Autonomous Underwater Vehicle (AUV-IITB)
 *AUVSI and ONR''s International Robosub Competition, San Diego, USA*  
 *Vision (Spring 2012 - Spring 2013)*  
@@ -46,6 +48,7 @@ To tackle the above problems, we devised adaptive identification and correction 
 <li>Finlayson, G.D., E. Trezzi. Shades of Gray and Color Constancy.</li>
 <li> Cosmin Ancuti, Codruta Orniana Ancuti,Tom Haber, Philippe Bekaert. Enhancing underwater images and vides by fusion. <i>Computer Vision and Pattern Recognition (CVPR), 2012</i></li>
 </ol>
+[[TOP](/research/projects/)]
 
 ---
 
@@ -79,6 +82,8 @@ In this work, depth features are obtained from **[1]**, which itself is a novel 
 <li><a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.309.9111" target="_blank">Y. Lin H. Liao and G. Medioni. Aerial 3D reconstruction with line-constrained dynamic programming. <i>In ICCV,2011.</i></a></li>
 <li><a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.97.7312" target="_blank">Stefan Hinz. Integrating local and global features for vehicle detection in high resolution aerial imagery. <i>ISPRS Archives,2003, XXXIV(3/W8)</i></a></li>
 </ol>
+[[TOP](/research/projects/)]
+
 ------
 
 ### Human Activity Recognition
@@ -111,6 +116,8 @@ Following a pipeline similar to <b>[2]</b>, frames from the calibrated camera ar
 <li>Carlo Tomasi and Takeo Kanade. Detection and tracking of point features. <i>International Journal of Computer Vision, 1991.</i></li>
 <li>P. F. Felzenszwalb, R. B. Girshick, D. McAllester, and D. Ramanan. Object detection with discriminatively trained part based models. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 32(9):1627–1645, 2010.</i></li>
 </ol>
+[[TOP](/research/projects/)]
+
 -----
 
 ### Parallel Simulation of Verilog HDL designs
@@ -134,4 +141,5 @@ Due to advancements in the multi-core precessors, it is possible to simulate par
 </ol>
 
 I have been awarded **Undergraduate Research Award** (URA 01) for contribution to research at IIT Bombay for this work.
-Since this work has been done in close association with a graduate student, most of the implementation details can be found in his thesis report <a href="/reports/Digital-Reference.pdf">here</a>.
+Since this work has been done in close association with a graduate student, most of the implementation details can be found in his thesis report <a href="/reports/Digital-Reference.pdf">here</a>.  
+[[TOP](/research/projects/)]
