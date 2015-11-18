@@ -57,8 +57,7 @@ Instructor: Prof. Martial Hebert
 Intelligent systems often need to read text in their surroundings. 
 There are multiple aspects that make this a challenging problem.
 For instance, locating and identifying the part of image containing text is in itself difficult. 
-We study a recent approach that uses stroke width transform, and analyse the success and failure cases to get a clearer understanding.
-[Write abstract for this project]  
+We study a recent approach that uses stroke width transform, and analyse the success and failure cases to get a clearer understanding.  
 [[Poster](/reports/F14-CV-Poster.pdf)] [[Code](https://github.com/satwikkottur/ImageTextDetector)]
 
 * **Static Vehicle Detection and Analysis in Aerial Imagery using Depth**  
