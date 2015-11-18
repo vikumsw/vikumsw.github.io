@@ -55,6 +55,10 @@ In this project, we attempt to combine this approach with probabilistic topic mo
 *Computer Vision (16-720), Fall 2014*  
 Instructor: Prof. Martial Hebert  
 **Abstract:**  
+Intelligent systems often need to read text in their surroundings. 
+There are multiple aspects that make this a challenging problem.
+For instance, locating and identifying the part of image containing text is in itself difficult. 
+We study a recent approach that uses stroke width transform, and analyse the success and failure cases to get a clearer understanding.
 [Write abstract for this project]  
 [[Poster](/reports/F14-CV-Poster.pdf)] [[Code](https://github.com/satwikkottur/ImageTextDetector)]
 
@@ -66,7 +70,7 @@ This report proposes an approach to automatically detect static vehicles in an o
 The relevant 3D information is generated from a Digital Surface Model (DSM), which is a result of a novel and existing technique to solve camera pose estimation and dense reconstruction simultaneously. 
 Validation using local 2D features, based on existing methods, is then done to ensure better detection rates. 
 Further, performance of the detection system is evaluated by changing the internal parameterization of 3D model generation and the dependence is analyzed.  
-[[Project Page]()] [[Report](/reports/VehicleDetection-Report.pdf)] [[Poster](/reports/VehicleDetection-Poster.pdf)]
+[[Project Page](projects/#static-vehicle-detection-and-analysis-in-aerial-imagery-using-depth)] [[Report](/reports/VehicleDetection-Report.pdf)] [[Poster](/reports/VehicleDetection-Poster.pdf)]
 
 * **Human Activity Recognition**  
 *B.Tech project-I, IIT Bombay, Fall 2013*  
@@ -77,13 +81,23 @@ the behavioral patterns of humans.
 This project is a study on various existing techniques that have been brought together to form a working pipeline to study human activity in social gatherings. 
 Humans are first detected with Deformable part models and tracked as a feature point in 2.5D co-ordinate system using Lucas-Kanade algorithm. 
 Linear cyclic pursuit model is then employed to predict short-term trajectory and understand behavior.  
-[[Project Page]()] [[Report](/reports/HumanActivity-Report.pdf)] [[Poster](HumanActivity-Poster.pdf)]
+[[Project Page](projects/#human-activity-recognition)] [[Report](/reports/HumanActivity-Report.pdf)] [[Poster](HumanActivity-Poster.pdf)]
+
+* **Autonomous Underwater Vehicle (AUV-IITB)**
+*AUVSI and ONR''s International Robosub Competition, San Diego, USA*  
+*Vision (Spring 2012 - Spring 2013)*  
+Guides: Dr. Hemendra Arya and Dr. Leena Vachhani  
+**Details:**  
+Designing and developing an unmanned autonomous underwater vehicle (AUV) that localizes itself and performs realistic missions based on feedback from visual, inertial, acoustic and depth sensors using thrusters and pneumatic actuators.  
+Matsya (sanskrit word for fish) is the AUV from IIT Bombay to participate in the International Robosub competition, San Diego which sees teams of different universities from countries all over the world.  
+[[Project Page](projects/#autonomous-underwater-vehicle-auv-iitb)][[Journal Paper (2012)](/reports/IIT_Bombay_Journal_Paper_2012.pdf)] [[Journal Paper (2013)](/reports/IIT_Bombay_Journal_Paper_2013.pdf)]
 
 * **Parallel Simulation of Verilog HDL designs**  
 *Internship, IIT Bombay, Summer 2012*  
 Guide: Prof. Sachin Patkar  
-Awarded Undergraduate Research Award ([URA 01](http://www.iitb.ac.in/newacadhome/urop.jsp)) for contribution to research at IIT Bombay.
-[[Project Page]()]
+**Abstract:**  
+Digital designs, before synthesis, are simulated on a computer platform to test their efficiency. Maximizing the performance and minimizing the overheads is, therefore, a vital area of research. The main focus of this work is to parallelize the simulation of single clock structural/behavior hardware designs without any time or resource conflict. Thus, resulting in a multi-fold in reduction in execution time. I was awarded **Undergraduate Research Award** ([URA 01](http://www.iitb.ac.in/newacadhome/urop.jsp)) for contribution to research at IIT Bombay.  
+[[Project Page](projects/#parallel-simulation-of-verilog-hdl-designs)]
 
 -----
 
