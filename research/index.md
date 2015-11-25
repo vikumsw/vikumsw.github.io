@@ -24,7 +24,7 @@ Such a multi-modal analysis allows us to learn complementary semantics from both
 3. Evgeny Toropov, Liangyan Gui, Shanghang Zhang, **Satwik Kottur**, Jos&eacute; M. F. Moura  
 [Traffic Flow from a Low Frame Rate City Camera]()  
 *Big Data Processing and Analysis (special session) in IEEE International Conference on Image Processing (ICIP), 2015.*  
-[Project Page] [Paper]
+[[Paper](/reports/ICIP-2015.pdf){:target="_blank"}]
 
 -----
 
