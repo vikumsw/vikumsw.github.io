@@ -62,6 +62,43 @@ svg:not(:root) {
 	}
 }
 
+.affils {
+	@include container;
+	@include clearfix;
+	@media #{$micro} {
+		img {
+			@include grid(12,4);
+            margin:auto;
+            max-width:21%;
+            padding-left:6%;
+            padding-right:6%;
+		}
+		figcaption {
+			@include grid(12,4);
+            margin:auto;
+            text-align:center;
+		}
+	}
+}
+.quarts {
+	@include container;
+	@include clearfix;
+	@media #{$micro} {
+		img {
+			@include grid(12,3);
+            margin:auto;
+            max-width:21%;
+            padding-left:2%;
+            padding-right:2%;
+            vetical-align:center;
+		}
+		figcaption {
+			@include grid(12,3);
+            margin:auto;
+            text-align:center;
+		}
+	}
+}
 /*
    Buttons
    ========================================================================== */

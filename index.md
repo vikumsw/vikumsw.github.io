@@ -13,3 +13,16 @@ I am a second year PhD student at [ECE](http://www.ece.cmu.edu/) department, [Ca
 I have recently developed interests in understanding the semantics and semantic relatedness in language with the help of vision. I have also collaborated with [Prof. Devi Parikh](https://filebox.ece.vt.edu/~parikh/) from Computer Vision Lab ([CVL](https://filebox.ece.vt.edu/~parikh/CVL.html)), Virginia Tech on learning semantics through abstract scenes.
 
 I completed my undergraduate from Department of Electrical Engineering ([EE](http://www.ee.iitb.ac.in/)), [Indian Institute of Technology, Bombay](https://www.iitb.ac.in), in 2014 along with a minor in Computer Science and Engineering ([CSE](https://www.cse.iitb.ac.in/)). I worked under [Prof. Subhasis Chaudhuri](https://www.ee.iitb.ac.in/~sc/) on Human Activity Recognition for my undergraduate thesis. 
+
+----
+<h4 align="center">Affiliations</h4>
+<figure align="center" class="affils">
+    <a href="http://www.cmu.edu/"><img src="/images/cmu-logo.png"></a>
+    <a href="http://www.iitb.ac.in/"><img src="/images/iitb-logo.jpeg"></a>
+    <a href="http://viterbi.usc.edu/"><img src="/images/viterbi-logo.jpg"></a>
+</figure>
+<figure align="center" class="affils">
+    <figcaption>Carnegie Mellon University<br>2014-present</figcaption>
+    <figcaption>IIT Bombay<br>2014-present</figcaption>
+    <figcaption>Viterbi School, USC<br>Summer 2013</figcaption>
+</figure>

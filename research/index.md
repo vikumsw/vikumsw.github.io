@@ -18,7 +18,7 @@ Such a multi-modal analysis allows us to learn complementary semantics from both
 2. Manzil Zaheer, Micheal Wick, **Satwik Kottur**, Jean-Baptiste Tristan  
 [Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models]()  
 *OPT: NIPS Workshop on Optimization for Machine Learning, 2015.*  
-[Paper]
+[[Paper](/reports/NIPSW-SEM-2015.pdf){:target="_blank"}]
 
 3. Evgeny Toropov, Liangyan Gui, Shanghang Zhang, **Satwik Kottur**, Jos&eacute; M. F. Moura  
 [Traffic Flow from a Low Frame Rate City Camera]()  
@@ -59,6 +59,8 @@ For instance, locating and identifying the part of image containing text is in i
 We study a recent approach that uses stroke width transform, and analyse the success and failure cases to get a clearer understanding.  
 [[Poster](/reports/F14-CV-Poster.pdf)] [[Code](https://github.com/satwikkottur/ImageTextDetector)]
 
+<a id="static-vehicle-detection-and-analysis-in-aerial-imagery-using-depth"></a>
+
 * **Static Vehicle Detection and Analysis in Aerial Imagery using Depth**  
 *Internship at [IRIS](http://iris.usc.edu/iris.html), University of Southern California, Summer 2013*  
 Guide: Prof. Gerard Medioni  
@@ -69,6 +71,8 @@ Validation using local 2D features, based on existing methods, is then done to e
 Further, performance of the detection system is evaluated by changing the internal parameterization of 3D model generation and the dependence is analyzed.  
 [[Project Page](projects/#static-vehicle-detection-and-analysis-in-aerial-imagery-using-depth)] [[Report](/reports/VehicleDetection-Report.pdf)] [[Poster](/reports/VehicleDetection-Poster.pdf)]
 
+<a id="human-activity-recognition"></a>  
+ 
 * **Human Activity Recognition**  
 *B.Tech project-I, IIT Bombay, Fall 2013*  
 Guide: Prof. Subhasis Chaudhuri  
@@ -80,6 +84,8 @@ Humans are first detected with Deformable part models and tracked as a feature p
 Linear cyclic pursuit model is then employed to predict short-term trajectory and understand behavior.  
 [[Project Page](projects/#human-activity-recognition)] [[Report](/reports/HumanActivity-Report.pdf)] [[Poster](HumanActivity-Poster.pdf)]
 
+<a id="autonomous-underwater-vehicle-auv-iitb"></a>  
+
 * **Autonomous Underwater Vehicle (AUV-IITB)**  
 *AUVSI and ONR''s International Robosub Competition, San Diego, USA*  
 *Vision (Spring 2012 - Spring 2013)*  
@@ -88,6 +94,8 @@ Guides: Dr. Hemendra Arya and Dr. Leena Vachhani
 Designing and developing an unmanned autonomous underwater vehicle (AUV) that localizes itself and performs realistic missions based on feedback from visual, inertial, acoustic and depth sensors using thrusters and pneumatic actuators.  
 Matsya (sanskrit word for fish) is the AUV from IIT Bombay to participate in the International Robosub competition, San Diego which sees teams of different universities from countries all over the world.  
 [[Project Page](projects/#autonomous-underwater-vehicle-auv-iitb)][[Journal Paper (2012)](/reports/IIT_Bombay_Journal_Paper_2012.pdf)] [[Journal Paper (2013)](/reports/IIT_Bombay_Journal_Paper_2013.pdf)]
+
+<a id="parallel-simulation-of-verilog-hdl-designs"></a>  
 
 * **Parallel Simulation of Verilog HDL designs**  
 *Internship, IIT Bombay, Summer 2012*  
@@ -98,6 +106,6 @@ Digital designs, before synthesis, are simulated on a computer platform to test 
 
 -----
 
-You can find my other projects from undergraduate [here]().  
+You can find my other projects from undergraduate [here](/research/oldprojects).  
 
-[Here]() is a list of all the courses I have taken, both during graduate and undergraduate studies.
+[Here](/research/courses/) is a list of all the courses I have taken, both during graduate and undergraduate studies.

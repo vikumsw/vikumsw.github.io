@@ -47,7 +47,7 @@ To tackle the above problems, we devised adaptive identification and correction 
 <li>Finlayson, G.D., E. Trezzi. Shades of Gray and Color Constancy.</li>
 <li> Cosmin Ancuti, Codruta Orniana Ancuti,Tom Haber, Philippe Bekaert. Enhancing underwater images and vides by fusion. <i>Computer Vision and Pattern Recognition (CVPR), 2012</i></li>
 </ol>
-[[TOP](/research/projects/)] [[BACK](/research/#autonomous-underwater-vehicle-auv-iitb)]
+[[TOP](/research/projects/)]
 
 ---
 
@@ -81,7 +81,7 @@ In this work, depth features are obtained from **[1]**, which itself is a novel 
 1. Y. Lin H. Liao and G. Medioni. Aerial 3D reconstruction with line-constrained dynamic programming. <i>In ICCV,2011.</i> [[Paper](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.309.9111)]
 1. Stefan Hinz. Integrating local and global features for vehicle detection in high resolution aerial imagery. <i>ISPRS Archives,2003, XXXIV(3/W8)</i> [[Paper](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.97.7312)]  
   
-[[TOP](/research/projects/)] [[BACK](/research/#static-vehicle-detection-and-analysis-in-aerial-imagery-using-depth)]
+[[TOP](/research/projects/)]
 
 ------
 
@@ -115,7 +115,7 @@ Following a pipeline similar to <b>[2]</b>, frames from the calibrated camera ar
 <li>Carlo Tomasi and Takeo Kanade. Detection and tracking of point features. <i>International Journal of Computer Vision, 1991.</i></li>
 <li>P. F. Felzenszwalb, R. B. Girshick, D. McAllester, and D. Ramanan. Object detection with discriminatively trained part based models. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 32(9):1627–1645, 2010.</i></li>
 </ol>
-[[TOP](/research/projects/)] [[BACK](/research/#human-activity-recognition)]
+[[TOP](/research/projects/)]
 
 -----
 
@@ -141,4 +141,4 @@ Due to advancements in the multi-core precessors, it is possible to simulate par
 
 I have been awarded **Undergraduate Research Award** (URA 01) for contribution to research at IIT Bombay for this work.
 Since this work has been done in close association with a graduate student, most of the implementation details can be found in his thesis report <a href="/reports/Digital-Reference.pdf">here</a>.  
-[[TOP](/research/projects/)] [[BACK](/research/#parallel-simulation-of-verilog-hdl-designs)]
+[[TOP](/research/projects/)]
