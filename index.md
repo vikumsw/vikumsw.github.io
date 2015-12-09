@@ -23,6 +23,6 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
 </figure>
 <figure align="center" class="affils">
     <figcaption>Carnegie Mellon University<br>2014-present</figcaption>
-    <figcaption>IIT Bombay<br>2014-present</figcaption>
+    <figcaption>IIT Bombay<br>2010-2014</figcaption>
     <figcaption>Viterbi School, USC<br>Summer 2013</figcaption>
 </figure>
