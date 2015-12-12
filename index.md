@@ -21,6 +21,7 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
 
 * Serving as reviewer for [CVPR 2016](http://www.pamitc.org/cvpr16/)
 * Checkout our latest [ArXiv Paper](http://arxiv.org/abs/1511.07067) on "Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings"
+* Checkout our [paper](http://opt-ml.org/papers/OPT2015_paper_52.pdf) on "Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models" that got accepted in NIPS: Optimization for Machine Learning ([OPT](http://opt-ml.org/papers.html)) workshop, 2015
 
 ----
 <h4 align="center">Affiliations</h4>
