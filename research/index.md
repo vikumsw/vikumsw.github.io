@@ -29,6 +29,16 @@ Such a multi-modal analysis allows us to learn complementary semantics from both
 
 ### Other projects
 
+* **Stochastic Expectation Maximization for Latent Variable Models**  
+*Convex Optimization (10-725), Fall 2015*  
+Instructor: Prof. Ryan Tibshirani  
+**Abstract:**  
+In this project, we want to implement and study a type of stochastic optimization. 
+This optimization method based on expectation-maximization will be asynchronous & embarrassingly parallel and thus is useful for inference of latent variable models. 
+The motivation for this stochastic optimization problem comes from a want to directly design a inference procedure from a "comptastical" (computational + statistical) perspective capable of leveraging modern computational resources like GPUs or cloud computing offering massive parallelism. 
+We also find some interesting connection between stochastic expectation-maximization and stochastic gradient descent strengthening validity of proposed method.  
+[[Report](/reports/F15-CO-Report.pdf){:target="_blank"}] [[Poster](/reports/F15-CO-Poster.pptx)]
+
 * **Non-smooth Stochastic Optimization for MCMC**  
 *Probabilistic Graphical Models (10-708), Spring 2015*  
 Instructor: Prof. Eric Xing  
@@ -39,7 +49,7 @@ However, these methods apply to sampling from smooth energy functions only. We p
 (1) SPG-HMC: Stochastic Proximal Gradient-HMC, to enable sampling from non-smooth energy functions without losing the benefits of stochasticity, and 
 (2) Smoothing-SG-HMC. 
 Further, we analyze its properties theoretically and empirically.  
-[[Report](/reports/S15-PGM-Report.pdf)] [[Code](https://github.com/satwikkottur/StochasticMCMC)]
+[[Report](/reports/S15-PGM-Report.pdf){:target="_blank"}] [[Code](https://github.com/satwikkottur/StochasticMCMC)]
 
 * **Movie Recommendation based on Collaborative Topic Modeling**  
 *Machine Learning (10-701), Fall 2014*  
