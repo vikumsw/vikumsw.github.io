@@ -8,7 +8,7 @@ comments: false
 
 *Internship at [IRIS](http://iris.usc.edu/iris.html), University of Southern California, Summer 2013*  
 Guide: Prof. Gerard Medioni  
-[[Report](/reports/VehicleDetection-Report.pdf)] [[Poster](/reports/VehicleDetection-Poster.pdf)]
+[[Report](/reports/VehicleDetection-Report.pdf)] [[Poster](/reports/VehicleDetection-Poster.pdf)]  
 
 Vehicle detection and identification in urban scenarios has many civilian, security and surveillance application. 
 The easy availability of aerial images along with its advantage of spanning wide areas due to large field of view, makes the problem of such identification in aerial images interesting. 
@@ -35,4 +35,4 @@ In this work, depth features are obtained from **[1]**, which itself is a novel 
 1. Y. Lin H. Liao and G. Medioni. Aerial 3D reconstruction with line-constrained dynamic programming. <i>In ICCV,2011.</i> [[Paper](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.309.9111)]
 1. Stefan Hinz. Integrating local and global features for vehicle detection in high resolution aerial imagery. <i>ISPRS Archives,2003, XXXIV(3/W8)</i> [[Paper](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.97.7312)]  
   
-[[TOP](/research/projects/aerial-vehicle/)][[BACK](/research/#static-vehicle-detection-and-analysis-in-aerial-imagery-using-depth)]
+[[TOP](/research/projects/aerial-vehicle/)][[BACK](/research/#static-vehicle-detection-and-analysis-in-aerial-imagery-using-depth)]  

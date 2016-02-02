@@ -35,4 +35,4 @@ Following a pipeline similar to <b>[2]</b>, frames from the calibrated camera ar
 <li>Carlo Tomasi and Takeo Kanade. Detection and tracking of point features. <i>International Journal of Computer Vision, 1991.</i></li>
 <li>P. F. Felzenszwalb, R. B. Girshick, D. McAllester, and D. Ramanan. Object detection with discriminatively trained part based models. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 32(9):1627–1645, 2010.</i></li>
 </ol>
-[[TOP](/research/projects/human-activity/)][[BACK](/research/#human-activity-recognition)]
+[[TOP](/research/projects/human-activity/)][[BACK](/research/#human-activity-recognition)]  
