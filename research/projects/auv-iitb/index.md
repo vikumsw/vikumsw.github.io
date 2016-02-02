@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Autonomous Underwater Vehicle (AUV-IITB)
+title:
 tags: [research, satwik, kottur, cmu, graduate, iitb]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
+
+###Autonomous Underwater Vehicle (AUV-IITB)
 *AUVSI and ONR's International Robosub Competition, San Diego, USA*  
 *Vision (Spring 2012 - Spring 2013)*  
 Guides: Dr. Hemendra Arya and Dr. Leena Vachhani  
