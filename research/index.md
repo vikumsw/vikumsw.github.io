@@ -79,7 +79,7 @@ This report proposes an approach to automatically detect static vehicles in an o
 The relevant 3D information is generated from a Digital Surface Model (DSM), which is a result of a novel and existing technique to solve camera pose estimation and dense reconstruction simultaneously. 
 Validation using local 2D features, based on existing methods, is then done to ensure better detection rates. 
 Further, performance of the detection system is evaluated by changing the internal parameterization of 3D model generation and the dependence is analyzed.  
-[[Project Page](projects/#static-vehicle-detection-and-analysis-in-aerial-imagery-using-depth)] [[Report](/reports/VehicleDetection-Report.pdf)] [[Poster](/reports/VehicleDetection-Poster.pdf)]
+[[Project Page](projects/aerial-vehicle/)] [[Report](/reports/VehicleDetection-Report.pdf)] [[Poster](/reports/VehicleDetection-Poster.pdf)]
 
 <a id="human-activity-recognition"></a>  
  
@@ -92,7 +92,7 @@ the behavioral patterns of humans.
 This project is a study on various existing techniques that have been brought together to form a working pipeline to study human activity in social gatherings. 
 Humans are first detected with Deformable part models and tracked as a feature point in 2.5D co-ordinate system using Lucas-Kanade algorithm. 
 Linear cyclic pursuit model is then employed to predict short-term trajectory and understand behavior.  
-[[Project Page](projects/#human-activity-recognition)] [[Report](/reports/HumanActivity-Report.pdf)] [[Poster](HumanActivity-Poster.pdf)]
+[[Project Page](projects/human-activity/)] [[Report](/reports/HumanActivity-Report.pdf)] [[Poster](HumanActivity-Poster.pdf)]
 
 <a id="autonomous-underwater-vehicle-auv-iitb"></a>  
 
@@ -103,7 +103,7 @@ Guides: Dr. Hemendra Arya and Dr. Leena Vachhani
 **Details:**  
 Designing and developing an unmanned autonomous underwater vehicle (AUV) that localizes itself and performs realistic missions based on feedback from visual, inertial, acoustic and depth sensors using thrusters and pneumatic actuators.  
 Matsya (sanskrit word for fish) is the AUV from IIT Bombay to participate in the International Robosub competition, San Diego which sees teams of different universities from countries all over the world.  
-[[Project Page](projects/#autonomous-underwater-vehicle-auv-iitb)][[Journal Paper (2012)](/reports/IIT_Bombay_Journal_Paper_2012.pdf)] [[Journal Paper (2013)](/reports/IIT_Bombay_Journal_Paper_2013.pdf)]
+[[Project Page](projects/auv-iitb/)][[Journal Paper (2012)](/reports/IIT_Bombay_Journal_Paper_2012.pdf)] [[Journal Paper (2013)](/reports/IIT_Bombay_Journal_Paper_2013.pdf)]
 
 <a id="parallel-simulation-of-verilog-hdl-designs"></a>  
 
@@ -112,7 +112,7 @@ Matsya (sanskrit word for fish) is the AUV from IIT Bombay to participate in the
 Guide: Prof. Sachin Patkar  
 **Abstract:**  
 Digital designs, before synthesis, are simulated on a computer platform to test their efficiency. Maximizing the performance and minimizing the overheads is, therefore, a vital area of research. The main focus of this work is to parallelize the simulation of single clock structural/behavior hardware designs without any time or resource conflict. Thus, resulting in a multi-fold in reduction in execution time. I was awarded **Undergraduate Research Award** ([URA 01](http://www.iitb.ac.in/newacadhome/urop.jsp)) for contribution to research at IIT Bombay.  
-[[Project Page](projects/#parallel-simulation-of-verilog-hdl-designs)]
+[[Project Page](projects/parallel-verilog/)]
 
 -----
 
