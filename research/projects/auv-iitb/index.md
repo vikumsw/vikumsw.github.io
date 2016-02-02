@@ -35,10 +35,9 @@ Machine vision for Autonomous Underwater Vehicles poses three important challeng
 To tackle the above problems, we devised adaptive identification and correction of color casts in images, edge-saliency based color segmentation and adaptive enhancement based on corrected color cast, amongst other techniques formulated after thorough literature survey.
 
 ####References:
-<ol class="references">
-<li>Zuiderveld, Karel. Constrast Limited Adaptive Histogram Equalization.</li>
-<li>P. Felzenszwalb, D. Huttenlocher. Efficient Graph-based Image Segmentation.</li>
-<li>Finlayson, G.D., E. Trezzi. Shades of Gray and Color Constancy.</li>
-<li> Cosmin Ancuti, Codruta Orniana Ancuti,Tom Haber, Philippe Bekaert. Enhancing underwater images and vides by fusion. <i>Computer Vision and Pattern Recognition (CVPR), 2012</i></li>
-</ol>
+1. Zuiderveld, Karel. Constrast Limited Adaptive Histogram Equalization.
+1. P. Felzenszwalb, D. Huttenlocher. Efficient Graph-based Image Segmentation.
+1. Finlayson, G.D., E. Trezzi. Shades of Gray and Color Constancy.
+1. Cosmin Ancuti, Codruta Orniana Ancuti,Tom Haber, Philippe Bekaert. Enhancing underwater images and vides by fusion. *Computer Vision and Pattern Recognition (CVPR), 2012*
+
 [[TOP](/research/projects/auv-iitb/)][[BACK](/research/#autonomous-underwater-vehicle-auv-iitb)]
