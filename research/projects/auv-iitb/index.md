@@ -36,7 +36,7 @@ Machine vision for Autonomous Underwater Vehicles poses three important challeng
 
 To tackle the above problems, we devised adaptive identification and correction of color casts in images, edge-saliency based color segmentation and adaptive enhancement based on corrected color cast, amongst other techniques formulated after thorough literature survey.  
 
-####References:
+#### References:
 1. Zuiderveld, Karel. Constrast Limited Adaptive Histogram Equalization.
 1. P. Felzenszwalb, D. Huttenlocher. Efficient Graph-based Image Segmentation.
 1. Finlayson, G.D., E. Trezzi. Shades of Gray and Color Constancy.

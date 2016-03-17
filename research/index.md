@@ -11,8 +11,10 @@ I recently got interested in understanding the semantic relatedness of words bet
 Such a multi-modal analysis allows us to learn complementary semantics from both text and vision.
 
 ### Publications
-1. **Satwik Kottur**, Ramakrishna Vedantam, Jos&eacute; M. F. Moura, Devi Parikh  
+1. **Satwik Kottur**\*, Ramakrishna Vedantam\*, Jos&eacute; M. F. Moura, Devi Parikh  
+\* equal contribution
 [Visual Word2vec (vis-w2v): Learning Visually grounded Word Embeddings Using Abstract Scenes]()  
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.*
 [Project Page] [[ArXiv](http://arxiv.org/abs/1511.07067)]
 
 2. Manzil Zaheer, Micheal Wick, **Satwik Kottur**, Jean-Baptiste Tristan  

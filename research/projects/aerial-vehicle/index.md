@@ -30,7 +30,7 @@ Depth features have been explored for vehicle identification by B. Yang et al. i
 
 In this work, depth features are obtained from **[1]**, which itself is a novel technique to simultaneously solve for camera positions and dense depth estimation. For a given image, height is backprojected onto it using the 3D model. Haar-like features are used for a small portion of the image using sliding window, to estimate the presence or absence of a vehicle. In order to improve the accuracy, validation is incorporated using the edge-saliency of wire frame model as proposed in <b>[4]</b>. To understand the behavior of the system better, analysis of the performance is performed by varying the parameters of optical flow (regularization term, number of iterations, etc.) used in 3D model generation. A high negative correlation between the regularization term and accuracy of the system can be clearly concluded. This analysis can be used to better the overall system thereby an indicative of the scope for improvement.
 
-####References:
+### References:
 
 1. Zhouliang Kang, Gerard Medioni. 3D Urban Reconstruction from Wide Area Aerial Surveillance Video. *Workshop on Applications for Aerial Video Exploitation (WAVE), 2015*.
 [[Paper](http://www-scf.usc.edu/~zkang/wave2015.pdf)]

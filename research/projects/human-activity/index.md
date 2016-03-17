@@ -29,12 +29,10 @@ Human Activity is one of the most actively pursued topic owing to its wide range
 
 Following a pipeline similar to <b>[2]</b>, frames from the calibrated camera are used to detect humans. Deformable part models (<b>[5]</b>) is employed for the first stage of detection. Due to high computation time, only intermittent frames are used to identify humans and corresponding parts. These detected parts form the feature points and are tracked by the Lucas-Kanade algorithm for remaining frames. This reduces the overall complexity and makes the execution real-time. The feature points on the image plane (2D) are converted to 3D points in world co-ordinates (classically known as 2.5D) using average height plane assumption. Finally, linear cylic pursuit model (LCP) is employed to predict the short-term trajectories of these points for further analysis. Finer details can be found in the report.
 
-####References:
-<ol class="references">
-<li>Viswanthan Srikrishnan and Subhasis Chaudhuri. Crowd motion analysis using linear cyclic pursuit.<i>In Pattern Recognition (ICPR), 2010 20th International Conference on, pages 3340–3343. IEEE, 2010.</i></li>
-<li>Neha Bhargava, Subhasis Chaudhuri and Guna Seetharaman. Linear cyclic pursuit based prediction of personal space violation in surveillance video. <i>Applied Imagery Pattern Recognition Workshop, 2013.</i></li>
-<li>Arpita Sinha. Multi-agent consensus using generalized cyclic pursuit strategies. 2009.</li>
-<li>Carlo Tomasi and Takeo Kanade. Detection and tracking of point features. <i>International Journal of Computer Vision, 1991.</i></li>
-<li>P. F. Felzenszwalb, R. B. Girshick, D. McAllester, and D. Ramanan. Object detection with discriminatively trained part based models. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 32(9):1627–1645, 2010.</i></li>
-</ol>
+### References:
+1. Viswanthan Srikrishnan and Subhasis Chaudhuri. Crowd motion analysis using linear cyclic pursuit.<i>In Pattern Recognition (ICPR), 2010 20th International Conference on, pages 3340–3343. IEEE, 2010.</i>
+1. Neha Bhargava, Subhasis Chaudhuri and Guna Seetharaman. Linear cyclic pursuit based prediction of personal space violation in surveillance video. <i>Applied Imagery Pattern Recognition Workshop, 2013.</i>
+1. Arpita Sinha. Multi-agent consensus using generalized cyclic pursuit strategies. 2009.
+1. Carlo Tomasi and Takeo Kanade. Detection and tracking of point features. <i>International Journal of Computer Vision, 1991.</i>
+1. P. F. Felzenszwalb, R. B. Girshick, D. McAllester, and D. Ramanan. Object detection with discriminatively trained part based models. <i>IEEE Transactions on Pattern Analysis and Machine Intelligence, 32(9):1627–1645, 2010.</i>
 [[TOP](/research/projects/human-activity/)][[BACK](/research/#human-activity-recognition)]  
