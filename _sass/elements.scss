@@ -69,14 +69,18 @@ svg:not(:root) {
 		img {
 			@include grid(12,4);
             margin:auto;
-            max-width:17%;
-            padding-left:8%;
-            padding-right:8%;
+            max-width:19%;
+            padding-left:3%;
+            padding-right:3%;
 		}
 		figcaption {
 			@include grid(12,4);
             margin:auto;
-            text-align:center;
+            max-width:19%;
+            padding-left:3%;
+            padding-right:3%;
+            //margin:auto;
+            //text-align:center;
 		}
 	}
 }
