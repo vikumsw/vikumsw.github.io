@@ -2,7 +2,7 @@
 
 title:            
 locale:           en_US
-url:    https/://satwikkottur.github.io
+url:
 # Jekyll configuration
 
 permalink:   /:categories/:title/
