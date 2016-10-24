@@ -6,16 +6,24 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-My interests broadly lie in the fields of computer vision, image processing, machine learning and natural language processing.
-I recently got interested in understanding the semantic relatedness of words better with the help of vision.
-Such a multi-modal analysis allows us to learn complementary semantics from both text and vision.
+My interests broadly lie in the fields of computer vision, machine learning and natural language processing.
+I recently got interested in understanding semantics from vision and languague by solving multimodal AI tasks like visual question answering, conversational text generation, etc., using deep learning tools.
 
 ### Publications
+1. Manzil Zaheer\*, **Satwik Kottur**\*, Zichao Yang, Jos&eacute; M. F. Moura, Amr Ahmed, Alex Smola  
+\* equal contribution  
+[Canopy -- Fast Sampling with Cover Trees]()  
+*Submitted to International Conference on Artificial Intelligence and Statistics (AISTATS), 2017.*  
+
+1. **Satwik Kottur**, Vitor Carvalho  
+[Exploring Personalized Neural Conversational Models]()  
+*Submitted to AAAI conference on Artificial Intelligence, 2017*
+
 1. **Satwik Kottur**\*, Ramakrishna Vedantam\*, Jos&eacute; M. F. Moura, Devi Parikh  
 \* equal contribution  
 [Visual Word2vec (vis-w2v): Learning Visually grounded Word Embeddings Using Abstract Scenes]()  
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.*  
-[Project Page] [[ArXiv](http://arxiv.org/abs/1511.07067)]
+[[Project Page](http://satwikkottur.github.io/VisualWord2Vec/)] [[ArXiv](http://arxiv.org/abs/1511.07067)]
 
 2. Manzil Zaheer, Micheal Wick, **Satwik Kottur**, Jean-Baptiste Tristan  
 [Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models]()  
@@ -30,6 +38,17 @@ Such a multi-modal analysis allows us to learn complementary semantics from both
 -----
 
 ### Other projects
+
+* **Spoken Dialog System with Audio and Text**  
+*Topics in Deep Learning (10-807), Fall 2016*  
+Instructor: Prof. Ruslan Salakhutdinov  
+**Abstract:**  
+Growth of technology places a lot of importance in human-machine interaction.
+With the advent of deep learning, conversational agents that engage with human through free form natural language have become popular.
+However, most of these attempts are purely text-based and ignore audio cues.
+Emotional information in human-human conversations, encoded in audio cues such as intonation and pitch, often plays an important role that is ignored the text-based approaches.
+In other words, the responses depend on not only *what you say* but also *how you say*.
+Thus, we explore generative models that jointly train on audio and text in this work.
 
 * **Stochastic Expectation Maximization for Latent Variable Models**  
 *Convex Optimization (10-725), Fall 2015*  

@@ -31,5 +31,6 @@ Here are some pictures of my performances (click to expand):
 
 You can find audio/video links to my performances in Pittsburgh below:  
 
+1. Carnatic Ensemble, Carnegie Mellon University, Pittsburgh, Spring 2016. [[YouTube](https://www.youtube.com/watch?v=EgM9GBkBN-w)]
 1. Carnatic Ensemble, Mellon Auditorium, Pittsburgh, Fall 2014. [[SoundCloud](https://soundcloud.com/satwik-kottur/vatapi-hamsadhwani-violin-cmu)]
 1. Carnatic Ensemble, Mellon Auditorium, Pittsburgh, Spring 2014. [[YouTube](https://youtu.be/MKUKtMwCccQ)]

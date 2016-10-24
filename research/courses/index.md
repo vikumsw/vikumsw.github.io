@@ -11,6 +11,8 @@ You can find most of my course work, both during graduate and undergraduate here
 {% include _toc.html %}
 
 ### Graduate
+* [Topics in Deep Learning (10-807)](http://www.cs.cmu.edu/~rsalakhu/10807_2016/)
+* [Visual Learning and Recognition (16-824)](http://graphics.cs.cmu.edu/courses/16-824/2016_spring/)
 * [Convex Optimization (10-725)](http://www.stat.cmu.edu/~ryantibs/convexopt/)
 * [Intermediate Statistics (36-725)](http://www.stat.cmu.edu/~larry/=stat705/)
 * [Probabilistic Graphical Models (10-708)](http://www.cs.cmu.edu/~epxing/Class/10708/)
