@@ -21,6 +21,10 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Nov 2016]</strong></td>
+        <td>Checkout our latest paper, <a href="http://arxiv.org/abs/1611.08669">Visual Dialog</a>, on arXiv</td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Aug 2016]</strong></td>
         <td>Serving as Vice-President of <a href="https://www.ece.cmu.edu/~ego/"> ECE Graduate Organization</a>, CMU</td>
     </tr>
@@ -38,11 +42,11 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
     </tr>
     <tr>
         <td valign="top"><strong>[Nov 2016]</strong></td>
-        <td>Checkout our latest <a href="http://arxiv.org/abs/1511.07067">ArXiv Paper</a> on "Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings"</td>
+        <td>Checkout our latest paper, <a href="http://arxiv.org/abs/1511.07067">"Visual Word2Vec"</a>, on arXiv</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2016]</strong></td>
-        <td>Checkout our <a href="http://opt-ml.org/papers/OPT2015_paper_52.pdf">paper</a> on "Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models" that got accepted in NIPS: Optimization for Machine Learning <a href="http://opt-ml.org/papers.html">OPT</a> workshop, 2015</td>
+        <td>Checkout our paper, <a href="http://opt-ml.org/papers/OPT2015_paper_52.pdf">"Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models"</a>, which got accepted in NIPS: Optimization for Machine Learning <a href="http://opt-ml.org/papers.html">OPT</a> workshop, 2015</td>
     </tr>
 </table>
 ----
