@@ -10,6 +10,10 @@ My interests broadly lie in the fields of computer vision, machine learning and 
 I recently got interested in understanding semantics from vision and languague by solving multimodal AI tasks like visual question answering, conversational text generation, etc., using deep learning tools.
 
 ### Publications
+1. Abhishek Das, **Satwik Kottur**, Khushi Gupta, Avi Singh, Deshraj Yadav, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra  
+[Visual Dialog](http://visualdialog.org/)  
+[[Project Page](http://visualdialog.org/)] [[ArXiv](https://arxiv.org/abs/1611.08669)][[Video](https://vimeo.com/193092429)]
+
 1. Manzil Zaheer\*, **Satwik Kottur**\*, Zichao Yang, Jos&eacute; M. F. Moura, Amr Ahmed, Alex Smola  
 \* equal contribution  
 [Canopy -- Fast Sampling with Cover Trees]()  
