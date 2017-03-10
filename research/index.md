@@ -9,19 +9,26 @@ comments: false
 My interests broadly lie in the fields of computer vision, machine learning and natural language processing.
 I recently got interested in understanding semantics from vision and languague by solving multimodal AI tasks like visual question answering, conversational text generation, etc., using deep learning tools.
 
+### Under Review
+1. Manzil Zaheer\*, **Satwik Kottur**\*, Jos&eacute; M. F. Moura, Amr Ahmed, Alex Smola  
+\* equal contribution  
+[Canopy -- Fast Sampling with Cover Trees]()  
+*Submitted to International Conference on Machine Learning (ICML), 2017.*  
+
+1. Manzil Zaheer\*, **Satwik Kottur**\*, Siamak Ravanbakhsh, Barnabás  Póczos, Ruslan Salakhutdinov, Alex Smola  
+\* equal contribution  
+[Deepsets]()  
+*Submitted to International Conference on Machine Learning (ICML), 2017.*  
+
+1. **Satwik Kottur**, Vitor Carvalho, Xiaoyu Wang  
+[Exploring Personalized Neural Conversational Models]()  
+*Submitted to Internation Conference on Artificial Intelligence (IJCAI), 2017.*  
+
 ### Publications
 1. Abhishek Das, **Satwik Kottur**, Khushi Gupta, Avi Singh, Deshraj Yadav, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra  
 [Visual Dialog](http://visualdialog.org/)  
+*IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.*  
 [[Project Page](http://visualdialog.org/)] [[ArXiv](https://arxiv.org/abs/1611.08669)][[Video](https://vimeo.com/193092429)]
-
-1. Manzil Zaheer\*, **Satwik Kottur**\*, Zichao Yang, Jos&eacute; M. F. Moura, Amr Ahmed, Alex Smola  
-\* equal contribution  
-[Canopy -- Fast Sampling with Cover Trees]()  
-*Submitted to International Conference on Artificial Intelligence and Statistics (AISTATS), 2017.*  
-
-1. **Satwik Kottur**, Vitor Carvalho  
-[Exploring Personalized Neural Conversational Models]()  
-*Submitted to AAAI conference on Artificial Intelligence, 2017*
 
 1. **Satwik Kottur**\*, Ramakrishna Vedantam\*, Jos&eacute; M. F. Moura, Devi Parikh  
 \* equal contribution  

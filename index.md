@@ -16,10 +16,23 @@ I collaborate with [Prof. Devi Parikh](https://filebox.ece.vt.edu/~parikh/) and 
 I completed my undergraduate from Department of Electrical Engineering ([EE](http://www.ee.iitb.ac.in/)), [Indian Institute of Technology, Bombay](https://www.iitb.ac.in), in 2014 along with a minor in Computer Science and Engineering ([CSE](https://www.cse.iitb.ac.in/)). I worked under [Prof. Subhasis Chaudhuri](https://www.ee.iitb.ac.in/~sc/) on Human Activity Recognition for my undergraduate thesis. 
 
 ----
+
 <h3 align="center">News</h3>
-<table align="center">
+<table>
     <col width="15%">
     <col width="85%">
+    <tr>
+        <td valign="top"><strong>[Mar 2017]</strong></td>
+        <td>Our paper on "Visual Dialog" got accepted at CVPR, 2017 as a <b>Spotlight</b>.</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Mar 2017]</strong></td>
+        <td>Interning at <a href="https://research.fb.com/category/facebook-ai-research-fair/">Facebook AI Research (FAIR)</a> this summer, with <a href="http://rohrbach.vision/">Marcus Rohrbach</a></td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Jan 2017]</strong></td>
+        <td>Checkout our latest paper, <a href="http://arxiv.org/abs/1611.08669">Visual Dialog</a>, on arXiv</td>
+    </tr>
     <tr>
         <td valign="top"><strong>[Nov 2016]</strong></td>
         <td>Checkout our latest paper, <a href="http://arxiv.org/abs/1611.08669">Visual Dialog</a>, on arXiv</td>
@@ -37,19 +50,21 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
         <td>Our paper on "Visual Word2Vec" got accepted to CVPR, 2016</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Dec 2016]</strong></td>
+        <td valign="top"><strong>[Dec 2015]</strong></td>
         <td>I would be interning at <a href="https://www.snapchat.com/">Snapchat</a> this summer</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Nov 2016]</strong></td>
+        <td valign="top"><strong>[Nov 2015]</strong></td>
         <td>Checkout our latest paper, <a href="http://arxiv.org/abs/1511.07067">"Visual Word2Vec"</a>, on arXiv</td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Oct 2016]</strong></td>
-        <td>Checkout our paper, <a href="http://opt-ml.org/papers/OPT2015_paper_52.pdf">"Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models"</a>, which got accepted in NIPS: Optimization for Machine Learning <a href="http://opt-ml.org/papers.html">OPT</a> workshop, 2015</td>
+        <td valign="top"><strong>[Oct 2015]</strong></td>
+        <td>Checkout our paper, <a href="http://opt-ml.org/papers/OPT2015_paper_52.pdf">"Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models"</a>, which got accepted in NIPS: <a href="http://opt-ml.org/papers.html">OPT</a> workshop, 2015</td>
     </tr>
 </table>
+
 ----
+
 <h3 align="center">Affiliations</h3>
 <figure align="center" class="affils">
     <a href="http://www.cmu.edu/"><img src="/images/cmu-logo.png"></a>

@@ -31,6 +31,9 @@ Here are some pictures of my performances (click to expand):
 
 You can find audio/video links to my performances in Pittsburgh below:  
 
+1. 'Best Originality' award at Hack-a-song, conducted by Independent Music Organization (IMO), CMU, Fall 2017.
+[[SoundCloud](https://soundcloud.com/cmuimo/the-princess-and-the-dragon)]
+1. Carnatic Performance, Carnegie Mellon University, Pittsburgh, Fall 2017. [[YouTube](https://www.youtube.com/watch?v=IBYunPv3zAI)]
 1. Carnatic Ensemble, Carnegie Mellon University, Pittsburgh, Spring 2016. [[YouTube](https://www.youtube.com/watch?v=EgM9GBkBN-w)]
 1. Carnatic Ensemble, Mellon Auditorium, Pittsburgh, Fall 2014. [[SoundCloud](https://soundcloud.com/satwik-kottur/vatapi-hamsadhwani-violin-cmu)]
 1. Carnatic Ensemble, Mellon Auditorium, Pittsburgh, Spring 2014. [[YouTube](https://youtu.be/MKUKtMwCccQ)]
