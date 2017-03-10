@@ -30,10 +30,6 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
         <td>Interning at <a href="https://research.fb.com/category/facebook-ai-research-fair/">Facebook AI Research (FAIR)</a> this summer, with <a href="http://rohrbach.vision/">Marcus Rohrbach</a></td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Jan 2017]</strong></td>
-        <td>Checkout our latest paper, <a href="http://arxiv.org/abs/1611.08669">Visual Dialog</a>, on arXiv</td>
-    </tr>
-    <tr>
         <td valign="top"><strong>[Nov 2016]</strong></td>
         <td>Checkout our latest paper, <a href="http://arxiv.org/abs/1611.08669">Visual Dialog</a>, on arXiv</td>
     </tr>
