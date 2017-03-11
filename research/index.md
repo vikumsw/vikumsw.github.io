@@ -31,7 +31,7 @@ I recently got interested in understanding semantics from vision and languague b
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1611.08669)
 [<button type="button" class="btn btn-warning">Project Page</button>](http://visualdialog.org/)
-[<button type="button" class="btn btn-success">Video</button>](https://vimeo.com/193092429)  
+[<button type="button" class="btn">Video</button>](https://vimeo.com/193092429)  
 
 1. **Satwik Kottur**\*, Ramakrishna Vedantam\*, Jos&eacute; M. F. Moura, Devi Parikh  
 \* equal contribution  
@@ -75,7 +75,7 @@ This optimization method based on expectation-maximization will be asynchronous 
 The motivation for this stochastic optimization problem comes from a want to directly design a inference procedure from a "comptastical" (computational + statistical) perspective capable of leveraging modern computational resources like GPUs or cloud computing offering massive parallelism. 
 We also find some interesting connection between stochastic expectation-maximization and stochastic gradient descent strengthening validity of proposed method.  
 [<button type="button" class="btn btn-info">Report</button>](/reports/F15-CO-Report.pdf){:target="_blank"}
-[<button type="button" class="btn btn-warning">Poster</button>](/reports/F15-CO-Poster.pptx)  
+[<button type="button" class="btn btn-success">Poster</button>](/reports/F15-CO-Poster.pptx)  
 
 * **Non-smooth Stochastic Optimization for MCMC**  
 *Probabilistic Graphical Models (10-708), Spring 2015*  
@@ -97,7 +97,7 @@ Instructor: Prof. Geoff Gordon and Prof. Aarti Singh
 Traditional collaborative filtering relies on ratings provided by viewers in the movie-watching community to make recommendations to the user.
 In this project, we attempt to combine this approach with probabilistic topic modeling techniques to make recommendations that consist not only of movies that are popular in the community, but also those that are similar in content to movies that the user has enjoyed in the past.  
 [<button type="button" class="btn btn-info">Report</button>](/reports/F14-ML-Report.pdf){:target="_blank"}
-[<button type="button" class="btn btn-warning">Poster</button>](/reports/F14-ML-Poster.pptx)
+[<button type="button" class="btn btn-success">Poster</button>](/reports/F14-ML-Poster.pptx)
 [<button type="button" class="btn btn-danger">Code</button>](https://github.com/satwikkottur/MovieRecommend)  
 
 * **Detecting Text in Natural Images**  
@@ -108,7 +108,7 @@ Intelligent systems often need to read text in their surroundings.
 There are multiple aspects that make this a challenging problem.
 For instance, locating and identifying the part of image containing text is in itself difficult. 
 We study a recent approach that uses stroke width transform, and analyse the success and failure cases to get a clearer understanding.  
-[<button type="button" class="btn btn-warning">Poster</button>](/reports/F14-CV-Poster.pptx)
+[<button type="button" class="btn btn-success">Poster</button>](/reports/F14-CV-Poster.pptx)
 [<button type="button" class="btn btn-danger">Code</button>](https://github.com/satwikkottur/ImageTextDetector)  
 
 <a id="static-vehicle-detection-and-analysis-in-aerial-imagery-using-depth"></a>
@@ -122,8 +122,8 @@ The relevant 3D information is generated from a Digital Surface Model (DSM), whi
 Validation using local 2D features, based on existing methods, is then done to ensure better detection rates. 
 Further, performance of the detection system is evaluated by changing the internal parameterization of 3D model generation and the dependence is analyzed.  
 [<button type="button" class="btn btn-info">Report</button>](/reports/VehicleDetection-Report.pdf){:target="_blank"}
-[<button type="button" class="btn btn-warning">Poster</button>](/reports/VehicleDetection-Poster.pptx)
-[<button type="button" class="btn btn-success">Project Page</button>](projects/aerial-vehicle/)  
+[<button type="button" class="btn btn-success">Poster</button>](/reports/VehicleDetection-Poster.pptx)
+[<button type="button" class="btn btn-warning">Project Page</button>](projects/aerial-vehicle/)  
 
 <a id="human-activity-recognition"></a>  
  
@@ -137,8 +137,8 @@ This project is a study on various existing techniques that have been brought to
 Humans are first detected with Deformable part models and tracked as a feature point in 2.5D co-ordinate system using Lucas-Kanade algorithm. 
 Linear cyclic pursuit model is then employed to predict short-term trajectory and understand behavior.  
 [<button type="button" class="btn btn-info">Report</button>](/reports/HumanActivity-Report.pdf){:target="_blank"}
-[<button type="button" class="btn btn-warning">Poster</button>](/reports/HumanActivity-Poster.pptx)
-[<button type="button" class="btn btn-success">Project Page</button>](projects/human-activity)  
+[<button type="button" class="btn btn-success">Poster</button>](/reports/HumanActivity-Poster.pptx)
+[<button type="button" class="btn btn-warning">Project Page</button>](projects/human-activity)  
 
 <a id="autonomous-underwater-vehicle-auv-iitb"></a>  
 
@@ -151,7 +151,7 @@ Designing and developing an unmanned autonomous underwater vehicle (AUV) that lo
 Matsya (sanskrit word for fish) is the AUV from IIT Bombay to participate in the International Robosub competition, San Diego which sees teams of different universities from countries all over the world.  
 [<button type="button" class="btn btn-info">Journal (2012)</button>](/reports/IIT_Bombay_Journal_Paper_2012.pdf)
 [<button type="button" class="btn btn-info">Journal (2013)</button>](/reports/IIT_Bombay_Journal_Paper_2013.pdf)
-[<button type="button" class="btn btn-success">Project Page</button>](projects/auv-iitb/)  
+[<button type="button" class="btn btn-warning">Project Page</button>](projects/auv-iitb/)  
 
 <a id="parallel-simulation-of-verilog-hdl-designs"></a>  
 
@@ -160,7 +160,7 @@ Matsya (sanskrit word for fish) is the AUV from IIT Bombay to participate in the
 Guide: Prof. Sachin Patkar  
 **Abstract:**  
 Digital designs, before synthesis, are simulated on a computer platform to test their efficiency. Maximizing the performance and minimizing the overheads is, therefore, a vital area of research. The main focus of this work is to parallelize the simulation of single clock structural/behavior hardware designs without any time or resource conflict. Thus, resulting in a multi-fold in reduction in execution time. I was awarded **Undergraduate Research Award** ([URA 01](http://www.iitb.ac.in/newacadhome/urop.jsp)) for contribution to research at IIT Bombay.  
-[<button type="button" class="btn btn-success">Project Page</button>](projects/parallel-verilog/)  
+[<button type="button" class="btn btn-warning">Project Page</button>](projects/parallel-verilog/)  
 
 -----
 
