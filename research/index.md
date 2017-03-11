@@ -9,6 +9,7 @@ comments: false
 My interests broadly lie in the fields of computer vision, machine learning and natural language processing.
 I recently got interested in understanding semantics from vision and languague by solving multimodal AI tasks like visual question answering, conversational text generation, etc., using deep learning tools.
 
+
 ### Under Review
 1. Manzil Zaheer\*, **Satwik Kottur**\*, Jos&eacute; M. F. Moura, Amr Ahmed, Alex Smola  
 \* equal contribution  
@@ -28,23 +29,26 @@ I recently got interested in understanding semantics from vision and languague b
 1. Abhishek Das, **Satwik Kottur**, Khushi Gupta, Avi Singh, Deshraj Yadav, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra  
 [Visual Dialog](http://visualdialog.org/)  
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.*  
-[[Project Page](http://visualdialog.org/)] [[ArXiv](https://arxiv.org/abs/1611.08669)][[Video](https://vimeo.com/193092429)]
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1611.08669)
+[<button type="button" class="btn btn-warning">Project Page</button>](http://visualdialog.org/)
+[<button type="button" class="btn btn-success">Video</button>](https://vimeo.com/193092429)  
 
 1. **Satwik Kottur**\*, Ramakrishna Vedantam\*, Jos&eacute; M. F. Moura, Devi Parikh  
 \* equal contribution  
 [Visual Word2vec (vis-w2v): Learning Visually grounded Word Embeddings Using Abstract Scenes]()  
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.*  
-[[Project Page](http://satwikkottur.github.io/VisualWord2Vec/)] [[ArXiv](http://arxiv.org/abs/1511.07067)]
+[<button type="button" class="btn btn-info">ArXiv</button>](http://arxiv.org/abs/1511.07067)
+[<button type="button" class="btn btn-warning">Project Page</button>](http://satwikkottur.github.io/VisualWord2Vec/)  
 
 2. Manzil Zaheer, Micheal Wick, **Satwik Kottur**, Jean-Baptiste Tristan  
 [Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models]()  
 *OPT: NIPS Workshop on Optimization for Machine Learning, 2015.*  
-[[Paper](/reports/NIPSW-SEM-2015.pdf){:target="_blank"}]
+[<button type="button" class="btn btn-info">Paper</button>](/reports/NIPSW-SEM-2015.pdf){:target="_blank"}   
 
 3. Evgeny Toropov, Liangyan Gui, Shanghang Zhang, **Satwik Kottur**, Jos&eacute; M. F. Moura  
 [Traffic Flow from a Low Frame Rate City Camera]()  
 *Big Data Processing and Analysis (special session) in IEEE International Conference on Image Processing (ICIP), 2015.*  
-[[Paper](/reports/ICIP-2015.pdf){:target="_blank"}]
+[<button type="button" class="btn btn-info">Paper</button>](/reports/ICIP-2015.pdf){:target="_blank"}   
 
 -----
 

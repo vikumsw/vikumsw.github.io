@@ -76,3 +76,18 @@
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a {
 	@include transition(all .2s ease);
 }
+
+.small-btn {
+    width: 50px;
+    height: 25px;
+}
+
+.medium-btn {
+    width: 70px;
+    height: 30px;
+}
+
+.big-btn {
+    width: 90px;
+    height: 40px;
+}

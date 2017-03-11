@@ -111,14 +111,15 @@ svg:not(:root) {
 
 .btn {
   display: inline-block;
-  margin-bottom: 20px;
-  padding: 8px 20px;
+  margin-bottom: 10px;
+  padding: 8px 10px;
   @include font-rem(14);
   font-family: $heading-font;
   font-weight: 700;
   background-color: $primary;
   color: $white;
   border-width: 2px !important;
+  height:20px;
   border-style: solid !important;
   border-color: $primary;
   text-decoration: none !important;
