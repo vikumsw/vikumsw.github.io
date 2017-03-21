@@ -23,6 +23,14 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Mar 2017]</strong></td>
+        <td>Checkout our latest paper, <a href="https://arxiv.org/abs/1703.06585">Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning</a>, on arXiv</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Mar 2017]</strong></td>
+        <td>Checkout our latest paper, <a href="https://arxiv.org/abs/1703.06114">Deepsets</a>, on arXiv</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Mar 2017]</strong></td>
         <td>Our paper on "Visual Dialog" got accepted at CVPR, 2017 as a <b>Spotlight</b>.</td>
     </tr>
     <tr>

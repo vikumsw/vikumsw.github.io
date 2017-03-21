@@ -11,15 +11,21 @@ I recently got interested in understanding semantics from vision and languague b
 
 
 ### Under Review
+1. Abhishek Das\*, **Satwik Kottur**\*, Jos&eacute; M. F. Moura, Stefan Lee, Dhruv Batra  
+\* equal contribution  
+[Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning]()  
+*Submitted to International Conference on Computer Vision (ICCV), 2017.*  
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1703.06585)
+
 1. Manzil Zaheer\*, **Satwik Kottur**\*, Jos&eacute; M. F. Moura, Amr Ahmed, Alex Smola  
 \* equal contribution  
 [Canopy -- Fast Sampling with Cover Trees]()  
 *Submitted to International Conference on Machine Learning (ICML), 2017.*  
 
-1. Manzil Zaheer\*, **Satwik Kottur**\*, Siamak Ravanbakhsh, Barnabás  Póczos, Ruslan Salakhutdinov, Alex Smola  
-\* equal contribution  
+1. Manzil Zaheer, **Satwik Kottur**, Siamak Ravanbakhsh, Barnabás  Póczos, Ruslan Salakhutdinov, Alex Smola  
 [Deepsets]()  
 *Submitted to International Conference on Machine Learning (ICML), 2017.*  
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1703.06114)
 
 1. **Satwik Kottur**, Vitor Carvalho, Xiaoyu Wang  
 [Exploring Personalized Neural Conversational Models]()  
