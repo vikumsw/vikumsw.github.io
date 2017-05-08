@@ -22,6 +22,14 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Apr 2017]</strong></td>
+        <td>Our paper on "Exploring Personalized Neural Conversational Models" got accepted at IJCAI, 2017</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Apr 2017]</strong></td>
+        <td>Find our Github code for Visual Dialog <a href="https://github.com/batra-mlp-lab/visdial">here</a></td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Mar 2017]</strong></td>
         <td>Checkout our latest paper, <a href="https://arxiv.org/abs/1703.06585">Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning</a>, on arXiv</td>
     </tr>
@@ -31,7 +39,7 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
     </tr>
     <tr>
         <td valign="top"><strong>[Mar 2017]</strong></td>
-        <td>Our paper on "Visual Dialog" got accepted at CVPR, 2017 as a <b>Spotlight</b>.</td>
+        <td>Our paper on <a href="https://visualdialog.org/">Visual Dialog</a> got accepted at CVPR, 2017 as a <b>Spotlight</b></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Mar 2017]</strong></td>
@@ -51,7 +59,7 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
     </tr>
     <tr>
         <td valign="top"><strong>[Mar 2016]</strong></td>
-        <td>Our paper on "Visual Word2Vec" got accepted to CVPR, 2016</td>
+        <td>Our paper on <a href="http://arxiv.org/abs/1511.07067">Visual Word2Vec</a> got accepted to CVPR, 2016</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Dec 2015]</strong></td>
@@ -59,11 +67,11 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
     </tr>
     <tr>
         <td valign="top"><strong>[Nov 2015]</strong></td>
-        <td>Checkout our latest paper, <a href="http://arxiv.org/abs/1511.07067">"Visual Word2Vec"</a>, on arXiv</td>
+        <td>Checkout our latest paper, <a href="http://arxiv.org/abs/1511.07067">Visual Word2Vec</a>, on arXiv</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Oct 2015]</strong></td>
-        <td>Checkout our paper, <a href="http://opt-ml.org/papers/OPT2015_paper_52.pdf">"Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models"</a>, which got accepted in NIPS: <a href="http://opt-ml.org/papers.html">OPT</a> workshop, 2015</td>
+        <td>Checkout our paper, <a href="http://opt-ml.org/papers/OPT2015_paper_52.pdf">Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models</a>, which got accepted in NIPS: <a href="http://opt-ml.org/papers.html">OPT</a> workshop, 2015</td>
     </tr>
 </table>
 

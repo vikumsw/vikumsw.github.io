@@ -11,6 +11,10 @@ I recently got interested in understanding semantics from vision and languague b
 
 
 ### Under Review
+1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Stefan Lee, Dhruv Batra  
+[Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog]()  
+*Submitted to Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017.*  
+
 1. Abhishek Das\*, **Satwik Kottur**\*, Jos&eacute; M. F. Moura, Stefan Lee, Dhruv Batra  
 \* equal contribution  
 [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning]()  
@@ -27,17 +31,19 @@ I recently got interested in understanding semantics from vision and languague b
 *Submitted to International Conference on Machine Learning (ICML), 2017.*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1703.06114)
 
+
+### Publications
 1. **Satwik Kottur**, Vitor Carvalho, Xiaoyu Wang  
 [Exploring Personalized Neural Conversational Models]()  
 *Submitted to Internation Conference on Artificial Intelligence (IJCAI), 2017.*  
 
-### Publications
 1. Abhishek Das, **Satwik Kottur**, Khushi Gupta, Avi Singh, Deshraj Yadav, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra  
 [Visual Dialog](http://visualdialog.org/)  
-*IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.*  
+**Spotlight**, *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1611.08669)
 [<button type="button" class="btn btn-warning">Project Page</button>](http://visualdialog.org/)
-[<button type="button" class="btn">Video</button>](https://vimeo.com/193092429)  
+[<button type="button" class="btn">Video</button>](https://vimeo.com/193092429)
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/batra-mlp-lab/visdial)  
 
 1. **Satwik Kottur**\*, Ramakrishna Vedantam\*, Jos&eacute; M. F. Moura, Devi Parikh  
 \* equal contribution  
