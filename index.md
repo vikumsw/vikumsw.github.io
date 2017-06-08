@@ -22,8 +22,12 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[May 2017]</strong></td>
+        <td>Our paper on <a>Canopy</a> got accepted at ICML, 2017</td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Apr 2017]</strong></td>
-        <td>Our paper on "Exploring Personalized Neural Conversational Models" got accepted at IJCAI, 2017</td>
+        <td>Our paper on <a>Exploring Personalized Neural Conversational Models</a> got accepted at IJCAI, 2017</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Apr 2017]</strong></td>

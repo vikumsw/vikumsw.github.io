@@ -21,11 +21,6 @@ I recently got interested in understanding semantics from vision and languague b
 *Submitted to International Conference on Computer Vision (ICCV), 2017.*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1703.06585)
 
-1. Manzil Zaheer\*, **Satwik Kottur**\*, Jos&eacute; M. F. Moura, Amr Ahmed, Alex Smola  
-\* equal contribution  
-[Canopy -- Fast Sampling with Cover Trees]()  
-*Submitted to International Conference on Machine Learning (ICML), 2017.*  
-
 1. Manzil Zaheer, **Satwik Kottur**, Siamak Ravanbakhsh, Barnabás  Póczos, Ruslan Salakhutdinov, Alex Smola  
 [Deepsets]()  
 *Submitted to International Conference on Machine Learning (ICML), 2017.*  
@@ -33,9 +28,14 @@ I recently got interested in understanding semantics from vision and languague b
 
 
 ### Publications
+1. Manzil Zaheer\*, **Satwik Kottur**\*, Jos&eacute; M. F. Moura, Amr Ahmed, Alex Smola  
+\* equal contribution  
+[Canopy -- Fast Sampling with Cover Trees]()  
+*International Conference on Machine Learning (ICML), 2017.*  
+
 1. **Satwik Kottur**, Vitor Carvalho, Xiaoyu Wang  
 [Exploring Personalized Neural Conversational Models]()  
-*Submitted to Internation Conference on Artificial Intelligence (IJCAI), 2017.*  
+*Internation Conference on Artificial Intelligence (IJCAI), 2017.*  
 
 1. Abhishek Das, **Satwik Kottur**, Khushi Gupta, Avi Singh, Deshraj Yadav, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra  
 [Visual Dialog](http://visualdialog.org/)  
