@@ -22,6 +22,19 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Aug 2017]</strong></td>
+        <td>Our paper on <a>Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning</a> has been accepted as an <b> oral</b> at ICCV, 2017.</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[July 2017]</strong></td>
+        <td>Our paper on <a>Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog</a> has been accepted as an <b> oral</b> at EMNLP, 2017.</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[June 2017]</strong></td>
+        <td>Checkout our latest paper, <a href="https://arxiv.org/abs/1706.08502">Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog</a>, on Arxiv.
+        Github code available <a href="https://github.com/batra-mlp-lab/lang-emerge">here</a>.</td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[May 2017]</strong></td>
         <td>Our paper on <a>Canopy</a> got accepted at ICML, 2017</td>
     </tr>

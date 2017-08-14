@@ -11,15 +11,6 @@ I recently got interested in understanding semantics from vision and languague b
 
 
 ### Under Review
-1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Stefan Lee, Dhruv Batra  
-[Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog]()  
-*Submitted to Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017.*  
-
-1. Abhishek Das\*, **Satwik Kottur**\*, Jos&eacute; M. F. Moura, Stefan Lee, Dhruv Batra  
-\* equal contribution  
-[Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning]()  
-*Submitted to International Conference on Computer Vision (ICCV), 2017.*  
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1703.06585)
 
 1. Manzil Zaheer, **Satwik Kottur**, Siamak Ravanbakhsh, Barnabás  Póczos, Ruslan Salakhutdinov, Alex Smola  
 [Deepsets]()  
@@ -28,14 +19,30 @@ I recently got interested in understanding semantics from vision and languague b
 
 
 ### Publications
+1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Stefan Lee, Dhruv Batra  
+[Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog]()  
+**Oral Presentation**  
+*Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017.*  
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1706.08502)
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/batra-mlp-lab/lang-emerge)  
+
+1. Abhishek Das\*, **Satwik Kottur**\*, Jos&eacute; M. F. Moura, Stefan Lee, Dhruv Batra  
+\* equal contribution  
+[Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning]()  
+**Oral Presentation**  
+*International Conference on Computer Vision (ICCV), 2017.*  
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1703.06585)  
+
 1. Manzil Zaheer\*, **Satwik Kottur**\*, Jos&eacute; M. F. Moura, Amr Ahmed, Alex Smola  
 \* equal contribution  
 [Canopy -- Fast Sampling with Cover Trees]()  
 *International Conference on Machine Learning (ICML), 2017.*  
+[<button type="button" class="btn btn-info">Paper</button>](http://proceedings.mlr.press/v70/zaheer17b.html)  
 
 1. **Satwik Kottur**, Vitor Carvalho, Xiaoyu Wang  
 [Exploring Personalized Neural Conversational Models]()  
 *Internation Conference on Artificial Intelligence (IJCAI), 2017.*  
+[<button type="button" class="btn btn-info">Paper</button>](https://www.ijcai.org/proceedings/2017/521)  
 
 1. Abhishek Das, **Satwik Kottur**, Khushi Gupta, Avi Singh, Deshraj Yadav, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra  
 [Visual Dialog](http://visualdialog.org/)  
