@@ -7,21 +7,19 @@ comments: false
 ---
 
 My interests broadly lie in the fields of computer vision, machine learning and natural language processing.
-I recently got interested in understanding semantics from vision and languague by solving multimodal AI tasks like visual question answering, conversational text generation, etc., using deep learning tools.
+I recently got interested in understanding semantics from vision and languague by solving multimodal AI tasks like visual dialog, visual question answering, conversational text generation, etc., using deep learning tools.
 
-
-### Under Review
+### Publications
 
 1. Manzil Zaheer, **Satwik Kottur**, Siamak Ravanbakhsh, Barnabás  Póczos, Ruslan Salakhutdinov, Alex Smola  
 [Deepsets]()  
-*Submitted to International Conference on Machine Learning (ICML), 2017.*  
+**Oral Presentation**  
+*Conference on Neural Information Processing Systems (NIPS), 2017.*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1703.06114)
 
-
-### Publications
 1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Stefan Lee, Dhruv Batra  
 [Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog]()  
-**Oral Presentation**  
+**Best Short Paper Award**  
 *Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017.*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1706.08502)
 [<button type="button" class="btn btn-danger">Code</button>](https://github.com/batra-mlp-lab/lang-emerge)  
