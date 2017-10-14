@@ -132,5 +132,5 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
         <td>Viterbi School, USC<br>Summer 2013</td>
         <td>Snapchat Research<br>Summer 2016</td>
         <td>Facebook AI Research<br>Summer 2017</td>
-    <tr>
+    </tr>
 </table>
