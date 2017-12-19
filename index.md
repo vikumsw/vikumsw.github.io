@@ -11,7 +11,7 @@ Hi!
 I am a fourth year PhD student at [ECE](http://www.ece.cmu.edu/) department, [Carnegie Mellon University](http://www.cmu.edu/). I work with [Prof. Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/), in the fields of computer vision, natural language and machine learning. 
 
 My interests are in the intersection of natural language and computer vision, and broadly, to solve multimodal AI problems using deep learning techniques.
-I collaborate with [Prof. Devi Parikh](https://filebox.ece.vt.edu/~parikh/) and [Prof. Dhruv Batra](https://filebox.ece.vt.edu/~dbatra/) from Computer Vision Lab ([CVL](https://filebox.ece.vt.edu/~parikh/CVL.html)), Virginia Tech on tasks that require multimodal reasoning (vision and language), for example, visual dialog ([VisDial](visualdialog.org)).
+I closely collaborate with [Prof. Devi Parikh](https://filebox.ece.vt.edu/~parikh/) and [Prof. Dhruv Batra](https://filebox.ece.vt.edu/~dbatra/) from Computer Vision Lab ([CVL](https://filebox.ece.vt.edu/~parikh/CVL.html)), Virginia Tech on tasks that require multimodal reasoning (vision and language), for example, visual dialog ([VisDial](visualdialog.org)).
 
 I completed my undergraduate from Department of Electrical Engineering ([EE](http://www.ee.iitb.ac.in/)), [Indian Institute of Technology, Bombay](https://www.iitb.ac.in), in 2014 along with a minor in Computer Science and Engineering ([CSE](https://www.cse.iitb.ac.in/)). I worked under [Prof. Subhasis Chaudhuri](https://www.ee.iitb.ac.in/~sc/) on Human Activity Recognition for my undergraduate thesis. 
 
@@ -21,6 +21,14 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+    <tr>
+        <td valign="top"><strong>[Dec 2017]</strong></td>
+        <td>I received the inaugural <a href='https://snapresearchfellowship.splashthat.com/'>Snap Inc. Research Fellowship</a>, 2017</td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Dec 2017]</strong></td>
+        <td>I received a <a href='https://nips.cc/Conferences/2017/Awards'>Best Reviewer Award</a> at NIPS 2017</td>
+    </tr>
     <tr>
         <td valign="top"><strong>[Sept 2017]</strong></td>
         <td>Our paper on <a>Deepsets</a> has been accepted as an <b> oral</b> at NIPS, 2017</td>
