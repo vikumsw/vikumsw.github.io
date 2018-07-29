@@ -26,12 +26,18 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[July 2018]</strong></td>
+        <td>Our paper on <a>Visual Coreference Resolution in Visual Dialog</a> 
+        has been accepted at <a href="https://eccv2018.org/">ECCV, 2018</a>
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Jan 2018]</strong></td>
         <td>Interning at <a href="https://ai.google/research/teams/brain">Google Brain</a> this summer, with <a href="https://ai.stanford.edu/~gal/">Gal Chechik</a> and <a href="http://bengio.abracadoudou.com/">Samy Bengio</a></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Dec 2017]</strong></td>
-        <td>I received the inaugural <a href='https://snapresearchfellowship.splashthat.com/'>Snap Inc. Research Fellowship</a>, 2017</td>
+        <td>I was awarded the inaugural <a href='https://snapresearchfellowship.splashthat.com/'>Snap Inc. Research Fellowship</a>, 2017</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Dec 2017]</strong></td>
@@ -133,6 +139,13 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
             <a href="http://viterbi.usc.edu/">
             <img src="/images/viterbi-logo.jpg"></a>
         </td>
+    <tr>
+    <tr>
+        <td>Carnegie Mellon University<br>2014-present</td>
+        <td>IIT Bombay<br>2010-2014</td>
+        <td>Viterbi School, USC<br>Summer 2013</td>
+    </tr>
+    </tr>
         <td>
             <a href="https://www.snapchat.com/">
             <img src="/images/snapchat-logo.png"></a>
@@ -141,12 +154,14 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
             <a href="https://research.fb.com/category/facebook-ai-research-fair/">
             <img src="/images/fair-logo.png"></a>
         </td>
+        <td>
+            <a href="https://ai.google/research/teams/brain">
+            <img src="/images/google-logo.png"></a>
+        </td>
     </tr>
     <tr>
-        <td>Carnegie Mellon University<br>2014-present</td>
-        <td>IIT Bombay<br>2010-2014</td>
-        <td>Viterbi School, USC<br>Summer 2013</td>
         <td>Snapchat Research<br>Summer 2016</td>
         <td>Facebook AI Research<br>Summer 2017</td>
+        <td>Google Brain<br>Summer 2018</td>
     </tr>
 </table>

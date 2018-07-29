@@ -11,6 +11,11 @@ I recently got interested in understanding semantics from vision and languague b
 
 ### Publications
 
+1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra, 
+Marcus Rohrbach   
+[Visual Coreference Resolution in Visual Dialog using Neural Module Networks]() 
+*European Conference on Computer Vision (ECCV), 2018.*  
+
 1. Manzil Zaheer, **Satwik Kottur**, Siamak Ravanbakhsh, Barnabás  Póczos, Ruslan Salakhutdinov, Alex Smola  
 [Deepsets]()  
 **Oral Presentation**  
