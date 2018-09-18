@@ -8,7 +8,7 @@ comments: false
 
 Hi!
 
-I am a fourth year PhD student at [ECE](http://www.ece.cmu.edu/) department, [Carnegie Mellon University](http://www.cmu.edu/). I work with [Prof. Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/), in the fields of computer vision, natural language and machine learning. 
+I am a fifth year PhD student at [ECE](http://www.ece.cmu.edu/) department, [Carnegie Mellon University](http://www.cmu.edu/). I work with [Prof. Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/), in the fields of computer vision, natural language and machine learning. 
 
 My interests are in the intersection of natural language and computer vision, and 
 broadly, to solve multimodal AI problems using deep learning techniques.

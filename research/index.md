@@ -13,14 +13,17 @@ I recently got interested in understanding semantics from vision and languague b
 
 1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra, 
 Marcus Rohrbach   
-[Visual Coreference Resolution in Visual Dialog using Neural Module Networks]() 
+[Visual Coreference Resolution in Visual Dialog using Neural Module Networks]()  
 *European Conference on Computer Vision (ECCV), 2018.*  
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1809.01816)
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/facebookresearch/corefnmn)  
 
 1. Manzil Zaheer, **Satwik Kottur**, Siamak Ravanbakhsh, Barnabás  Póczos, Ruslan Salakhutdinov, Alex Smola  
 [Deepsets]()  
 **Oral Presentation**  
 *Conference on Neural Information Processing Systems (NIPS), 2017.*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1703.06114)
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/manzilzaheer/DeepSets)  
 
 1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Stefan Lee, Dhruv Batra  
 [Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog]()  
@@ -34,7 +37,8 @@ Marcus Rohrbach
 [Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning]()  
 **Oral Presentation**  
 *International Conference on Computer Vision (ICCV), 2017.*  
-[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1703.06585)  
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1703.06585)
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/batra-mlp-lab/visdial-rl)  
 
 1. Manzil Zaheer\*, **Satwik Kottur**\*, Jos&eacute; M. F. Moura, Amr Ahmed, Alex Smola  
 \* equal contribution  
