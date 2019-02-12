@@ -20,7 +20,7 @@ require multimodal reasoning (vision and language), for example, visual dialog
 I completed my undergraduate from Department of Electrical Engineering ([EE](http://www.ee.iitb.ac.in/)), [Indian Institute of Technology, Bombay](https://www.iitb.ac.in), in 2014 along with a minor in Computer Science and Engineering ([CSE](https://www.cse.iitb.ac.in/)). I worked under [Prof. Subhasis Chaudhuri](https://www.ee.iitb.ac.in/~sc/) on Human Activity Recognition for my undergraduate thesis. 
 
 <button type="button" class="btn btn-danger" style="pointer-events:none;">NEW</button>
-**I am currently on the job market for industry research positions in AI.**  
+**I am currently on the job market for industrial research positions in AI.**  
 [[Google Scholar](https://scholar.google.com/citations?user=iQxXG8kAAAAJ&hl=en)]
 
 ----
