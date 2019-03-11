@@ -30,9 +30,16 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[March 2019]</strong></td>
+        <td>Our paper, <a href="https://arxiv.org/abs/1903.03166">CLEVR-Dialog:
+        A Diagnostic Dialog Dataset</a>,
+        has been accepted to <a href="https://naacl2019.org">NAACL, 2019</a>
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[July 2018]</strong></td>
         <td>Our paper on <a>Visual Coreference Resolution in Visual Dialog</a> 
-        has been accepted at <a href="https://eccv2018.org/">ECCV, 2018</a>
+        has been accepted to <a href="https://eccv2018.org/">ECCV, 2018</a>
         </td>
     </tr>
     <tr>
@@ -49,19 +56,19 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
     </tr>
     <tr>
         <td valign="top"><strong>[Sept 2017]</strong></td>
-        <td>Our paper on <a>Deepsets</a> has been accepted as an <b> oral</b> at NIPS, 2017</td>
+        <td>Our paper on <a>Deepsets</a> has been accepted as an <b> oral</b> to NIPS, 2017</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Aug 2017]</strong></td>
-        <td>Our paper on <a>Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog</a> won the <b>best short paper</b> award at EMNLP 2017</td>
+        <td>Our paper on <a>Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog</a> won the <b>best short paper</b> award to EMNLP 2017</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Aug 2017]</strong></td>
-        <td>Our paper on <a>Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning</a> has been accepted as an <b> oral</b> at ICCV, 2017</td>
+        <td>Our paper on <a>Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning</a> has been accepted as an <b> oral</b> to ICCV, 2017</td>
     </tr>
     <tr>
         <td valign="top"><strong>[July 2017]</strong></td>
-        <td>Our paper on <a>Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog</a> has been accepted as an <b> oral</b> at EMNLP, 2017</td>
+        <td>Our paper on <a>Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog</a> has been accepted as an <b> oral</b> to EMNLP, 2017</td>
     </tr>
     <tr>
         <td valign="top"><strong>[June 2017]</strong></td>
@@ -70,7 +77,7 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
     </tr>
     <tr>
         <td valign="top"><strong>[May 2017]</strong></td>
-        <td>Our paper on <a>Canopy</a> got accepted at ICML, 2017</td>
+        <td>Our paper on <a>Canopy</a> got accepted to ICML, 2017</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Apr 2017]</strong></td>

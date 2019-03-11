@@ -13,6 +13,13 @@ I recently got interested in understanding semantics from vision and languague b
 
 1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra, 
 Marcus Rohrbach   
+[CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog]()  
+*Conference of the North American Chapter of the Association for 
+Computational Linguistics (NAACL), 2019*  
+[<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1903.03166)
+
+1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra, 
+Marcus Rohrbach   
 [Visual Coreference Resolution in Visual Dialog using Neural Module Networks]()  
 *European Conference on Computer Vision (ECCV), 2018.*  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1809.01816)
