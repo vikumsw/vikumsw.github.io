@@ -16,7 +16,9 @@ Marcus Rohrbach
 [CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog]()  
 *Conference of the North American Chapter of the Association for 
 Computational Linguistics (NAACL), 2019*  
+**Oral Presentation**  
 [<button type="button" class="btn btn-info">ArXiv</button>](https://arxiv.org/abs/1903.03166)
+[<button type="button" class="btn btn-danger">Code</button>](https://github.com/satwikkottur/clevr-dialog)  
 
 1. **Satwik Kottur**, Jos&eacute; M. F. Moura, Devi Parikh, Dhruv Batra, 
 Marcus Rohrbach   

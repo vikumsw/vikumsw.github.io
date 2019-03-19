@@ -33,7 +33,8 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
         <td valign="top"><strong>[March 2019]</strong></td>
         <td>Our paper, <a href="https://arxiv.org/abs/1903.03166">CLEVR-Dialog:
         A Diagnostic Dialog Dataset</a>,
-        has been accepted to <a href="https://naacl2019.org">NAACL, 2019</a>
+        has been accepted to <a href="https://naacl2019.org">NAACL, 2019</a> as
+        an <b>oral</b> presentation
         </td>
     </tr>
     <tr>
