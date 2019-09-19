@@ -8,7 +8,12 @@ comments: false
 
 Hi!
 
-I am a fifth year PhD student at [ECE](http://www.ece.cmu.edu/) department, [Carnegie Mellon University](http://www.cmu.edu/). I work with [Prof. Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/), in the fields of computer vision, natural language and machine learning. 
+I am a research scientist at [Facebook AI](https://research.fb.com) working 
+in the fields of computer vision, natural language, and machine learning.
+Prior to joining Facebook, I got my PhD from the Department of 
+[ECE](http://www.ece.cmu.edu/),
+[Carnegie Mellon University](http://www.cmu.edu/), advised by 
+[Prof. Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/).
 
 My interests are in the intersection of natural language and computer vision, and 
 broadly, to solve multimodal AI problems using deep learning techniques.
@@ -17,7 +22,11 @@ I closely collaborate with [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh
 require multimodal reasoning (vision and language), for example, visual dialog 
 ([VisDial](visualdialog.org)).
 
-I completed my undergraduate from Department of Electrical Engineering ([EE](http://www.ee.iitb.ac.in/)), [Indian Institute of Technology, Bombay](https://www.iitb.ac.in), in 2014 along with a minor in Computer Science and Engineering ([CSE](https://www.cse.iitb.ac.in/)). I worked under [Prof. Subhasis Chaudhuri](https://www.ee.iitb.ac.in/~sc/) on Human Activity Recognition for my undergraduate thesis. 
+I completed my undergraduate from Department of Electrical Engineering
+([EE](http://www.ee.iitb.ac.in/)),
+[Indian Institute of Technology, Bombay](https://www.iitb.ac.in), in 2014 along
+with a minor in Computer Science and Engineering 
+([CSE](https://www.cse.iitb.ac.in/)).
 
 ----
 
@@ -25,6 +34,12 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+    <tr>
+        <td valign="top"><strong>[July 2019]</strong></td>
+        <td>Joined as a research scientist at 
+        <a href="https://research.fb.com">Facebook AI</a>, Menlo Park
+        </td>
+    </tr>
     <tr>
         <td valign="top"><strong>[March 2019]</strong></td>
         <td>Our paper, <a href="https://arxiv.org/abs/1903.03166">CLEVR-Dialog:
@@ -149,7 +164,7 @@ I completed my undergraduate from Department of Electrical Engineering ([EE](htt
         </td>
     <tr>
     <tr>
-        <td>Carnegie Mellon University<br>2014-present</td>
+        <td>Carnegie Mellon University<br>2014-2019</td>
         <td>IIT Bombay<br>2010-2014</td>
         <td>Viterbi School, USC<br>Summer 2013</td>
     </tr>
