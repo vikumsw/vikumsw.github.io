@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-tags: [research, satwik, kottur, cmu, graduate, iitb]
+# tags: [research, satwik, kottur, cmu, graduate, iitb]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
@@ -26,7 +26,7 @@ In proceedings of the 6th Augmented Human International Conference Singapore, AH
 1. Roshan Lalintha Peiris, Suranga Nanayakkara, **Vikum Wijesinghe** and Kouta Minamizawa  
 [KineticCanvas: Synergetic Effort between Art and Technology](https://goo.gl/TRD1Wy)  
 In proceedings of the Annual Meeting of the Australian Special Interest Group for Computer Human Interaction  
-(Parkville, VIC, Australia — December 07 - 10, 2015 .OzCHI '15.ACM New York, NY, USA.P.575-578  
+Parkville, VIC, Australia — December 07 - 10, 2015 .OzCHI '15.ACM New York, NY, USA.P.575-578  
 
 -----
 
