@@ -8,7 +8,7 @@ comments: false
 
 My interests broadly lie in the fields of machine learning and artificial intelligence.
 
-I used my time as an undergraduate to explore few different domains. Mentioned below are the publications I managed during the exploration.
+I used my time as an undergraduate to explore few different domains. Mentioned below are the publications I contributed to during the exploration.
 
 ### Publications
 
@@ -67,6 +67,4 @@ Thermochronic ink changes its color based on the temperature. This idea was used
 <!---An HTML Comment 
 You can find my other projects from undergraduate [here](/research/oldprojects).  
 [Here](/research/courses/) is a list of all the courses I have taken, both during graduate and undergraduate studies.-->
-
------
 

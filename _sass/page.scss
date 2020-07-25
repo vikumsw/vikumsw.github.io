@@ -401,7 +401,7 @@ $button-size: 1.5rem;
 		p,
 		.author-social {
 			display: block;
-			max-width: 125px;
+			max-width: 200px;
 		}
 		h3 {
 			margin-top: 10px;
@@ -419,7 +419,7 @@ $button-size: 1.5rem;
 		.bio-photo,
 		p,
 		.author-social {
-			max-width: 150px;
+			max-width: 200px;
 		}
 	}
 	@media #{$x-large} {
@@ -449,7 +449,7 @@ $button-size: 1.5rem;
 		.bio-photo,
 		p,
 		.author-social {
-			max-width: 150px;
+			max-width: 200px;
 		}
 	}
 }

@@ -6,11 +6,9 @@ title: Contact
 comments: false
 ---
 
-You can contact me at :
-
+You can contact me at :  
 **Vikum Wijesinghe**  
 Email:  
-
 * vikumsw [at] gmail [dot] com
 * vikumw [at] lseg [dot] com
 
