@@ -6,11 +6,14 @@
 - title: Research
   url: /research/
 
-- title: Music
-  url: /music/
+# - title: Music
+#  url: /music/
 
 - title: Resume
   url: /reports/Vikum-Resume.pdf
+
+- title: Transcript
+  url: /reports/Transcript.pdf
 
 - title: Contact
   url: /contact/
