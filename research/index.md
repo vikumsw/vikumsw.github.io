@@ -43,7 +43,7 @@ ESC algorithms are used to track and maintain a plant/system at its most optimal
 
 * **5Gbps SerDes IP Development for 100Gbps Applications**  
 <!---*2015/16*-->
-*Final Year Project: Dept. of Electronic and Telecom. Eng., University of Moratuwa*
+*Final Year Project: Dept. of Electronic and Telecom. Eng., University of Moratuwa*  
 Instructor: Dr. Subramanium Thayaparan 
 **Abstract:**  
 Successfully designed and simulated a Serializer-Deserializer module which is used to serialize parallel data which should be transmitted and to deserialize serial data into parallel lines at the receiver side  
@@ -52,15 +52,15 @@ Successfully designed and simulated a Serializer-Deserializer module which is us
 * **SHRUG : Stroke Haptic Rehabilitation Using Gaming**  
 <!--- *2014/15*--> 
 *Augmented Human Lab, Singapore University of Technology and Design*  
-Instructor: Dr. Suranga Nanayakkara, Dr. Roshan Peiris  
+Instructors: Dr. Suranga Nanayakkara, Dr. Roshan Peiris  
 **Abstract:**  
 Augmented an existing exerciser to enhance rehabilitation process of stroke patients by adding visual feedback, gaming aspects and recording capability. This enabled patients to perform exercises correctly even without the supervision of a therapist and performance evaluation.  
 *Paper Published In :* 6th Augmented Human International Conference 2015  
 
 * **Paper Pixels**  
 <!---*2014/15* -->
-*Augmented Human Lab, Singapore University of Technology and Design*
-Instructor: Prof. Geoff Gordon and Prof. Aarti Singh  
+*Augmented Human Lab, Singapore University of Technology and Design*  
+Instructors: Dr. Suranga Nanayakkara, Dr. Roshan Peiris   
 **Abstract:**  
 Thermochronic ink changes its color based on the temperature. This idea was used to convert a paper based display in to an attractive animation by controlling the temperature on segments of the display.   
 
