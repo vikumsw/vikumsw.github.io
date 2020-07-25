@@ -1,42 +1,21 @@
 ---
 layout: page
 title: Welcome
-tags: [satwik, kottur, home, cmu, computer vision, machine learning, natural language processing, graduate]
-modified: 2014-08-08T20:53:07.573882-04:00
+#tags: [satwik, kottur, home, cmu, computer vision, machine learning, natural language processing, graduate]
+modified: 2020-07-25T20:53:07.573882-04:00
 comments: false
 ---
 
 Hi!
-I am a,
-* Prospective PhD student with 3.99/4.2 GPA (First Class Honours), 4 published research papers and completed research internship at Singapore University of Technology and Design.
-* Programmer with 4 years of programming experience as a C++/python developer in London Stock Exchange Group.
-* Self taught machine learning practitioner; Kaggle Master.
-* VIP(Values in Practice) Award Winner for Excellence and Partnership at London Stock Exchange Group 2020.
 
-I am a prospective PhD student with 3.99/4.2 GPA (First Class Honours), 4 published research papers and completed research internship at Singapore University of Technology and Design. I come with an excellent mathematical and research background with a GPA of 4.14 (out of 4.2) for mathematics and research subjects combined. Currently I have 4 years of programming experience as a C++ developer in London Stock Exchange Group. Moreover Self taught machine learning practitioner; Kaggle Master. Certified scrum master experienced in complete agile software development life cycle. Gold medalist (Ranked 2 all island) at Sri Lankan Physics Olympiad Competition
-VIP(Values in Practice) Award Winner for Excellence and Partnership at London Stock Exchange Group 2020.
+I am a prospective PhD student with 3.99/4.2 GPA (First Class Honours), 4 published research papers and completed research internship at Singapore University of Technology and Design. I come with an excellent mathematical and research background with a GPA of 4.14 (out of 4.2) for mathematics and research subjects combined.
+
+Currently I have 4 years of programming experience as a C++/Python developer in London Stock Exchange Group. Moreover, I am a self taught machine learning practitioner; a Kaggle Master. I am also a certified scrum master experienced in complete agile software development life cycle.
+
+I completed my undergraduate from Department of Electronic and Telecommunication Engineering ([ENTC](http://www.ent.mrt.ac.lk/web3/)),
+[University of Moratuwa](https://uom.lk/), in 2016 with a GPA of 3.99 (First Class Honours).
+
 At the moment I am seeking an opportunity to push the frontiers of machine learning and artificial intelligence.
-
-I am a research scientist at [Facebook AI](https://research.fb.com) working 
-in the fields of computer vision, natural language, and machine learning.
-Prior to joining Facebook, I got my PhD from the Department of 
-[ECE](http://www.ece.cmu.edu/),
-[Carnegie Mellon University](http://www.cmu.edu/), advised by 
-[Prof. Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/).
-
-My interests are in the intersection of natural language and computer vision, and 
-broadly, to solve multimodal AI problems using deep learning techniques.
-I closely collaborate with [Prof. Devi Parikh](https://www.cc.gatech.edu/~parikh/) and 
-[Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/) from Georgia Tech on tasks that 
-require multimodal reasoning (vision and language), for example, visual dialog 
-([VisDial](visualdialog.org)).
-
-I completed my undergraduate from Department of Electrical Engineering
-([EE](http://www.ee.iitb.ac.in/)),
-[Indian Institute of Technology, Bombay](https://www.iitb.ac.in), in 2014 along
-with a minor in Computer Science and Engineering 
-([CSE](https://www.cse.iitb.ac.in/)).
-
 ----
 
 <h3 align="center">News</h3>
@@ -53,6 +32,11 @@ with a minor in Computer Science and Engineering
         <td valign="top"><strong>[April 2016]</strong></td>
         <td>Joined as a software engineer at 
         <a href="https://www.lseg.com/markets-products-and-services/technology/lseg-technology">London Stock Exchange Group Technology</a>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[June 2010]</strong></td>
+        <td>Gold medalist (Ranked 2 all island) at Sri Lankan Physics Olympiad Competition.
         </td>
     </tr>
     <!--tr>
