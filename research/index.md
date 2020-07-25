@@ -6,8 +6,9 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-My interests broadly lie in the fields of computer vision, machine learning and natural language processing.
-I recently got interested in understanding semantics from vision and languague by solving multimodal AI tasks like visual dialog, visual question answering, conversational text generation, etc., using deep learning tools.
+My interests broadly lie in the fields of machine learning and artificial intelligence.
+
+I used my time as an undergraduate to explore few different domains. Mentioned below are the publications I managed during the exploration.
 
 ### Publications
 
