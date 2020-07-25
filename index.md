@@ -35,12 +35,18 @@ with a minor in Computer Science and Engineering
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[July 2019]</strong></td>
-        <td>Joined as a research scientist at 
-        <a href="https://research.fb.com">Facebook AI</a>, Menlo Park
+        <td valign="top"><strong>[June 2020]</strong></td>
+        <td>VIP(Values in Practice) Award Winner for Excellence and Partnership at 
+        <a href="https://www.lseg.com/markets-products-and-services/technology/lseg-technology">London Stock Exchange Group Technology</a>
         </td>
     </tr>
     <tr>
+        <td valign="top"><strong>[April 2016]</strong></td>
+        <td>Joined as a software engineer at 
+        <a href="https://www.lseg.com/markets-products-and-services/technology/lseg-technology">London Stock Exchange Group Technology</a>
+        </td>
+    </tr>
+    <!--tr>
         <td valign="top"><strong>[March 2019]</strong></td>
         <td>Our paper, <a href="https://arxiv.org/abs/1903.03166">CLEVR-Dialog:
         A Diagnostic Dialog Dataset</a>,
@@ -142,7 +148,7 @@ with a minor in Computer Science and Engineering
     <tr>
         <td valign="top"><strong>[Oct 2015]</strong></td>
         <td>Checkout our paper, <a href="http://opt-ml.org/papers/OPT2015_paper_52.pdf">Comparing Gibbs, EM and SEM for MAP Inference in Mixture Models</a>, which got accepted in NIPS: <a href="http://opt-ml.org/papers.html">OPT</a> workshop, 2015</td>
-    </tr>
+    </tr-->
 </table>
 
 ----
