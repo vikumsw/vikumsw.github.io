@@ -155,18 +155,18 @@ with a minor in Computer Science and Engineering
             <img src="/images/lseg_logo.png"></a>
         </td>
         <td>
-            <a href="http://www.iitb.ac.in/">
-            <img src="/images/iitb-logo.jpeg"></a>
+            <a href="https://uom.lk/">
+            <img src="/images/University_of_Moratuwa_logo.png"></a>
         </td>
         <td>
-            <a href="http://viterbi.usc.edu/">
-            <img src="/images/viterbi-logo.jpg"></a>
+            <a href="https://www.sutd.edu.sg/">
+            <img src="/images/SUTD_LOGO.jpg"></a>
         </td>
     <tr>
     <tr>
         <td>London Stock Exchange Group Technology<br>2016-2020</td>
-        <td>IIT Bombay<br>2010-2014</td>
-        <td>Viterbi School, USC<br>Summer 2013</td>
+        <td>University of Moratuwa<br>2011-2016</td>
+        <td>Singapore University of Technology and Design (SUTD)<br>October 2014-April 2015</td>
     </tr>
     </tr>
         <td>
