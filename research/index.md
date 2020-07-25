@@ -31,18 +31,15 @@ Parkville, VIC, Australia — December 07 - 10, 2015 .OzCHI '15.ACM New York, NY
 
 -----
 
-### Other projects
+### Selected Projects
 
-* **Spoken Dialog System with Audio and Text**  
-*Topics in Deep Learning (10-807), Fall 2016*  
-Instructor: Prof. Ruslan Salakhutdinov  
+* **Bandwidth Reduction and Convergence Analysis of Extremum Seeking Control with Feedback Encoding**  
+*{2015/16}*
+*{Research Project: Dept. of Electronic and Telecom. Eng., University of Moratuwa}*  
+Instructor: Dr. Upeka Premarathne  
 **Abstract:**  
-Growth of technology places a lot of importance in human-machine interaction.
-With the advent of deep learning, conversational agents that engage with human through free form natural language have become popular.
-However, most of these attempts are purely text-based and ignore audio cues.
-Emotional information in human-human conversations, encoded in audio cues such as intonation and pitch, often plays an important role that is ignored the text-based approaches.
-In other words, the responses depend on not only *what you say* but also *how you say*.
-Thus, we explore generative models that jointly train on audio and text in this work.
+ESC algorithms are used to track and maintain a plant/system at its most optimal operating point automatically without requiring the prior knowledge about the system and robust to smaller changes in the system. In this work we have analyzed the use of encoding schemes for Extremum seeking control systems which use periodic or stochastic perturbations.
+*Paper Published In :* Frontiers in Mechanical Engineering
 
 * **Stochastic Expectation Maximization for Latent Variable Models**  
 *Convex Optimization (10-725), Fall 2015*  
