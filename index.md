@@ -151,8 +151,8 @@ with a minor in Computer Science and Engineering
 <table align="center" class='affl-pic'>
     <tr>
         <td>
-            <a href="http://www.cmu.edu/">
-            <img src="/images/cmu-logo.png"></a>
+            <a href="https://www.lseg.com/">
+            <img src="/images/lseg_logo.png"></a>
         </td>
         <td>
             <a href="http://www.iitb.ac.in/">
@@ -164,7 +164,7 @@ with a minor in Computer Science and Engineering
         </td>
     <tr>
     <tr>
-        <td>Carnegie Mellon University<br>2014-2019</td>
+        <td>London Stock Exchange Group Technology<br>2016-2020</td>
         <td>IIT Bombay<br>2010-2014</td>
         <td>Viterbi School, USC<br>Summer 2013</td>
     </tr>
