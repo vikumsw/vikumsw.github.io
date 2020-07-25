@@ -34,7 +34,7 @@ Parkville, VIC, Australia — December 07 - 10, 2015 .OzCHI '15.ACM New York, NY
 ### Selected Projects
 
 * **Bandwidth Reduction and Convergence Analysis of Extremum Seeking Control with Feedback Encoding**  
-# *2015/16*
+<!---2015/16*-->
 *Research Project: Dept. of Electronic and Telecom. Eng., University of Moratuwa*  
 Instructor: Dr. Upeka Premarathne  
 **Abstract:**  
@@ -42,7 +42,7 @@ ESC algorithms are used to track and maintain a plant/system at its most optimal
 *Paper Published In :* Frontiers in Mechanical Engineering
 
 * **5Gbps SerDes IP Development for 100Gbps Applications**  
-# *2015/16*
+<!---*2015/16*-->
 *Final Year Project: Dept. of Electronic and Telecom. Eng., University of Moratuwa*
 Instructor: Dr. Subramanium Thayaparan 
 **Abstract:**  
@@ -50,7 +50,7 @@ Successfully designed and simulated a Serializer-Deserializer module which is us
 *Paper Published In :* ISCAIE 2016
 
 * **SHRUG : Stroke Haptic Rehabilitation Using Gaming**  
-# *2014/15* 
+<!--- *2014/15*--> 
 *Augmented Human Lab, Singapore University of Technology and Design*  
 Instructor: Dr. Suranga Nanayakkara, Dr. Roshan Peiris  
 **Abstract:**  
@@ -58,7 +58,7 @@ Augmented an existing exerciser to enhance rehabilitation process of stroke pati
 *Paper Published In :* 6th Augmented Human International Conference 2015  
 
 * **Paper Pixels**  
-# *2014/15*  
+<!---*2014/15* -->
 *Augmented Human Lab, Singapore University of Technology and Design*
 Instructor: Prof. Geoff Gordon and Prof. Aarti Singh  
 **Abstract:**  
@@ -66,6 +66,8 @@ Thermochronic ink changes its color based on the temperature. This idea was used
 
 -----
 
+ <!--- An HTML Comment 
 # You can find my other projects from undergraduate [here](/research/oldprojects).  
 
 # [Here](/research/courses/) is a list of all the courses I have taken, both during graduate and undergraduate studies.
+-->
