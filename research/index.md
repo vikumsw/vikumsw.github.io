@@ -11,22 +11,22 @@ I recently got interested in understanding semantics from vision and languague b
 
 ### Publications
 
-1. **Vikum S. Wijesinghe** and Upeka Kanchana Premaratne
-[Bandwidth Reduction and Convergence Analysis of Extremum Seeking Control with Feedback Encoding](https://goo.gl/9Npr8Q)
+1. **Vikum S. Wijesinghe** and Upeka Kanchana Premaratne  
+[Bandwidth Reduction and Convergence Analysis of Extremum Seeking Control with Feedback Encoding](https://goo.gl/9Npr8Q)  
 Frontiers in Mechanical Engineering, 28 November 2016.
 
-1. M.D. Sudara, **V.S. Wijesinghe**, D.M. Serasinghe, J.G.D.A. Thilakaratne and S. Thayaparan
-[Implementation and Analysis of Fast Locking 5GHz Phase Locked Loop](https://goo.gl/GhfvD1)
-In proceedings of the 2016 IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE), Penang, 2016
+1. M.D. Sudara, **V.S. Wijesinghe**, D.M. Serasinghe, J.G.D.A. Thilakaratne and S. Thayaparan  
+[Implementation and Analysis of Fast Locking 5GHz Phase Locked Loop](https://goo.gl/GhfvD1)  
+In proceedings of the 2016 IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE), Penang, 2016  
 
-1. Roshan lalintha Peiris, **Vikum Wijesinghe** and Suranga Nanayakkara
-[SHRUG: Stroke Haptic Rehabilitation Using Gaming](https://goo.gl/Ana7cI)
-In proceedings of the 6th Augmented Human International Conference Singapore, AH’15. 2015
+1. Roshan lalintha Peiris, **Vikum Wijesinghe** and Suranga Nanayakkara  
+[SHRUG: Stroke Haptic Rehabilitation Using Gaming](https://goo.gl/Ana7cI)  
+In proceedings of the 6th Augmented Human International Conference Singapore, AH’15. 2015  
 
-1. Roshan Lalintha Peiris, Suranga Nanayakkara, **Vikum Wijesinghe** and Kouta Minamizawa
-[KineticCanvas: Synergetic Effort between Art and Technology](https://goo.gl/TRD1Wy)
-In proceedings of the Annual Meeting of the Australian Special Interest Group for Computer Human Interaction
-(Parkville, VIC, Australia — December 07 - 10, 2015 .OzCHI '15.ACM New York, NY, USA.P.575-578
+1. Roshan Lalintha Peiris, Suranga Nanayakkara, **Vikum Wijesinghe** and Kouta Minamizawa  
+[KineticCanvas: Synergetic Effort between Art and Technology](https://goo.gl/TRD1Wy)  
+In proceedings of the Annual Meeting of the Australian Special Interest Group for Computer Human Interaction  
+(Parkville, VIC, Australia — December 07 - 10, 2015 .OzCHI '15.ACM New York, NY, USA.P.575-578  
 
 -----
 
