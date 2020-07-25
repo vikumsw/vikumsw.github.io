@@ -38,7 +38,7 @@ Parkville, VIC, Australia — December 07 - 10, 2015 .OzCHI '15.ACM New York, NY
 *Research Project: Dept. of Electronic and Telecom. Eng., University of Moratuwa*  
 Instructor: Dr. Upeka Premarathne  
 **Abstract:**  
-ESC algorithms are used to track and maintain a plant/system at its most optimal operating point automatically without requiring the prior knowledge about the system and robust to smaller changes in the system. In this work we have analyzed the use of encoding schemes for Extremum seeking control systems which use periodic or stochastic perturbations.
+ESC algorithms are used to track and maintain a plant/system at its most optimal operating point automatically without requiring the prior knowledge about the system and robust to smaller changes in the system. In this work we have analyzed the use of encoding schemes for Extremum seeking control systems which use periodic or stochastic perturbations.  
 *Paper Published In :* Frontiers in Mechanical Engineering
 
 * **5Gbps SerDes IP Development for 100Gbps Applications**  

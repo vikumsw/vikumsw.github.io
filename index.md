@@ -30,9 +30,51 @@ At the moment I am seeking an opportunity to push the frontiers of machine learn
         </td>
     </tr>
     <tr>
+        <td valign="top"><strong>[April 2019]</strong></td>
+        <td>Promoted to specialist software engineer role at 
+        <a href="https://www.lseg.com/markets-products-and-services/technology/lseg-technology">London Stock Exchange Group Technology</a>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[April 2018]</strong></td>
+        <td>Promoted to senior software engineer role at 
+        <a href="https://www.lseg.com/markets-products-and-services/technology/lseg-technology">London Stock Exchange Group Technology</a>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[November 2016]</strong></td>
+        <td>Our paper
+        <a href="https://goo.gl/9Npr8Q">Bandwidth Reduction and Convergence Analysis of Extremum Seeking Control with Feedback Encoding</a> accepted to Frontiers in Mechanical Engineering.
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[April 2016]</strong></td>
         <td>Joined as a software engineer at 
         <a href="https://www.lseg.com/markets-products-and-services/technology/lseg-technology">London Stock Exchange Group Technology</a>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[November 2016]</strong></td>
+        <td>Our paper
+        <a href="https://goo.gl/9Npr8Q">Bandwidth Reduction and Convergence Analysis of Extremum Seeking Control with Feedback Encoding</a> accepted to Frontiers in Mechanical Engineering.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[May 2016]</strong></td>
+        <td>Our paper
+        <a href="https://goo.gl/GhfvD1">Implementation and Analysis of Fast Locking 5GHz Phase Locked Loop </a> accepted to IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE).
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[December 2015]</strong></td>
+        <td>Our paper
+        <a href="https://goo.gl/TRD1Wy">KineticCanvas: Synergetic Effort between Art and Technology</a> accepted to Australian Special Interest Group for Computer Human Interaction (OzCHI).
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[March 2015]</strong></td>
+        <td>Our paper
+        <a href="https://goo.gl/Ana7cI">SHRUG: Stroke Haptic Rehabilitation Using Gaming</a> accepted to 6th Augmented Human International Conference Singapore, AH’15.
         </td>
     </tr>
     <tr>
