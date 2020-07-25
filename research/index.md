@@ -64,10 +64,9 @@ Instructor: Prof. Geoff Gordon and Prof. Aarti Singh
 **Abstract:**  
 Thermochronic ink changes its color based on the temperature. This idea was used to convert a paper based display in to an attractive animation by controlling the temperature on segments of the display.   
 
+<!---An HTML Comment 
+You can find my other projects from undergraduate [here](/research/oldprojects).  
+[Here](/research/courses/) is a list of all the courses I have taken, both during graduate and undergraduate studies.-->
+
 -----
 
- <!--- An HTML Comment 
-# You can find my other projects from undergraduate [here](/research/oldprojects).  
-
-# [Here](/research/courses/) is a list of all the courses I have taken, both during graduate and undergraduate studies.
--->
