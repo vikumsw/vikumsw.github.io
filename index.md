@@ -7,6 +7,15 @@ comments: false
 ---
 
 Hi!
+I am a,
+* Prospective PhD student with 3.99/4.2 GPA (First Class Honours), 4 published research papers and completed research internship at Singapore University of Technology and Design.
+* Programmer with 4 years of programming experience as a C++/python developer in London Stock Exchange Group.
+* Self taught machine learning practitioner; Kaggle Master.
+* VIP(Values in Practice) Award Winner for Excellence and Partnership at London Stock Exchange Group 2020.
+
+I am a prospective PhD student with 3.99/4.2 GPA (First Class Honours), 4 published research papers and completed research internship at Singapore University of Technology and Design. I come with an excellent mathematical and research background with a GPA of 4.14 (out of 4.2) for mathematics and research subjects combined. Currently I have 4 years of programming experience as a C++ developer in London Stock Exchange Group. Moreover Self taught machine learning practitioner; Kaggle Master. Certified scrum master experienced in complete agile software development life cycle. Gold medalist (Ranked 2 all island) at Sri Lankan Physics Olympiad Competition
+VIP(Values in Practice) Award Winner for Excellence and Partnership at London Stock Exchange Group 2020.
+At the moment I am seeking an opportunity to push the frontiers of machine learning and artificial intelligence.
 
 I am a research scientist at [Facebook AI](https://research.fb.com) working 
 in the fields of computer vision, natural language, and machine learning.
