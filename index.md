@@ -42,7 +42,7 @@ At the moment I am seeking an opportunity to push the frontiers of machine learn
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[November 2016]</strong></td>
+        <td valign="top"><strong>[Nov 2016]</strong></td>
         <td>Our paper
         <a href="https://goo.gl/9Npr8Q">Bandwidth Reduction and Convergence Analysis of Extremum Seeking Control with Feedback Encoding</a> accepted to Frontiers in Mechanical Engineering.
         </td>
@@ -54,19 +54,13 @@ At the moment I am seeking an opportunity to push the frontiers of machine learn
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[November 2016]</strong></td>
-        <td>Our paper
-        <a href="https://goo.gl/9Npr8Q">Bandwidth Reduction and Convergence Analysis of Extremum Seeking Control with Feedback Encoding</a> accepted to Frontiers in Mechanical Engineering.
-        </td>
-    </tr>
-    <tr>
         <td valign="top"><strong>[May 2016]</strong></td>
         <td>Our paper
         <a href="https://goo.gl/GhfvD1">Implementation and Analysis of Fast Locking 5GHz Phase Locked Loop </a> accepted to IEEE Symposium on Computer Applications & Industrial Electronics (ISCAIE).
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[December 2015]</strong></td>
+        <td valign="top"><strong>[Dec 2015]</strong></td>
         <td>Our paper
         <a href="https://goo.gl/TRD1Wy">KineticCanvas: Synergetic Effort between Art and Technology</a> accepted to Australian Special Interest Group for Computer Human Interaction (OzCHI).
         </td>
