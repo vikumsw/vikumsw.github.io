@@ -162,13 +162,13 @@ with a minor in Computer Science and Engineering
             <a href="https://www.sutd.edu.sg/">
             <img src="/images/SUTD_LOGO.jpg"></a>
         </td>
-    <tr>
+    </tr>
     <tr>
         <td>London Stock Exchange Group Technology<br>2016-2020</td>
         <td>University of Moratuwa<br>2011-2016</td>
         <td>Singapore University of Technology and Design (SUTD)<br>October 2014-April 2015</td>
     </tr>
-    </tr>
+    <!--tr>
         <td>
             <a href="https://www.snapchat.com/">
             <img src="/images/snapchat-logo.png"></a>
@@ -186,5 +186,5 @@ with a minor in Computer Science and Engineering
         <td>Snapchat Research<br>Summer 2016</td>
         <td>Facebook AI Research<br>Summer 2017</td>
         <td>Google Brain<br>Summer 2018</td>
-    </tr>
+    </tr-->
 </table>
