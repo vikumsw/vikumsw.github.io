@@ -16,6 +16,7 @@ I completed my undergraduate from Department of Electronic and Telecommunication
 [University of Moratuwa](https://uom.lk/), in 2016 with a GPA of 3.99 (First Class Honours).
 
 At the moment I am seeking an opportunity to push the frontiers of machine learning and artificial intelligence.
+
 ----
 
 <h3 align="center">News</h3>
