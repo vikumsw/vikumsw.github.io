@@ -10,7 +10,7 @@ comments: false
 
 ## Datacamp
 
-## What is Summaries in ML
+## [What is Summaries in ML](https://vikumsw.github.io/What-is-Summaries-in-ML/)
 I soon hope to publish some short notes on I have done in the area of machine learning here. Stay tuned!.
 
 ## Paper Reviews
