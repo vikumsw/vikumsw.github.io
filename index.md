@@ -195,7 +195,7 @@ At the moment I am seeking an opportunity to push the frontiers of machine learn
             <img src="/images/University_of_Moratuwa_logo.png"></a>
         </td>
         <td>
-            <a href="https://www.sutd.edu.sg/">
+            <a href="https://www.sutd.edu.sg/"> 
             <img src="/images/SUTD_LOGO.png"></a>
         </td>
     </tr>

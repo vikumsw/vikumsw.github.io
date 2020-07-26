@@ -3,7 +3,7 @@
 - title: Home
   url: /
 
-- title: Research
+- title: Research+
   url: /research/
 
 # - title: Music
@@ -14,6 +14,9 @@
 
 - title: Transcript
   url: /reports/Transcript.pdf
+
+- title: ML
+  url: /ML/
 
 - title: Contact
   url: /contact/
