@@ -24,19 +24,19 @@ At the moment I am seeking an opportunity to push the frontiers of machine learn
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[June 2020]</strong></td>
+        <td valign="top"><strong>[Jun 2020]</strong></td>
         <td>VIP(Values in Practice) Award Winner for Excellence and Partnership at 
         <a href="https://www.lseg.com/markets-products-and-services/technology/lseg-technology">London Stock Exchange Group Technology</a>
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[April 2019]</strong></td>
+        <td valign="top"><strong>[Apr 2019]</strong></td>
         <td>Promoted to specialist software engineer role at 
         <a href="https://www.lseg.com/markets-products-and-services/technology/lseg-technology">London Stock Exchange Group Technology</a>
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[April 2018]</strong></td>
+        <td valign="top"><strong>[Apr 2018]</strong></td>
         <td>Promoted to senior software engineer role at 
         <a href="https://www.lseg.com/markets-products-and-services/technology/lseg-technology">London Stock Exchange Group Technology</a>
         </td>
@@ -48,7 +48,7 @@ At the moment I am seeking an opportunity to push the frontiers of machine learn
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[April 2016]</strong></td>
+        <td valign="top"><strong>[Apr 2016]</strong></td>
         <td>Joined as a software engineer at 
         <a href="https://www.lseg.com/markets-products-and-services/technology/lseg-technology">London Stock Exchange Group Technology</a>
         </td>
@@ -66,13 +66,13 @@ At the moment I am seeking an opportunity to push the frontiers of machine learn
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[March 2015]</strong></td>
+        <td valign="top"><strong>[Mar 2015]</strong></td>
         <td>Our paper
         <a href="https://goo.gl/Ana7cI">SHRUG: Stroke Haptic Rehabilitation Using Gaming</a> accepted to 6th Augmented Human International Conference Singapore, AH’15.
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[June 2010]</strong></td>
+        <td valign="top"><strong>[Jun 2010]</strong></td>
         <td>Gold medalist (Ranked 2 all island) at Sri Lankan Physics Olympiad Competition.
         </td>
     </tr>

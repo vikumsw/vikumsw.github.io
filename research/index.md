@@ -71,13 +71,13 @@ This is a collection of short notes I am preparing in the area of machine learni
 
 -----
 
-### Paper Reviews
-I soon hope to publish the research paper reviews that I have done in the area of machine learning here. Stay tuned!. 
+### [My Notes on ML Interpretablity](/blog/ml_interpretablity)
+My Short Notes on ML Interpretablity here.
 
 -----
 
-### [My Notes on ML Interpretablity](/blog/ml_interpretablity)
-I soon hope to publish my Notes on ML Interpretablity here. Stay tuned!. 
+### Paper Reviews
+I soon hope to publish the research paper reviews that I have done in the area of machine learning here. Stay tuned!.
 
 -----
 
