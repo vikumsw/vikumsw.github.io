@@ -13,7 +13,7 @@ I am a prospective PhD student with 3.99/4.2 overall GPA (Honours Degree of Bach
 Currently, I have 4 years of programming experience as a C++/Python developer in London Stock Exchange Group. Moreover, I am a self taught machine learning practitioner; a Kaggle Master. I am also a certified scrum master experienced in complete agile software development life cycle.
 
 Prior to joining London Stock Exchange Group, I completed my undergraduate from Department of Electronic and Telecommunication Engineering ([ENTC](http://www.ent.mrt.ac.lk/web3/)),
-[University of Moratuwa](https://uom.lk/), in 2016 with a GPA of 3.99 (First Class Honours).
+[University of Moratuwa](https://uom.lk/), in 2016.
 
 At the moment I am seeking an opportunity to push the frontiers of machine learning and artificial intelligence.
 
