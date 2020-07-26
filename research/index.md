@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research & Projects
+title: Publications , Projects & Other work
 # tags: [research, satwik, kottur, cmu, graduate, iitb]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
@@ -63,6 +63,15 @@ Augmented an existing exerciser to enhance rehabilitation process of stroke pati
 Instructors: Dr. Suranga Nanayakkara, Dr. Roshan Peiris   
 **Abstract:**  
 Thermochronic ink changes its color based on the temperature. This idea was used to convert a paper based display in to an attractive animation by controlling the temperature on segments of the display.   
+
+### [What is Summaries in ML](https://vikumsw.github.io/What-is-Summaries-in-ML/)
+This is a collection of short notes I am preparing in the area of machine learning as I am learning.
+
+### Paper Reviews
+I soon hope to publish the research paper reviews that I have done in the area of machine learning here. Stay tuned!. 
+
+### My Notes on ML Interpretablity
+I soon hope to publish my Notes on ML Interpretablity here. Stay tuned!. 
 
 <!---An HTML Comment 
 You can find my other projects from undergraduate [here](/research/oldprojects).  
