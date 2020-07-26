@@ -76,7 +76,7 @@ I soon hope to publish the research paper reviews that I have done in the area o
 
 -----
 
-### My Notes on ML Interpretablity
+### [My Notes on ML Interpretablity](/blog/ml_interpretablity)
 I soon hope to publish my Notes on ML Interpretablity here. Stay tuned!. 
 
 -----
