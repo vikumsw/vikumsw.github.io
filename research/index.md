@@ -79,7 +79,13 @@ My Short Notes on ML Interpretablity here.
 ### Paper Reviews
 I soon hope to publish the research paper reviews that I have done in the area of machine learning here. Stay tuned!.
 
-<h3 align="center">Blog</h3>
+-----
+
+### [Developer Short Notes](https://vikumsw.github.io/DeveloperShortNotes/)
+
+----
+
+<!---h3 align="center">Blog</h3>
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
@@ -90,7 +96,7 @@ I soon hope to publish the research paper reviews that I have done in the area o
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[Onoing]</strong></td>
+        <td valign="top"><strong>[Sep 2019]</strong></td>
         <td>
         <a href="/blog/ml_interpretablity">My Notes on ML Interpretablity</a>
         </td>
@@ -101,7 +107,7 @@ I soon hope to publish the research paper reviews that I have done in the area o
         <a href="https://vikumsw.github.io/DeveloperShortNotes/">Developer Short Notes</a>
         </td>
     </tr>
-</table>
+</table-->
 
 <!---An HTML Comment 
 You can find my other projects from undergraduate [here](/research/oldprojects).  
