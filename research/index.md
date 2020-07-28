@@ -79,7 +79,29 @@ My Short Notes on ML Interpretablity here.
 ### Paper Reviews
 I soon hope to publish the research paper reviews that I have done in the area of machine learning here. Stay tuned!.
 
------
+<h3 align="center">Blog</h3>
+<table class='news-table'>
+    <col width="15%">
+    <col width="85%">
+    <tr>
+        <td valign="top"><strong>[Onoing]</strong></td>
+        <td>
+        <a href="https://vikumsw.github.io/What-is-Summaries-in-ML/">What is Summaries in ML : This is a collection of short notes I am preparing in the area of machine learning as I am learning.</a>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Onoing]</strong></td>
+        <td>
+        <a href="/blog/ml_interpretablity">My Notes on ML Interpretablity</a>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Jan 2018]</strong></td>
+        <td>
+        <a href="https://vikumsw.github.io/DeveloperShortNotes/">Developer Short Notes</a>
+        </td>
+    </tr>
+</table>
 
 <!---An HTML Comment 
 You can find my other projects from undergraduate [here](/research/oldprojects).  
