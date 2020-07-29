@@ -106,11 +106,11 @@ comments: false
 </tr>
 <tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">7</td>
-<td style="width: 97.8212%; height: 20px;"></td>
+<td style="width: 97.8212%; height: 20px;"><b>4 Men and a Flashlight:</b><span>&nbsp;4 men arrive at a bridge in the dark, with one flashlight. The flashlight is required by any group crossing the bridge, and the bridge can only hold two men at a time. The minimum times it takes for the men to walk across the bridge are 1,2,5,10 minutes respectively. What is the minimum time by which all 4 men can have crossed the bridge?</span></td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">8</td>
-<td style="width: 97.8212%; height: 20px;"></td>
+<td style="width: 97.8212%; height: 20px;"><b>Maximizing the Probability:</b><span>&nbsp;You are given 50 white marbles and 50 black marbles along with two jars. You are asked to place all 100 marbles into the jars in any way you choose. Afterwards, you will be blindfolded, the jars will be shaken and rearranged, and you will be asked to select one marble from either jar. How would you arrange the marbles originally to maximise the probability of drawing a white marble?</span></td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">9</td>
