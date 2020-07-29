@@ -53,28 +53,6 @@ comments: false
 </tbody>
 </table>
 <p></p>
-<h2 style="text-align: center;">Riddles</h2>
-<table border="1" style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr style="height: 21px;">
-<td style="width: 89.5297%; height: 21px; border-style: hidden;">Riddle 1</td>
-<td style="width: 10.4703%; height: 21px; border-style: hidden;">&nbsp;Answer</td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 89.5297%; height: 21px; border-style: hidden;">Riddle 1</td>
-<td style="width: 10.4703%; height: 21px; border-style: hidden;"><a href="asdd"><strong>Code</strong></a></td>
-</tr>
-<tr style="height: 20px;">
-<td style="width: 89.5297%; height: 20px; border-style: hidden;">Riddle 1</td>
-<td style="width: 10.4703%; height: 20px; border-style: hidden;"><a href="asdd"><strong>Code</strong></a></td>
-</tr>
-<tr style="height: 21px;">
-<td style="width: 89.5297%; height: 21px; border-style: hidden;">Riddle 1</td>
-<td style="width: 10.4703%; height: 21px; border-style: hidden;"><a href="asdd"><strong>Code</strong></a></td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <h2 style="text-align: center;">Fun Puzzles</h2>
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
@@ -96,9 +74,7 @@ comments: false
 </tr>
 <tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">5</td>
-<td style="width: 97.8212%; height: 20px;">
-<p><b>Leaving the Grounds:</b>You are at the center of a circular field with radius 1 mile. A guard dog is restricted to run around the perimeter. You run at 10mph and the dog at 40mph. Your goal is to escape from the field, and the dog will try its best to stop you. Can you escape?</p>
-</td>
+<td style="width: 97.8212%; height: 20px;"><b>Leaving the Grounds</b><span>&nbsp;You are at the center of a circular field with radius 1 mile. A guard dog is restricted to run around the perimeter. You run at 10mph and the dog at 40mph. Your goal is to escape from the field, and the dog will try its best to stop you. Can you escape?</span></td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">6</td>
@@ -114,11 +90,27 @@ comments: false
 </tr>
 <tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">9</td>
-<td style="width: 97.8212%; height: 20px;"></td>
+<td style="width: 97.8212%; height: 20px;">
+<p class="entry-title"><strong>100 Prisoners with Red/Black Hats</strong>:100 prisoners in jail are standing in a queue facing in one direction. Each prisoner is wearing a hat of color either black or red. A prisoner can see hats of all prisoners in front of him in the queue, but cannot see his hat and hats of prisoners standing behind him.The jailer is going to ask color of each prisoner&rsquo;s hat starting from the last prisoner in queue. If a prisoner tells the correct color, then is saved, otherwise executed.&nbsp;<strong>How many prisoners can be saved at most</strong>&nbsp;if they are allowed to discuss a strategy before the jailer starts asking colors of their hats.</p>
+</td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">10</td>
-<td style="width: 97.8212%; height: 20px;"></td>
+<td style="width: 97.8212%; height: 20px;"><header class="entry-header">
+<p class="entry-title"><strong>Ratio of Boys and Girls in a Country where people want only boys:</strong> In a country, all families want a boy. They keep having babies till a boy is born. What is the expected ratio of boys and girls in the country?</p>
+</header></td>
+</tr>
+<tr>
+<td style="width: 2.17876%;">11</td>
+<td style="width: 97.8212%;">
+<p class="entry-title"><strong>2 Eggs and 100 Floors:</strong> Suppose that we wish to know which stories in a 100-story building are safe to drop eggs from, and which will cause the eggs to break on landing. What strategy should be used to drop eggs such that total number of drops in worst case is minimized and we find the required floor.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 2.17876%;">12</td>
+<td style="width: 97.8212%;">
+<p class="entry-title"><strong>10 Coins Puzzle:&nbsp;</strong>You are blindfolded and 10 coins are place in front of you on table. You are allowed to touch the coins, but can&rsquo;t tell which way up they are by feel. You are told that there are 5 coins head up, and 5 coins tails up but not which ones are which. Can you make two piles of coins each with the same number of heads up? You can flip the coins any number of times.<strong></strong></p>
+</td>
 </tr>
 </tbody>
 </table>
