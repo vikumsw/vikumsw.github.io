@@ -45,11 +45,6 @@ comments: false
 </td>
 <td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/python/smallestSparseNumber.py"><strong>Code</strong></a></td>
 </tr>
-<tr style="height: 21px;">
-<td style="width: 1.61765%; height: 21px; border-style: solid;"><span style="background-color: #ffffff;">5</span></td>
-<td style="width: 89.422%; height: 21px; border-style: solid;"><span style="background-color: #ffffff;">&lt;Challenge 5&gt;</span></td>
-<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="asdd"><strong>Code</strong></a></td>
-</tr>
 </tbody>
 </table>
 
