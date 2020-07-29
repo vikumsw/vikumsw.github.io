@@ -8,8 +8,8 @@ comments: false
 
 <p style="text-align: left;">I absolutely love problem solving. I find solving algorithms, puzzles and riddles&nbsp;highly engaging.&nbsp;Below are a small collection of diversions that I find interesting, usually because their solutions are creatively simple.</p>
 
-<h2 style="text-align: center;"><strong>Algo Challenges</strong></h2>
-<table border="0" style="height: 346px; width: 77.6316%; border-collapse: collapse; border-style: solid;">
+<h2 style="text-align: left;"><strong>Algo Challenges</strong></h2>
+<table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr style="height: 21px;">
 <td style="width: 1.61765%; height: 241px; border-style: solid;">
@@ -52,8 +52,10 @@ comments: false
 </tr>
 </tbody>
 </table>
+
 <p></p>
-<h2 style="text-align: center;">Fun Puzzles</h2>
+
+<h2 style="text-align: left;">Fun Puzzles</h2>
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr style="height: 20px;">
@@ -95,20 +97,16 @@ comments: false
 </tr>
 <tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">10</td>
-<td style="width: 97.8212%; height: 20px;"><header class="entry-header">
-<p class="entry-title"><strong>Ratio of Boys and Girls in a Country where people want only boys:</strong> In a country, all families want a boy. They keep having babies till a boy is born. What is the expected ratio of boys and girls in the country?</p>
+<td style="width: 97.8212%; height: 20px;"><header class="entry-header"><b>Ratio of Boys and Girls in a Country where people want only boys</b><span>&nbsp; In a country, all families want a boy. They keep having babies till a boy is born. What is the expected ratio of boys and girls in the country?</span>
 </header></td>
 </tr>
 <tr>
 <td style="width: 2.17876%;">11</td>
-<td style="width: 97.8212%;">
-<p class="entry-title"><strong>2 Eggs and 100 Floors:</strong> Suppose that we wish to know which stories in a 100-story building are safe to drop eggs from, and which will cause the eggs to break on landing. What strategy should be used to drop eggs such that total number of drops in worst case is minimized and we find the required floor.</p>
-</td>
+<td style="width: 97.8212%;"><b>2 Eggs and 100 Floors:</b><span>&nbsp; Suppose that we wish to know which stories in a 100-story building are safe to drop eggs from, and which will cause the eggs to break on landing. What strategy should be used to drop eggs such that total number of drops in worst case is minimized and we find the required floor.</span></td>
 </tr>
 <tr>
 <td style="width: 2.17876%;">12</td>
-<td style="width: 97.8212%;">
-<p class="entry-title"><strong>10 Coins Puzzle:&nbsp;</strong>You are blindfolded and 10 coins are place in front of you on table. You are allowed to touch the coins, but can&rsquo;t tell which way up they are by feel. You are told that there are 5 coins head up, and 5 coins tails up but not which ones are which. Can you make two piles of coins each with the same number of heads up? You can flip the coins any number of times.<strong></strong></p>
+<td style="width: 97.8212%;"><b>10 Coins Puzzle:</b><span>&nbsp;You are blindfolded and 10 coins are place in front of you on table. You are allowed to touch the coins, but can&rsquo;t tell which way up they are by feel. You are told that there are 5 coins head up, and 5 coins tails up but not which ones are which. Can you make two piles of coins each with the same number of heads up? You can flip the coins any number of times.</span>
 </td>
 </tr>
 <tr style="height: 20px;">
