@@ -91,8 +91,7 @@ comments: false
 <tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">9</td>
 <td style="width: 97.8212%; height: 20px;">
-<p class="entry-title"><strong>100 Prisoners with Red/Black Hats</strong>:100 prisoners in jail are standing in a queue facing in one direction. Each prisoner is wearing a hat of color either black or red. A prisoner can see hats of all prisoners in front of him in the queue, but cannot see his hat and hats of prisoners standing behind him.The jailer is going to ask color of each prisoner&rsquo;s hat starting from the last prisoner in queue. If a prisoner tells the correct color, then is saved, otherwise executed.&nbsp;<strong>How many prisoners can be saved at most</strong>&nbsp;if they are allowed to discuss a strategy before the jailer starts asking colors of their hats.</p>
-</td>
+<b>100 Prisoners with Red/Black Hats</b><span>&nbsp;100 prisoners in jail are standing in a queue facing in one direction. Each prisoner is wearing a hat of color either black or red. A prisoner can see hats of all prisoners in front of him in the queue, but cannot see his hat and hats of prisoners standing behind him.The jailer is going to ask color of each prisoner&rsquo;s hat starting from the last prisoner in queue. If a prisoner tells the correct color, then is saved, otherwise executed.&nbsp;<b>How many prisoners can be saved at most</b>&nbsp;if they are allowed to discuss a strategy before the jailer starts asking colors of their hats.</span></td>
 </tr>
 <tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">10</td>
@@ -112,6 +111,14 @@ comments: false
 <p class="entry-title"><strong>10 Coins Puzzle:&nbsp;</strong>You are blindfolded and 10 coins are place in front of you on table. You are allowed to touch the coins, but can&rsquo;t tell which way up they are by feel. You are told that there are 5 coins head up, and 5 coins tails up but not which ones are which. Can you make two piles of coins each with the same number of heads up? You can flip the coins any number of times.<strong></strong></p>
 </td>
 </tr>
+<tr style="height: 20px;">
+<td style="width: 2.17876%; height: 20px;">13</td>
+<td style="width: 97.8212%; height: 20px;"><b>A King, 1000 Bottles of Wine, 10 Prisoners and a Drop of Poison:</b><span>&nbsp;The King of a small country invites 1000 senators to his annual party. As a tradition, each senator brings the King a bottle of wine. Soon after, the Queen discovers that one of the senators is trying to assassinate the King by giving him a bottle of poisoned wine. Unfortunately, they do not know which senator, nor which bottle of wine is poisoned, and the poison is completely indiscernible. However, the King has 10 prisoners he plans to execute. He decides to use them as taste testers to determine which bottle of wine contains the poison. The poison when taken has no effect on the prisoner until exactly 24 hours later when the infected prisoner suddenly dies. The King needs to determine which bottle of wine is poisoned by tomorrow so that the festivities can continue as planned. Hence he only has time for one round of testing. How can the King administer the wine to the prisoners to ensure that 24 hours from now he is guaranteed to have found the poisoned wine bottle?</span></td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 2.17876%; height: 20px;">14</td>
+<td style="width: 97.8212%; height: 20px;"><header class="entry-header"><a href="https://mindyourdecisions.com/blog/2016/03/20/the-seemingly-impossible-escape-sunday-puzzle/"><b>The Seemingly Impossible Escape</b></a>
+</header></td>
 </tbody>
 </table>
 <p></p>
