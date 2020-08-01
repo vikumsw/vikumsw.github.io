@@ -119,3 +119,5 @@ comments: false
 </tr>
 </tbody>
 </table>
+
+<p>Above are few puzzels I really liked solving. Please feel free to contact me if you like to discuss solutions to above puzzles. I really love to know how you solved them</p>
