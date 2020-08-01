@@ -93,8 +93,8 @@ comments: false
 </tr>
 <tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">10</td>
-<td style="width: 97.8212%; height: 20px;"><header class="entry-header"><b>Ratio of Boys and Girls in a Country where people want only boys</b><span>&nbsp; In a country, all families want a boy. They keep having babies till a boy is born. What is the expected ratio of boys and girls in the country?</span>
-</header></td>
+<td style="width: 97.8212%; height: 20px;"><b>Ratio of Boys and Girls in a Country where people want only boys</b><span>&nbsp; In a country, all families want a boy. They keep having babies till a boy is born. What is the expected ratio of boys and girls in the country?</span>
+</td>
 </tr>
 <tr>
 <td style="width: 2.17876%;">11</td>
