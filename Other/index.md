@@ -42,6 +42,22 @@ comments: false
 <td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/python/smallestSparseNumber.py"><strong>Code</strong></a></td>
 </tr>
 <tr style="height: 21px;">
+<td style="width: 1.61765%; height: 21px; border-style: solid;">5</td>
+<td style="width: 89.422%; height: 21px; border-style: solid;">
+<b>Max & Min: </b>
+<span>Given an array of numbers of length N, find both the minimum and maximum using less than 2 * (N - 2) comparisons.</span>
+</td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/python/maxMinFind235.py"><strong>Code</strong></a></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 1.61765%; height: 21px; border-style: solid;">6</td>
+<td style="width: 89.422%; height: 21px; border-style: solid;">
+<b>Maximum Subarray Sum of a Circular Array: </b>
+<span>Given a circular array, compute its maximum subarray sum in O(n) time. A subarray can be empty, and in this case the sum is 0. For example, given [8, -1, 3, 4], return 15 as we choose the numbers 3, 4, and 8 where the 8 is obtained from wrapping around. Given [-4, 5, 1, 0], return 6 as we choose the numbers 5 and 1.</span>
+</td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/python/LargestSubArray.py"><strong>Code</strong></a></td>
+</tr>
+<tr style="height: 21px;">
 <td style="width: 1.61765%; height: 21px; border-style: solid;">7</td>
 <td style="width: 89.422%; height: 21px; border-style: solid;">
 <b>Sherlock and Anagrams: </b>
