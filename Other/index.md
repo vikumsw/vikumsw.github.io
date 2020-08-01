@@ -50,7 +50,7 @@ comments: false
 
 <p></p>
 
-<h2 style="text-align: left;">Fun Puzzles</h2>
+<!---h2 style="text-align: left;">Fun Puzzles</h2>
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr style="height: 20px;">
@@ -114,4 +114,4 @@ comments: false
 </header></td>
 </tbody>
 </table>
-<p></p>
+<p></p--->
