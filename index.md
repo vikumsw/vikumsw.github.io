@@ -31,7 +31,7 @@ At the moment I am seeking an opportunity to push the frontiers of machine learn
     </tr>
     <tr>
         <td valign="top"><strong>[Sep 2019]</strong></td>
-        <td>Achieved Kaggle 2X Master ranking</td>
+        <td>Achieved Kaggle 2x Master ranking</td>
     </tr>
     <tr>
         <td valign="top"><strong>[Apr 2019]</strong></td>
