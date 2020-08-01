@@ -58,7 +58,7 @@ comments: false
 <td style="width: 2.17876%; height: 20px;">1</td>
 <td style="width: 97.8212%; height: 20px;"><b>The Following Cars:<span>&nbsp;</span></b><span>Four cars that all move with the same speed of 60 mph start off at the four corners of a square of side 1 mile. Label the cars in clockwise order 1,2,3,4. At every instant, car 1 moves in the direction of car 2, car 2 in the direction of car 3, car 3 in the direction of car 4 and car 4 in the direction of car 1. Where will the cars eventually meet and how far will each car have travelled</span></td>
 </tr>
-<!---tr style="height: 20px;">
+<tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">2</td>
 <td style="width: 97.8212%; height: 20px;"><b>The Monty Hall Problem:<span>&nbsp;</span></b><span>There are 3 doors, behind one of which is a prize. You pick a door and I am forced to show you a vacant door (other than the one you picked). I now give you the option to switch to the remaining door. Do you definitely want to switch, definitely not want to switch or does it matter whether you switch or not.</span></td>
 </tr>
@@ -112,7 +112,7 @@ comments: false
 <tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">14</td>
 <td style="width: 97.8212%; height: 20px;"><header class="entry-header"><a href="https://mindyourdecisions.com/blog/2016/03/20/the-seemingly-impossible-escape-sunday-puzzle/"><b>The Seemingly Impossible Escape</b></a>
-</header></td--->
+</header></td!------>
 </tbody>
 </table>
 <p></p>
