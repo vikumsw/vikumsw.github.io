@@ -8,7 +8,7 @@ comments: false
 
 <p style="text-align: left;">I absolutely love problem solving. I find solving algorithms, puzzles and riddles&nbsp;highly engaging.&nbsp;Below are a small collection of diversions that I find interesting, usually because their solutions are creatively simple.</p>
 
-<h2 style="text-align: left;"><strong>Algo Challenges</strong></h2>
+<h2 style="text-align: left;"><strong>Algorithm Challenges</strong></h2>
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr style="height: 21px;">
