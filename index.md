@@ -30,6 +30,10 @@ At the moment I am seeking an opportunity to push the frontiers of machine learn
         </td>
     </tr>
     <tr>
+        <td valign="top"><strong>[Sep 2019]</strong></td>
+        <td>Achieved Kaggle 2X Master ranking</td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Apr 2019]</strong></td>
         <td>Promoted to specialist software engineer role at 
         <a href="https://www.lseg.com/markets-products-and-services/technology/lseg-technology">London Stock Exchange Group Technology</a>
