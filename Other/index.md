@@ -48,8 +48,6 @@ comments: false
 </tbody>
 </table>
 
-<p></p>
-
 <h2 style="text-align: left;">Fun Puzzles</h2>
 
 <table border="1" style="border-collapse: collapse; width: 100%;">
@@ -113,6 +111,6 @@ comments: false
 <td style="width: 2.17876%; height: 20px;">14</td>
 <td style="width: 97.8212%; height: 20px;"><a href="https://mindyourdecisions.com/blog/2016/03/20/the-seemingly-impossible-escape-sunday-puzzle/"><b>The Seemingly Impossible Escape</b></a>
 </td>
+</tr>
 </tbody>
 </table>
-<p></p>
