@@ -50,8 +50,8 @@ comments: false
 
 <p></p>
 
-<!---h2 style="text-align: left;">Fun Puzzles</h2>
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<h2 style="text-align: left;">Fun Puzzles</h2>
+<!---table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">1</td>
