@@ -41,6 +41,14 @@ comments: false
 </td>
 <td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/python/smallestSparseNumber.py"><strong>Code</strong></a></td>
 </tr>
+<tr style="height: 21px;">
+<td style="width: 1.61765%; height: 21px; border-style: solid;">7</td>
+<td style="width: 89.422%; height: 21px; border-style: solid;">
+<b>Sherlock and Anagrams: </b>
+<span><a href="https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem">Read the problem in Hacker Rank</a></span>
+</td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/C%2B%2B/sherlock-and-anagrams.cpp"><strong>Code</strong></a></td>
+</tr>
 </tbody>
 </table>
 <p>More fun algorithm problems with answers can be found here in this <a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving">repository</a>.</p>
