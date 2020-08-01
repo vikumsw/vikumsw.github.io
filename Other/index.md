@@ -43,6 +43,7 @@ comments: false
 </tr>
 </tbody>
 </table>
+<p>More fun algorithm problems with answers can be found here in this <a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving">repository</a>.</p>
 
 <h2 style="text-align: left;">Fun Puzzles</h2>
 
