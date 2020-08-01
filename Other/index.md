@@ -111,8 +111,8 @@ comments: false
 </tr>
 <tr style="height: 20px;">
 <td style="width: 2.17876%; height: 20px;">14</td>
-<td style="width: 97.8212%; height: 20px;"><header class="entry-header"><a href="https://mindyourdecisions.com/blog/2016/03/20/the-seemingly-impossible-escape-sunday-puzzle/"><b>The Seemingly Impossible Escape</b></a>
-</header></td!------>
+<td style="width: 97.8212%; height: 20px;"><a href="https://mindyourdecisions.com/blog/2016/03/20/the-seemingly-impossible-escape-sunday-puzzle/"><b>The Seemingly Impossible Escape</b></a>
+</td>
 </tbody>
 </table>
 <p></p>
