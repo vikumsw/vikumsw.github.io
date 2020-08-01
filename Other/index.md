@@ -12,9 +12,14 @@ comments: false
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr style="height: 21px;">
-<td style="width: 1.61765%; height: 241px; border-style: solid;">
-<p><span>1</span></p>
+<td style="width: 1.61765%; height: 241px; border-style: solid;">1</td>
+<td style="width: 89.422%; height: 241px; border-style: solid;"><b>Count the Islands<span>&nbsp;</span></b><span>Given a matrix of 1s and 0s, return the number of "islands" in the matrix. A 1 represents land and 0 represents water, so an island is a group of 1s that are neighboring whose perimeter is surrounded by water. For example, this matrix has 4 islands. </span>
+<p><span>1 0 0 0 0</span><br /><span>0 0 1 1 0</span><br /><span>0 1 1 0 0</span><br /><span>0 0 0 0 0</span><br /><span>1 1 0 0 1</span><br /><span>1 1 0 0 1</span></p>
 </td>
+<td style="width: 13.5037%; height: 241px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/Solutions/CounttheIslands.py"><strong>Code</strong></a></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 1.61765%; height: 241px; border-style: solid;">1</td>
 <td style="width: 89.422%; height: 241px; border-style: solid;">
 <h4>Count the Islands</h4>
 <p><span>Given a matrix of 1s and 0s, return the number of "islands" in the matrix. A 1 represents land and 0 represents water, so an island is a group of 1s that are neighboring whose perimeter is surrounded by water. For example, this matrix has 4 islands. </span></p>
