@@ -7,6 +7,15 @@ comments: false
 --- 
 
 <p style="text-align: left;">I find machine learning fascinating because it's fun, diverse, pervasive, not magic, creative, science and free!.</p>
+<h2 style="text-align: left;"><strong><a href="/blog/ml_interpretablity">My Notes on ML Interpretablity</a> </strong></h2>
+<p>My Short Notes on ML Interpretablity here.</p>
+<hr />
+<h2 style="text-align: left;"><strong><a href="https://vikumsw.github.io/What-is-Summaries-in-ML/">What is Summaries in ML</a> </strong></h2>
+<p>This is a collection of short notes I am preparing in the area of machine learning as I am learning.</p>
+<hr />
+<h2 style="text-align: left;"><strong><a href="">Paper Reviews</a></strong></h2>
+<p>I soon hope to publish the research paper reviews that I have done in the area of machine learning here. Stay tuned!.</p>
+<hr />
 <h2 style="text-align: left;"><strong>Kaggle as a learning platform</strong></h2>
 <p>In my early days into ML, I used kaggle heavily to gain knowledge in applied ML and achieved masters ranking tear in Notebooks. With my experience I recommend kaggle as one of the best go to places for beginners in ML. Following is some selected notebooks I compiled on kaggle.</p>
 <ul>
@@ -21,6 +30,7 @@ comments: false
     <li><a href="https://www.kaggle.com/vikumsw/pandas-tips-tricks-and-more"><strong>Pandas Tips & Tricks and More</strong></a><br />Objective of this notebook is to demonstrate most commonly used Pandas Tips & Tricks and More</li>
     <li><a href="https://www.kaggle.com/vikumsw/scripting-house-prices-solution"><strong>Scripting house prices solution</strong></a><br />Scripting Solution to the problem House Prices Solution.</li>
 </ul>
+<hr />
 <h2 style="text-align: left;"><b>Recommended</b><strong>&nbsp;courses that I followed</strong></h2>
 <p>Today, we find a myriad of ML resources out there in the internet making selection of what to choose an difficult for a new comer. Following list presents the courses/books I recommend which I have personally followed.</p>
 <ul>
