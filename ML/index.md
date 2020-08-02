@@ -22,14 +22,25 @@ comments: false
 <li><a href="link"><strong>AI For Everyone by deeplearning.ai &mdash; Coursera</strong></a><br /> If you want your organization to become better at using AI, this is the course to tell everyone.</li>
 <li><a href="https://www.lynda.com/Kafka-tutorials/Kafka-Essential-Training/585254-2.html"><strong>Kafka Essential Training</strong></a><br />Introductory knowledge on kafka</li>
 <li><a href="https://www.linkedin.com/learning/learning-data-science-understanding-the-basics"><strong>Learning Data Science: Understanding the Basics - LinkedIn</strong></a><br />Introductory course to Data Science</li>
-<li><strong>DataCamp Courses<br /></strong>DataCamp's lessons are bite-sized and included&nbsp;<span>hands-on coding. Good for beginners.</span><strong><br /></strong>
+<li><strong>DataCamp Courses<br /></strong>DataCamp's lessons are bite-sized and included&nbsp;<span>hands-on coding. Good for beginners. Following list presents the courses that I have followed and each course is linked to my certificate.</span><strong><br /></strong>
 <ul>
-<li><a href="link">DataCamp1</a><br />In this course, i have demonstrated how to ...</li>
-<li><a href="link">DataCamp1</a><br />In this course, i have demonstrated how to ...</li>
-<li><a href="link">DataCamp1</a><br />In this course, i have demonstrated how to ...</li>
-<li><a href="link">DataCamp1</a><br />In this course, i have demonstrated how to ...</li>
-<li><a href="link">DataCamp1</a><br />In this course, i have demonstrated how to ...</li>
-<li><a href="link">DataCamp1</a><br />In this course, i have demonstrated how to ...</li>
-v</ul>
+    <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/ae8f8caf381eb54158c9eb328c52d4c4d3743e1c">Introduction to Python</a></li>
+    <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/02fc2ec3e7c38ad0bb59dc2e1d19cf0ddd3fef69">Intermediate Python</a></li>
+    <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/d44c60a372179da9867511d20f4e44bec6aa2f99">Introduction to Importing Data in Python</a></li>
+    <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/fffd11b6026af8fac081eaf7ecf341a266cbb133">Python Data Science Toolbox (Part 1)</a></li>
+    <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/61641267ffcb158f4880fb928fbe9e7e42ef0826">Python Data Science Toolbox (Part 2)</a></li>
+    <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/e0dde71f54f435ad3d32159b6ee923b24701e409">Statistical Thinking in Python (Part 1)</a></li>
+    <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/8ab7e8549f61dff58174a16930ae7e3c354ed641">Object-Oriented Programming in Python</a></li>
+    <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/fed51ca217e53e5d9cf4a0fbb1a8b9bc2e63baa8">Data Manipulation with pandas</a></li>
+    <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/9a78984b83a9b461a296a5ff0a3bc30e74b16fd3">Merging DataFrames with pandas</a></li>
+    <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/17b64f99685e0eecf9536858cec45e73e279bfe7">Introduction to Data Visualization with Matplotlib</a></li>
+    <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/dcce644ea345214f87d760597403d2bc301643c6">Intermediate Data Visualization with Seaborn</a></li>
+<li><a href="https://www.datacamp.com/statement-of-accomplishment/course/e6688337376e91c237eb59d999f33453d8e48fe9">Supervised Learning with scikit-learn</a></li>
+</ul>
+<li><strong>DataCamp Projects</strong></li>
+    <ul>
+        <li><a href="https://learn.datacamp.com/projects/619">The Android App Market on Google Play</a></li>
+        <li><a href="https://learn.datacamp.com/projects/684">TV, Halftime Shows, and the Big Game</a></li>
+    </ul>
 </li>
 </ul>
