@@ -88,31 +88,35 @@ For example, the note is "Attack at dawn". The magazine contains only "attack at
 <td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/C%2B%2B/minimum-swaps-2.cpp"><strong>Code</strong></a></td>
 </tr>
 <tr style="height: 21px;">
-<td style="width: 1.61765%; height: 21px; border-style: solid;">xx</td>
+<td style="width: 1.61765%; height: 21px; border-style: solid;">10</td>
 <td style="width: 89.422%; height: 21px; border-style: solid;">
-<b>SherlockAnagrams: </b>
-<span>adasdasdd
-<br><a href="link">Read the problem in Hacker Rank</a></span>
+<b>New Year Chaos: </b>
+<span>It's New Year's Day and everyone's in line for the Wonderland rollercoaster ride! There are a number of people queued up, and each person wears a sticker indicating their initial position in the queue. Initial positions increment by 1 from 1 at the front of the line to at the back.
+
+Any person in the queue can bribe the person directly in front of them to swap positions. If two people swap positions, they still wear the same sticker denoting their original places in line. One person can bribe at most two others. For example, if n=8 and person 5 bribes person 4, the queue will look like this: 1,2,3,5,4,6,7,8.
+
+Fascinated by this chaotic queue, you decide you must know the minimum number of bribes that took place to get the queue into its current state!
+<br><a href="https://www.hackerrank.com/challenges/new-year-chaos/problem">Read the problem in Hacker Rank</a></span>
 </td>
-<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="link"><strong>Code</strong></a></td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/java/NewYearChaos.java"><strong>Code</strong></a></td>
 </tr>
 <tr style="height: 21px;">
-<td style="width: 1.61765%; height: 21px; border-style: solid;">xx</td>
+<td style="width: 1.61765%; height: 21px; border-style: solid;">11</td>
 <td style="width: 89.422%; height: 21px; border-style: solid;">
-<b>SherlockAnagrams: </b>
-<span>adasdasdd
-<br><a href="link">Read the problem in Hacker Rank</a></span>
+<b>Two Strings: </b>
+<span>Given two strings, determine if they share a common substring. A substring may be as small as one character. For example, the words "a", "and", "art" share the common substring "a". The words "be" and "cat" do not share a substring.
+<br><a href="https://www.hackerrank.com/challenges/two-strings/problem">Read the problem in Hacker Rank</a></span>
 </td>
-<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="link"><strong>Code</strong></a></td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/C%2B%2B/TwoStrings.cpp"><strong>Code</strong></a></td>
 </tr>
 <tr style="height: 21px;">
-<td style="width: 1.61765%; height: 21px; border-style: solid;">xx</td>
+<td style="width: 1.61765%; height: 21px; border-style: solid;">12</td>
 <td style="width: 89.422%; height: 21px; border-style: solid;">
-<b>SherlockAnagrams: </b>
-<span>adasdasdd
-<br><a href="link">Read the problem in Hacker Rank</a></span>
+<b>Array Manipulation: </b>
+<span>Starting with a 1-indexed array of zeros and a list of operations, for each operation add a value to each of the array element between two given indices, inclusive. Once all operations have been performed, return the maximum value in your array.
+<br><a href="https://www.hackerrank.com/challenges/crush/problem">Read the problem in Hacker Rank</a></span>
 </td>
-<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="link"><strong>Code</strong></a></td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/C%2B%2B/Array%20Manipulation.cpp"><strong>Code</strong></a></td>
 </tr>
 </tbody>
 </table>
