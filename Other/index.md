@@ -79,13 +79,13 @@ For example, the note is "Attack at dawn". The magazine contains only "attack at
 <td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/C%2B%2B/ctci-ransom-note.cpp"><strong>Code</strong></a></td>
 </tr>
 <tr style="height: 21px;">
-<td style="width: 1.61765%; height: 21px; border-style: solid;">xx</td>
+<td style="width: 1.61765%; height: 21px; border-style: solid;">9</td>
 <td style="width: 89.422%; height: 21px; border-style: solid;">
-<b>SherlockAnagrams: </b>
-<span>adasdasdd
-<br><a href="link">Read the problem in Hacker Rank</a></span>
+<b>Minimum Swaps 2: </b>
+<span>You are given an unordered array consisting of consecutive integers [1, 2, 3, ..., n] without any duplicates. You are allowed to swap any two elements. You need to find the minimum number of swaps required to sort the array in ascending order.
+<br><a href="https://www.hackerrank.com/challenges/minimum-swaps-2/problem">Read the problem in Hacker Rank</a></span>
 </td>
-<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="link"><strong>Code</strong></a></td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/C%2B%2B/minimum-swaps-2.cpp"><strong>Code</strong></a></td>
 </tr>
 <tr style="height: 21px;">
 <td style="width: 1.61765%; height: 21px; border-style: solid;">xx</td>
