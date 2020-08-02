@@ -10,13 +10,13 @@ comments: false
 <h3 style="text-align: left;"><strong><a href="/blog/ml_interpretablity">My Notes on ML Interpretablity</a> </strong></h3>
 <p>My Short Notes on ML Interpretablity here.</p>
 <hr />
-<h2 style="text-align: left;"><strong><a href="https://vikumsw.github.io/What-is-Summaries-in-ML/">What is Summaries in ML</a> </strong></h2>
+<h3 style="text-align: left;"><strong><a href="https://vikumsw.github.io/What-is-Summaries-in-ML/">What is Summaries in ML</a> </strong></h3>
 <p>This is a collection of short notes I am preparing in the area of machine learning as I am learning.</p>
 <hr />
-<h2 style="text-align: left;"><strong><a href="">Paper Reviews</a></strong></h2>
+<h3 style="text-align: left;"><strong><a href="">Paper Reviews</a></strong></h3>
 <p>I soon hope to publish the research paper reviews that I have done in the area of machine learning here. Stay tuned!.</p>
 <hr />
-<h2 style="text-align: left;"><strong>Kaggle as a learning platform</strong></h2>
+<h3 style="text-align: left;"><strong>Kaggle as a learning platform</strong></h3>
 <p>In my early days into ML, I used kaggle heavily to gain knowledge in applied ML and achieved masters ranking tear in Notebooks. With my experience I recommend kaggle as one of the best go to places for beginners in ML. Following is some selected notebooks I compiled on kaggle.</p>
 <ul>
     <li><a href="https://www.kaggle.com/vikumsw/beginners-basic-workflow-introduction"><strong>[Beginners] Basic Workflow Introduction</strong></a><br />Objective of this notebook is to provide an understanding on the basic workflow in a predictive modeling problem.</li>
@@ -31,7 +31,7 @@ comments: false
     <li><a href="https://www.kaggle.com/vikumsw/scripting-house-prices-solution"><strong>Scripting house prices solution</strong></a><br />Scripting Solution to the problem House Prices Solution.</li>
 </ul>
 <hr />
-<h2 style="text-align: left;"><b>Recommended</b><strong>&nbsp;courses that I followed</strong></h2>
+<h3 style="text-align: left;"><b>Recommended</b><strong>&nbsp;courses that I followed</strong></h3>
 <p>Today, we find a myriad of ML resources out there in the internet making selection of what to choose an difficult for a new comer. Following list presents the courses/books I recommend which I have personally followed.</p>
 <ul>
 <li><a href="https://www.coursera.org/learn/machine-learning"><strong> Machine Learning by Stanford University &mdash; Coursera</strong></a><br />This course instructed by Andrew Ng provides a broad introduction to machine learning, datamining, and statistical pattern recognition.<br /><a href="https://github.com/vikumsw/ML_Stanford_Cousera">My git repository link</a></li>
