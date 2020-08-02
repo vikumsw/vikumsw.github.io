@@ -7,7 +7,7 @@ comments: false
 --- 
 
 <p style="text-align: left;">I find machine learning fascinating because it's fun, diverse, pervasive, not magic, creative, science and free!.</p>
-<h2 style="text-align: left;"><strong><a href="/blog/ml_interpretablity">My Notes on ML Interpretablity</a> </strong></h2>
+<h3 style="text-align: left;"><strong><a href="/blog/ml_interpretablity">My Notes on ML Interpretablity</a> </strong></h3>
 <p>My Short Notes on ML Interpretablity here.</p>
 <hr />
 <h2 style="text-align: left;"><strong><a href="https://vikumsw.github.io/What-is-Summaries-in-ML/">What is Summaries in ML</a> </strong></h2>
