@@ -10,8 +10,16 @@ comments: false
 <h2 style="text-align: left;"><strong>Kaggle as a learning platform</strong></h2>
 <p>In my early days into ML, I used kaggle heavily to gain knowledge in applied ML and achieved masters ranking tear in Notebooks. With my experience I recommend kaggle as one of the best go to places for beginners in ML. Following is some selected notebooks I compiled on kaggle.</p>
 <ul>
-<li><a href="link"><strong>Notebook_1</strong></a><br />In this notebook, i have demonstrated how to ...</li>
-<li><a href="link"><strong>Notebook_2</strong></a><br />In this notebook, i have demonstrated how to ...</li>
+    <li><a href="https://www.kaggle.com/vikumsw/beginners-basic-workflow-introduction"><strong>[Beginners] Basic Workflow Introduction</strong></a><br />Objective of this notebook is to provide an understanding on the basic workflow in a predictive modeling problem.</li>
+    <li><a href="https://www.kaggle.com/vikumsw/guide-for-comprehensive-data-exploration-in-python"><strong>Guide for Comprehensive Data Exploration in Python</strong></a><br />Objective of this notebook is to clear confusion and make you competent in the beautiful world of EDA (Exploratory Data Analysis)</li>
+    <li><a href="https://www.kaggle.com/vikumsw/basic-feature-visualizations"><strong>Basic Feature Visualizations</strong></a><br />Objective of this notebook is to explore basic visualizations using Titanic dataset.</li>
+    <li><a href="https://www.kaggle.com/vikumsw/guide-on-hyperparameter-tuning-using-gridsearchcv"><strong>Guide on Hyperparameter Tuning Using GridSearchCV</strong></a><br />Tutorial on Hyperparameter Tuning Using GridSearchCV</li>
+    <li><a href="https://www.kaggle.com/vikumsw/explaining-random-forest-model-with-lime"><strong>Explaining Random Forest Model With LIME</strong></a><br />Objective of this short notebook is to Interprete a Random Forest Model with LIME method.</li>
+    <li><a href="https://www.kaggle.com/vikumsw/explaining-random-forest-model-with-shapely-values"><strong>Explaining Random Forest Model With Shapely Values</strong></a><br />Objective of this short notebook is to Interprete a Random Forest Model with Shapely Values method.</li>
+    <li><a href="https://www.kaggle.com/vikumsw/converting-categorical-features-is-easy"><strong>Titanic : Converting Categorical Features is Easy</strong></a><br /> Objective of this short notebook is to demonstrate simple ways you could use to convert Categorical Features</li>
+    <li><a href="https://www.kaggle.com/vikumsw/house-prices-solution-beginner"><strong>House Prices Solution (Beginner)</strong></a><br />Solution to the problem House Prices Solution.</li>
+    <li><a href="https://www.kaggle.com/vikumsw/pandas-tips-tricks-and-more"><strong>Pandas Tips & Tricks and More</strong></a><br />Objective of this notebook is to demonstrate most commonly used Pandas Tips & Tricks and More</li>
+    <li><a href="https://www.kaggle.com/vikumsw/scripting-house-prices-solution"><strong>Scripting house prices solution</strong></a><br />Scripting Solution to the problem House Prices Solution.</li>
 </ul>
 <h2 style="text-align: left;"><b>Recommended</b><strong>&nbsp;courses that I followed</strong></h2>
 <p>Today, we find a myriad of ML resources out there in the internet making selection of what to choose an difficult for a new comer. Following list presents the courses/books I recommend which I have personally followed.</p>
@@ -35,7 +43,7 @@ comments: false
     <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/9a78984b83a9b461a296a5ff0a3bc30e74b16fd3">Merging DataFrames with pandas</a></li>
     <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/17b64f99685e0eecf9536858cec45e73e279bfe7">Introduction to Data Visualization with Matplotlib</a></li>
     <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/dcce644ea345214f87d760597403d2bc301643c6">Intermediate Data Visualization with Seaborn</a></li>
-<li><a href="https://www.datacamp.com/statement-of-accomplishment/course/e6688337376e91c237eb59d999f33453d8e48fe9">Supervised Learning with scikit-learn</a></li>
+    <li><a href="https://www.datacamp.com/statement-of-accomplishment/course/e6688337376e91c237eb59d999f33453d8e48fe9">Supervised Learning with scikit-learn</a></li>
 </ul>
 <li><strong>DataCamp Projects</strong></li>
     <ul>
