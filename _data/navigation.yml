@@ -12,8 +12,11 @@
 - title: Transcript
   url: /reports/Transcript.pdf
 
-- title: Other
+- title: Problem Solving
   url: /Other/
+
+- title: ML
+  url: /ML/
 
 - title: Contact
   url: /contact/
