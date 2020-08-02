@@ -7,13 +7,14 @@ comments: false
 --- 
 
 <p style="text-align: left;">I find machine learning fascinating because it's fun, diverse, pervasive, not magic, creative, science and free!.</p>
-<h3 style="text-align: left;"><strong><a href="/blog/ml_interpretablity">My Notes on ML Interpretablity</a> </strong></h3>
-<p>My Short Notes on ML Interpretablity here.</p>
 <hr />
-<h3 style="text-align: left;"><strong><a href="https://vikumsw.github.io/What-is-Summaries-in-ML/">What is Summaries in ML</a> </strong></h3>
+<h3 style="text-align: left;"><strong><a href="/blog/ml_interpretablity">My notes on ML interpretablity</a> </strong></h3>
+<p>My short notes on ML interpretablity here.</p>
+<hr />
+<h3 style="text-align: left;"><strong><a href="https://vikumsw.github.io/What-is-Summaries-in-ML/">What is summaries in ML</a> </strong></h3>
 <p>This is a collection of short notes I am preparing in the area of machine learning as I am learning.</p>
 <hr />
-<h3 style="text-align: left;"><strong><a href="">Paper Reviews</a></strong></h3>
+<h3 style="text-align: left;"><strong><a href="">Paper reviews</a></strong></h3>
 <p>I soon hope to publish the research paper reviews that I have done in the area of machine learning here. Stay tuned!.</p>
 <hr />
 <h3 style="text-align: left;"><strong>Kaggle as a learning platform</strong></h3>
