@@ -65,6 +65,55 @@ comments: false
 </td>
 <td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/C%2B%2B/sherlock-and-anagrams.cpp"><strong>Code</strong></a></td>
 </tr>
+<tr style="height: 21px;">
+<td style="width: 1.61765%; height: 21px; border-style: solid;">8</td>
+<td style="width: 89.422%; height: 21px; border-style: solid;">
+<b>Hash Tables: Ransom Note: </b>
+<span>Harold is a kidnapper who wrote a ransom note, but now he is worried it will be traced back to him through his handwriting. He found a magazine and wants to know if he can cut out whole words from it and use them to create an untraceable replica of his ransom note. The words in his note are case-sensitive and he must use only whole words available in the magazine. He cannot use substrings or concatenation to create the words he needs.
+
+Given the words in the magazine and the words in the ransom note, print Yes if he can replicate his ransom note exactly using whole words from the magazine; otherwise, print No.
+
+For example, the note is "Attack at dawn". The magazine contains only "attack at dawn". The magazine has all the right words, but there's a case mismatch. The answer is "No".
+<br><a href="https://www.hackerrank.com/challenges/ctci-ransom-note/problem">Read the problem in Hacker Rank</a></span>
+</td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/C%2B%2B/ctci-ransom-note.cpp"><strong>Code</strong></a></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 1.61765%; height: 21px; border-style: solid;">xx</td>
+<td style="width: 89.422%; height: 21px; border-style: solid;">
+<b>SherlockAnagrams: </b>
+<span>adasdasdd
+<br><a href="link">Read the problem in Hacker Rank</a></span>
+</td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="link"><strong>Code</strong></a></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 1.61765%; height: 21px; border-style: solid;">xx</td>
+<td style="width: 89.422%; height: 21px; border-style: solid;">
+<b>SherlockAnagrams: </b>
+<span>adasdasdd
+<br><a href="link">Read the problem in Hacker Rank</a></span>
+</td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="link"><strong>Code</strong></a></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 1.61765%; height: 21px; border-style: solid;">xx</td>
+<td style="width: 89.422%; height: 21px; border-style: solid;">
+<b>SherlockAnagrams: </b>
+<span>adasdasdd
+<br><a href="link">Read the problem in Hacker Rank</a></span>
+</td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="link"><strong>Code</strong></a></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 1.61765%; height: 21px; border-style: solid;">xx</td>
+<td style="width: 89.422%; height: 21px; border-style: solid;">
+<b>SherlockAnagrams: </b>
+<span>adasdasdd
+<br><a href="link">Read the problem in Hacker Rank</a></span>
+</td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="link"><strong>Code</strong></a></td>
+</tr>
 </tbody>
 </table>
 <p>More fun algorithm problems with answers can be found here in this <a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving">repository</a>.</p>
