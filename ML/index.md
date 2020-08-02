@@ -6,9 +6,26 @@ title: Machine Learning
 comments: false
 --- 
 
-<p style="text-align: left;">I absolutely love problem solving. I find solving algorithms, puzzles and riddles&nbsp;highly engaging.&nbsp;Below are a small collection of diversions that I find interesting, usually because their solutions are creatively simple.</p>
+<p style="text-align: left;">I find machine learning facinating because it's fun, diverse, pervasive, not magic, creative, science and free!.</p>
+<h2 style="text-align: left;"><strong>Kaggle as a learning platform</strong></h2>
+<p>In my early days into ML, I used kaggle heavily to gain knowledge in applied ML and achieved masters ranking tear in Notebooks. With my experience I recommend kaggle as one of the best go to places for beginners in ML. Following is some selected notebooks I compiled on kaggle.</p>
+<ul>
+<li><a href="link"><strong>Notebook_1</strong></a><br />In this notebook, i have demonstrated how to ...</li>
+<li><a href="link"><strong>Notebook_2</strong></a><br />In this notebook, i have demonstrated how to ...</li>
+</ul>
+<h2 style="text-align: left;"><strong>Courses</strong></h2>
+<p>Today, we find a myriad of ML resources out there in the internet making selection of what to choose an difficult for a new comer. Following list presents the courses/books I recommend which I have personally followed.</p>
+<ul>
+<li><a href="link"><strong>Course_1</strong></a><br />In this course, i have demonstrated how to ...</li>
+<li><strong>DataCamp Courses</strong>
+<ul>
+<li><a href="link">DataCamp1</a><br />In this course, i have demonstrated how to ...</li>
+</ul>
+</li>
+</ul>
 
-<h2 style="text-align: left;"><strong>Algorithm Challenges</strong></h2>
+
+
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr style="height: 21px;">
