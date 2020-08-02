@@ -19,12 +19,17 @@ comments: false
 <li><a href="https://www.coursera.org/learn/machine-learning"><strong> Machine Learning by Stanford University &mdash; Coursera</strong></a><br />This course instructed by Andrew Ng provides a broad introduction to machine learning, datamining, and statistical pattern recognition.<br /><a href="https://github.com/vikumsw/ML_Stanford_Cousera">My git repository link</a></li>
 <li><a href="https://developers.google.com/machine-learning/crash-course"><strong> Google&rsquo;s Machine Learning (AI) Crash Course - Google AI</strong></a><br />A self-study guide for aspiring machine learning practitioners.</li>
 <li><a href="https://www.coursera.org/learn/introduction-tensorflow"><strong>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning by deeplearning.ai &mdash; Coursera</strong></a><br />Learn best practices for using TensorFlow,Build a basic neural network,Train a neural network for a computer vision application,Understand how to use convolutions to improve your neural network.</li>
-<li><a href="link"><strong>AI For Everyone by deeplearning.ai — Coursera</strong></a><br /> If you want your organization to become better at using AI, this is the course to tell everyone.</li>
+<li><a href="link"><strong>AI For Everyone by deeplearning.ai &mdash; Coursera</strong></a><br /> If you want your organization to become better at using AI, this is the course to tell everyone.</li>
 <li><a href="https://www.lynda.com/Kafka-tutorials/Kafka-Essential-Training/585254-2.html"><strong>Kafka Essential Training</strong></a><br />Introductory knowledge on kafka</li>
 <li><a href="https://www.linkedin.com/learning/learning-data-science-understanding-the-basics"><strong>Learning Data Science: Understanding the Basics - LinkedIn</strong></a><br />Introductory course to Data Science</li>
-<li><strong>DataCamp Courses</strong>
+<li><strong>DataCamp Courses<br /></strong>DataCamp's lessons are bite-sized and included&nbsp;<span>hands-on coding. Good for beginners.</span><strong><br /></strong>
 <ul>
 <li><a href="link">DataCamp1</a><br />In this course, i have demonstrated how to ...</li>
-</ul>
+<li><a href="link">DataCamp1</a><br />In this course, i have demonstrated how to ...</li>
+<li><a href="link">DataCamp1</a><br />In this course, i have demonstrated how to ...</li>
+<li><a href="link">DataCamp1</a><br />In this course, i have demonstrated how to ...</li>
+<li><a href="link">DataCamp1</a><br />In this course, i have demonstrated how to ...</li>
+<li><a href="link">DataCamp1</a><br />In this course, i have demonstrated how to ...</li>
+v</ul>
 </li>
 </ul>
