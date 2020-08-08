@@ -8,6 +8,9 @@ comments: false
 
 <p style="text-align: left;">I find machine learning fascinating because it's fun, diverse, pervasive, not magic, creative, science and free!.</p>
 <hr />
+<h3 style="text-align: left;"><strong><a href="/blog/AutoMLShortNote">My notes on AutoML</a> </strong></h3>
+<p>My short notes on AutoML here.</p>
+<hr />
 <h3 style="text-align: left;"><strong><a href="/blog/ml_interpretablity">My notes on ML interpretablity</a> </strong></h3>
 <p>My short notes on ML interpretablity here.</p>
 <hr />
