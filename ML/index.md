@@ -14,7 +14,7 @@ comments: false
 <h3 style="text-align: left;"><strong><a href="/blog/ml_interpretablity">My notes on ML interpretablity</a> </strong></h3>
 <p>My short notes on ML interpretablity here.</p>
 <hr />
-<h3 style="text-align: left;"><strong><a href="https://vikumsw.github.io/What-is-Summaries-in-ML/">What is summaries in ML</a> </strong></h3>
+<h3 style="text-align: left;"><strong><a href="/blog/what_is_summaries_in_ml">What is summaries in ML</a> </strong></h3>
 <p>This is a collection of short notes I am preparing in the area of machine learning as I am learning.</p>
 <hr />
 <h3 style="text-align: left;"><strong><a href="">Paper reviews</a></strong></h3>
