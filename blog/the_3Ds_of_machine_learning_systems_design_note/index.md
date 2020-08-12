@@ -6,8 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-This is my take on "The 3D's process" which is based on this wonderful [article](http://inverseprobability.com/2018/11/05/the-3ds-of-machine-learning-systems-design#fnref5) by Professor Neil Lawrence. I have changed the structure and compiled in a way I prefer. Everything you find here is explained clearly on the [original article](http://inverseprobability.com/2018/11/05/the-3ds-of-machine-learning-systems-design#fnref5) and I highly recommend reading it.
-
+This is my take on "The 3D's process" which is based on this wonderful [article](http://inverseprobability.com/2018/11/05/the-3ds-of-machine-learning-systems-design#fnref5) by Professor Neil Lawrence. I have changed the structure and compiled in a way I prefer. Everything you find here is explained clearly on the [original article](http://inverseprobability.com/2018/11/05/the-3ds-of-machine-learning-systems-design#fnref5). I reccomond reading the <a href="http://inverseprobability.com/2018/11/05/the-3ds-of-machine-learning-systems-design#fnref5">original article</a> first. Then this will be a good revision material to reflect on the ideas for later iterations.
 # The 3Ds of Machine Learning Systems Design
 Purpose of the article is describing the challenges of deploying our innovation and consider what the solutions may be.
 
@@ -25,8 +24,10 @@ We have to put some careful thought into right sub-processes to automate with ma
 * End-to-end training could be considered to embrace the characteristic of co-evolution of systems ; upstream errors can be compensated by downstream corrections.
  * Can lead to improvements in performance
  * But it could also damage our systems decomposability, its interpretability, and perhaps its adaptability.
- * The trade-off between interpretability and performance is a constant tension which we should always retain in our minds when performing our system design.
+ * The trade-off between interpretability and performance is a constant tension which we should always retain in our minds when performing our system design.  
+
 ----
+
 ### The Data Challenge:
 * What we need is cheap high-quality data. 
 * “The Data Crisis” : Data access is cheap, but data quality is often poor. This could be due to , the lack of attention paid to data, high cost and data cleaning is perceived as tedious. Also data cleaning is highly complex ; it requires a deep understanding of how machine learning systems operate and good intuitions about the data it self.As a consequence, data cleaning seems difficult to formulate into a readily teachable set of principles.
@@ -50,8 +51,10 @@ We have to put some careful thought into right sub-processes to automate with ma
   1. We need to improve our language around data quality.
   1. Thirdly, we need to improve our mental model of the separation of data science from applied science.
   Avoid thinking that data science as a sub-set of the software engineer’s or applied scientist’s skill set.
-  Need to recruit and deploy the correct type of resources.
+  Need to recruit and deploy the correct type of resources.  
+
 ----
+
 ### The Deployment Challenge:
 Need continuous monitoring systems to ensure their existing functionality has not been broken as the world evolves around them
 		
