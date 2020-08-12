@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-This is my take on "The 3D's process" which is based on this wonderful [article](http://inverseprobability.com/2018/11/05/the-3ds-of-machine-learning-systems-design#fnref5) by [Professor Neil Lawrence]. I have changed the structure and compiled in a way I prefer. Everything you find here is explained clearly on the [original article](http://inverseprobability.com/2018/11/05/the-3ds-of-machine-learning-systems-design#fnref5) and I highly recommend reading it.
+This is my take on "The 3D's process" which is based on this wonderful [article](http://inverseprobability.com/2018/11/05/the-3ds-of-machine-learning-systems-design#fnref5) by Professor Neil Lawrence. I have changed the structure and compiled in a way I prefer. Everything you find here is explained clearly on the [original article](http://inverseprobability.com/2018/11/05/the-3ds-of-machine-learning-systems-design#fnref5) and I highly recommend reading it.
 
 # The 3Ds of Machine Learning Systems Design
 Purpose of the article is describing the challenges of deploying our innovation and consider what the solutions may be.
