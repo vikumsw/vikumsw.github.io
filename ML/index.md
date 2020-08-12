@@ -8,7 +8,7 @@ comments: false
 
 <p style="text-align: left;">I find machine learning fascinating because it's fun, diverse, pervasive, not magic, creative, science and free!.</p>
 <hr />
-<h3 style="text-align: left;"><strong><a href="/blog/the_3Ds_of_machine_learning_systems_design_note">[Summarization] My take on "The 3Ds of Machine Learning Systems Design" by Professor Neil Lawrence(</a> </strong></h3>
+<h3 style="text-align: left;"><strong><a href="/blog/the_3Ds_of_machine_learning_systems_design_note">[Summarization] My take on "The 3Ds of Machine Learning Systems Design" by Professor Neil Lawrence</a> </strong></h3>
 <hr />
 <h3 style="text-align: left;"><strong><a href="/blog/AutoMLShortNote">My notes on AutoML</a> </strong></h3>
 <p>My short notes on AutoML here.</p>
