@@ -11,6 +11,7 @@ This is my take on "The 3D's process" which is based on this wonderful [article]
 Purpose of the article is describing the challenges of deploying our innovation and consider what the solutions may be.
 
 ## The 3D's process
+The 3D's is a process for machine learning systems design characterized using three challenges : Decomposition, Data and Deployment.  
 ### The Decomposition Challenge: 
 We have to put some careful thought into right sub-processes to automate with machine learning.  
 #### Why?:  
