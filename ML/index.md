@@ -8,6 +8,9 @@ comments: false
 
 <p style="text-align: left;">I find machine learning fascinating because it's fun, diverse, pervasive, not magic, creative, science and free!.</p>
 <hr />
+<h3 style="text-align: left;"><strong><a href="/blog/data_readiness">[Summarization] My take on "Data Readiness Levels" by Professor Neil Lawrence</a> </strong></h3>
+<p>This is my take on "Data Readiness Levels" which is based on this wonderful [paper](https://arxiv.org/abs/1705.02245), [blog post](http://inverseprobability.com/2017/01/12/data-readiness-levels), [talk](http://inverseprobability.com/talks/notes/data-readiness-levels.html) and [webpage](http://data-readiness.org//) by Professor Neil D. Lawrence.</p>
+<hr />
 <h3 style="text-align: left;"><strong><a href="/blog/the_3Ds_of_machine_learning_systems_design_note">[Summarization] My take on "The 3Ds of Machine Learning Systems Design" by Professor Neil Lawrence</a> </strong></h3>
 <p>This is my take on "The 3D's process" which is based on this wonderful <a href="http://inverseprobability.com/2018/11/05/the-3ds-of-machine-learning-systems-design#fnref5">article</a> by Professor Neil Lawrence. I have rearranged ideas and presented in a slighly different structure. I reccomond reading the <a href="http://inverseprobability.com/2018/11/05/the-3ds-of-machine-learning-systems-design#fnref5">original article</a> first. Then this will be a good revision material to reflect on the ideas for later iterations.</p>
 <hr />
