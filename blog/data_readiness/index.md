@@ -15,10 +15,10 @@ This is my take on "Data Readiness Levels" which is based on this wonderful [pap
 * Data-generating collaborators often only have a very basic understanding of the complications of collating, processing and curating data.
 * Challenges include: poor data collection practices, missing values, inconvenient storage mechanisms, intellectual property, security and privacy.
 * Therefore, preparing data is neccessary before eventual interpretation of data through machine learning or other approaches.
-* Preparing data also involves numerous steps. With each step data becomes closer to "Ready for the task". We can think of it as Data being carried along the readiness pipeline.
+* Preparing data also involves numerous steps. With each step data becomes closer to "Ready for the task". We can think of it as data being carried along the readiness pipeline.
 
-## Why this is done ? (The Problem/Purpose of this paper):  
-* Project overruns can occur due to failure to account for the amount of time required to curate and collate. Also many failings on large data projects are associated with a failure to provision resource for the challenges involved in preparing our data, rather than a failing in the algorithmics of the system. Therefore, In project reporting, a major challenge is in encapsulating problems and enabling goals to be built around the processing of data.
+## Why this is done? (The Problem/Purpose of this paper):  
+* Project overruns can occur due to failure to account for the amount of time required to curate and collate. Also many failings on large data projects are associated with a failure to provision resources for the challenges involved in preparing our data, rather than a failing in the algorithmics of the system. Therefore, In project reporting, a major challenge is in encapsulating problems and enabling goals to be built around the processing of data.
 * Also when preparing data is considered, we need to increase the accountability of the process and allow the nature of the data to be manifest.
 	
 ## What is done? (Proposed Solution/The Idea):
@@ -37,7 +37,7 @@ This is my take on "Data Readiness Levels" which is based on this wonderful [pap
   * Are there privacy or legal constraints on the accessibility of the recorded data, have ethical constraints been alleviated?
   * Limitations on access due to topology.  		
 * For data to arrive at C1, then it would have all above considerations dealt with.
-* C1 Data rediness level : Data is ready to be loaded into analysis software, or it can be made available for others to access. It is machine readable and ethical procedures for data handling have been addressed.
+* C1 data readiness level : Data is ready to be loaded into analysis software, or it can be made available for others to access. It is machine readable and ethical procedures for data handling have been addressed.
 * Band C contains data accessibility related challenges : “data munging” or “data wrangling”, ethical and legal challenges to be solved to move it to C1(Accessible Data).
 	
 ### Band B : Band B is about the faithfulness and representation of the data. 
