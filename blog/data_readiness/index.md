@@ -53,13 +53,13 @@ This is my take on "Data Readiness Levels" which is based on this wonderful [pap
     * Is it biased in any particular way?
 	* If the data has been agglomerated at some point (for example, for privacy) how were missing values dealt with before agglomeration?
   * If the data has been through a spreadsheet software, can you confirm that no common spreadsheet analysis errors were made?
-* B1 Data rediness level : Expert(s) has carried out an investigation on data and a broad idea of limitations in the data is present in the expert’s mind. Here the analyst begin to have an intuition about what might really be possible with the data set.
+* B1 data readiness level : Expert(s) has carried out an investigation on data and a broad idea of limitations in the data is present in the expert’s mind. Here the analyst begin to have an intuition about what might really be possible with the data set.
 * This work in band B is reusable across multiple teams.
 	
 ### Band A : Band A is about data in context
 ***Is this data set usable in this context?, Can we solve this task/problem with this data set?***
 * It is at Band A that we consider the appropriateness of a given data set to answer a particular question or to be subject to a particular analysis. A data set can only be considered in Band A once a task is defined.
-* A1 Data rediness level : Data has been considered alongside a task and any remedial steps have been taken.
+* A1 data readiness level : Data has been considered alongside a task and any remedial steps have been taken.
 * At A1 it is ready to be deployed in the context given and it can be used to make predictions with the data.
 * Work that might be needed : 
   * Annotation of the data by human expert
