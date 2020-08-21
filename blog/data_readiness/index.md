@@ -9,13 +9,13 @@ comments: true
 This is my take on "Data Readiness Levels" which is based on this wonderful [paper](https://arxiv.org/abs/1705.02245), [blog post](http://inverseprobability.com/2017/01/12/data-readiness-levels), [talk](http://inverseprobability.com/talks/notes/data-readiness-levels.html) and [webpage](http://data-readiness.org//) by Professor Neil D. Lawrence.
 
 
-# Data Readiness Levels : An attempt to develop and commonize language around data quality.
+# Data Readiness Levels : An attempt to develop language around data quality.
 	
 ## Background:
 * Data-generating collaborators often only have a very basic understanding of the complications of collating, processing and curating data.
 * Challenges include: poor data collection practices, missing values, inconvenient storage mechanisms, intellectual property, security and privacy.
 * Therefore, preparing data is neccessary before eventual interpretation of data through machine learning or other approaches.
-* Preparing data also involves numerous steps. With each step data becomes closer to "Ready for the task". We can think of it as Data is carried along the readiness pipeline.
+* Preparing data also involves numerous steps. With each step data becomes closer to "Ready for the task". We can think of it as Data being carried along the readiness pipeline.
 
 ## Why this is done ? (The Problem/Purpose of this paper):  
 * Project overruns can occur due to failure to account for the amount of time required to curate and collate. Also many failings on large data projects are associated with a failure to provision resource for the challenges involved in preparing our data, rather than a failing in the algorithmics of the system. Therefore, In project reporting, a major challenge is in encapsulating problems and enabling goals to be built around the processing of data.
