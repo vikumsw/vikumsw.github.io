@@ -119,6 +119,32 @@ All most all the time estimates are made from a gut feeling. But that requires e
 
 After refinement it could look like,
 
+|  Band | Work item  | Description | Skill Required  |  DoD |
+|---|---|---|---|---|
+|  C | Item 1  | Description  | Skill Required  | DoD  |
+|  C | Item 2  | Description  | Skill Required  | DoD  |
+|  C | Converting data into usable digital format  | Data could be on printed paper, PDF, or several web pages. This task aims to convert these data to a usable digital format.  | Depends on original and end formats. Eg, if data is extracted via web scrapping or if the convertion is from digital to digital, then programming skills are required. else ...  | List of checks : Conversion, Testing, QA verification, Documentation (original format, converted format, number of data points converted, total data points found, decisions taken, etc.), Documentation review, etc..|
+|  C | Item 4  | Description  | Skill Required  | DoD  |
+|  B | Item 1  | Description  | Skill Required  | DoD  |
+|  B | Item 2  | Description  | Skill Required  | DoD  |
+|  B | Item 3  | Description  | Skill Required  | DoD  |
+|  B | Item 4  | Description  | Skill Required  | DoD  |
+|  A | Item 1  | Description  | Skill Required  | DoD  |
+|  A | Item 2  | Description  | Skill Required  | DoD  |
+|  A | Item 3  | Description  | Skill Required  | DoD  |
+|  A | Item 4  | Description  | Skill Required  | DoD  |
+
+From this point onwards **we might see an opportunity to define sub-bands based on work item ordering and skills required**. Because then those sub-bands makes complete sense when it comes to planning. Also when creating teams, this guides on which combination of skills set is required.
+		
+Why solving this problem is important?  
+* Enabling smaller well-defined goals contributes to higher accuracy in resource planning.
+* This can be considered as "brownfield innovation". Therefore, first people will try to incorporate these readiness levels to their existing project management processes. Therefore, compatibility is important to decrease resistance to embrace innovation.
+* What would happen if we leave this as it is?. Then each team will define there own fine-grained versions suitable for there specific needs which would make difficulties in collaboration, inefficient resource transfer across teams, etc. 
+
+Things to remember  
+* Should be generic enough for all teams to adopt this. For example, some companies shift to agile but practice a slightly modified version that is tailored to be more suitable for their needs and organisational structure. 
+* Should be specific enough to build SMART goals around them.
+
 ### 2. Continuous adaptation 
 Data readiness levels can also be seen as a grouping of work items required in the data preparation process. 
 	
