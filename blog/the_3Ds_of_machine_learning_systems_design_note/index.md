@@ -71,5 +71,5 @@ Need continuous monitoring systems to ensure their existing functionality has no
 * Should scope the use of a streaming architecture (such as Apache Kafka) that ensures data persistence and enables asynchronous operation of our systems. This would enable the provision of QC streams, and real time dash boards as well as hypervisors.
 
 
-## My idea on this topic
+## My ideas on this topic
 Work In Progress..... Will be publishing soon!
