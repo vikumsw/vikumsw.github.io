@@ -128,11 +128,8 @@ After refinement it could look like,
 |  B | Item 1  | Description  | Skill Required  | DoD  |
 |  B | Item 2  | Description  | Skill Required  | DoD  |
 |  B | Item 3  | Description  | Skill Required  | DoD  |
-|  B | Item 4  | Description  | Skill Required  | DoD  |
 |  A | Item 1  | Description  | Skill Required  | DoD  |
 |  A | Item 2  | Description  | Skill Required  | DoD  |
-|  A | Item 3  | Description  | Skill Required  | DoD  |
-|  A | Item 4  | Description  | Skill Required  | DoD  |
 
 From this point onwards **we might see an opportunity to define sub-bands based on work item ordering and skills required**. Because then those sub-bands makes complete sense when it comes to planning. Also when creating teams, this guides on which combination of skills set is required.
 		
