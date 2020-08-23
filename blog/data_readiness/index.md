@@ -67,4 +67,24 @@ This is my take on "Data Readiness Levels" which is based on this wonderful [pap
 * It is possible for a data set to be A1 for one question but only B1 for a different question.
 			 
 ## What can we do to improve this work?
-<To do>
+### 1. Problem 1: 
+Now project management team have an idea about the data preparation work required in terms of three levels of data graduation. I see this useful at project milestone level planning (bringing data from C4 to C1 can be thought of as a milestone).  
+But when creating teams, managers would also need more clear insight on which combination of skill set is required.
+Also in team level planning, can the development team create tasks that fit their development methodology and allocate time and resource persons to tackle the tasks effectively?.
+The product management team should be able to track the progress via well defined smaller goals/work items. These smaller goals/work items enable effective resource allocation: We should be able to estimate time/efforts with adequate confidence levels and allocate people with required skills to those tasks.
+This might not be easy as the work in a band seems too broad for a single work item and might require different skill sets.  
+To elaborate this more lets first consider below project planning scenario from a software engineering context,
+
+### 2. Continuous adaptation 
+### 3. Standardize documentation for work items done in each band.
+### Other Thoughts...
+* For all of this to work, we should ensure we get broader consensus across data sciences. What can we do to make the idea spread faster among decision-makers and practitioners?
+  * **Courses on data processing which speak the proposed data readiness language:** The author also mentions that processes involved in Grade C and B are often badly taught in courses on data science. I see this as a gap which can be converted to an opportunity. *What if we offer courses on data processing which speak the proposed data readiness language to fill this gap?*. This way the idea of data readiness levels can be spread first to practitioners and then to managers through practitioners. However, this idea is based on the assumption that there would be considerable demand for a free course on data processing (which can be assessed by market research).		
+  * **Promoting shift to Data-Oriented Architectures** which will demand huge attention to the quality of the data would also increase the need for a language around data quality.
+* A language around a process enables helps to identify possible improvements by enabling analysis in much greater depth. As a result, this could lead to the rise of more roles specialized for certain work items in data readiness pipeline. (Eg: There was no scrum master role before agile.)
+
+#### Terminology
+* Epic: Collection of stories.
+* Story: A development task involved in adding functionality to a system.
+* backlog: Place holder for the work items that need to be done.
+* sprint: A short, time-boxed period when a team works to complete a set amount of work.
