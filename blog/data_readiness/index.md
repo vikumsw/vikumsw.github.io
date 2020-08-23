@@ -76,6 +76,17 @@ This might not be easy as the work in a band seems too broad for a single work i
 To elaborate this more lets first consider below project planning scenario from a software engineering context,
 
 ### 2. Continuous adaptation 
+Data readiness levels can also be seen as a grouping of work items required in the data preparation process. 
+	
+C4 -> *work item 1, work item 2, work item 3, work item 3, ..., work item n1* -> C1  
+C1 -> Data becomes electronically available -> B4  
+B4 -> *work item 1, work item 2, work item 3, work item 3, ..., work item n2* -> B1    
+B1 -> Pose a question to the data. -> A4  
+A4 -> *work item 1, work item 2, work item 3, work item 3, ..., work item n3* -> A1  
+	
+As the world changes, there will be new work items(new challenges) added to above work item sets. And some work items might not be needed anymore (ex: with standardized data collection practices, etc..). Hence it is important to update the data readiness pipeline (I would like to call it as a methodology for data processing) as we progress. 
+If we could gain a broader consensus across the data science community for data readiness levels, data science community itself can contribute to updating the "Methodology" by using the experience. 
+
 ### 3. Standardize documentation for work items done in each band.
 Assume a scenario that we have to build a machine learning application and we are also aware that the required data set is available off the shelf in B1 readiness level. We have to be extra careful at Band A investigations because decisions on data preparation taken outside the context of the application (band C, band B) have dangerous downstream consequences.
 Therefore with the dataset, I would also like to receive two reports.
