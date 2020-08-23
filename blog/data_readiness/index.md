@@ -83,9 +83,9 @@ Therefore with the dataset, I would also like to receive two reports.
 2. **B1 Report:** This report contains all the documentation done in Band B work.   
 
 If done correctly, experts might be able to do most work in band A, only with C1 & B1 reports. Only the POC will require opening the data set.
-However, this will be most effective only if the documentation in the B1, C1 is done according to a common standard which would be very simple.
+However, this will be most effective only if the documentation in the bands B and C are done according to a common simple standard.
 	
-* How to come up with a standard?: *It's difficult to come up with best practices for me by simulating the process mentally without much experience. If I have to come up with a standard, I  would start with a C4 data set, will bring it to A1 while creating a list of best practices and defining a standard with the feedback of different stakeholders. Few iterations of the whole process might be needed with different data sets until we got a standard with adequate quality. (An easier and quicker way could be arranging a meeting series with experts to get it done using their experience).*
+* How to come up with a standard?: *It's difficult to come up with best practices by simulating the process mentally without much experience. If I have to come up with a standard, I  would start with a C4 data set, will bring it to A1 while creating a list of best practices and defining a standard with the feedback of different stakeholders. Few iterations of the whole process might be needed with different data sets until we got a standard with adequate quality. (An easier and quicker way could be arranging a meeting series with experts to get it done using their experience).*
 
 ### Other Thoughts...
 * For all of this to work, we should ensure we get broader consensus across data sciences. What can we do to make the idea spread faster among decision-makers and practitioners?
