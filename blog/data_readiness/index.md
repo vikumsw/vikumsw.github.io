@@ -65,9 +65,12 @@ This is my take on "Data Readiness Levels" which is based on this wonderful [pap
   * Annotation of the data by human expert
   * There may be a realisation that new data needs to be actively collected to get the answers required	 
 * It is possible for a data set to be A1 for one question but only B1 for a different question.
-			 
+	
+	
+----
+
 ## What can we do to improve this work?
-### 1. Problem 1: 
+### 1. Enabling smaller well-defined goals for team level planning. 
 Now project management team have an idea about the data preparation work required in terms of three levels of data graduation. I see this useful at project milestone level planning (bringing data from C4 to C1 can be thought of as a milestone).  
 But when creating teams, managers would also need more clear insight on which combination of skill set is required.
 Also in team level planning, can the development team create tasks that fit their development methodology and allocate time and resource persons to tackle the tasks effectively?.
