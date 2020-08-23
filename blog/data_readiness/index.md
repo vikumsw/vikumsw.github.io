@@ -137,78 +137,77 @@ After refinement it could look like,
 <table style="width: 100%;" border="1">
 <tbody>
 <tr>
-<td>&nbsp;Band</td>
-<td>&nbsp;Work item</td>
-<td>&nbsp;Description</td>
-<td>&nbsp;Skill Required</td>
-<td>&nbsp;DoD</td>
+<td style="width: 3%;"><strong>Band</strong></td>
+<td style="width: 15%;"><strong>Work item</strong></td>
+<td style="width: 22.8074%;"><strong>Description</strong></td>
+<td style="width: 24.1926%;"><strong>Skill Required</strong></td>
+<td style="width: 25%;"><strong>DoD</strong></td>
 </tr>
 <tr>
-<td>&nbsp;C</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td style="width: 3%;">&nbsp;C</td>
+<td style="width: 15%;">Item 1</td>
+<td style="width: 22.8074%;">Description</td>
+<td style="width: 24.1926%;">Skill Required</td>
+<td style="width: 25%;">DoD</td>
 </tr>
 <tr>
-<td>&nbsp;C&nbsp;</td>
-<td>&nbsp;Investigate privacy, legal or ethical accessibility constraints.</td>
-<td>&nbsp;Investigate all privacy, legal or ethical constraints associated with the data set.</td>
-<td>&nbsp;Data ethics/policy advisor</td>
-<td>&nbsp;&nbsp;Documentation on existing constraints, what actions(anonymization, approvals, .. ) needed to alleviate those constraints, etc..</td>
+<td style="width: 3%;">&nbsp;C</td>
+<td style="width: 15%;">Investigate privacy, legal or ethical accessibility constraints.</td>
+<td style="width: 22.8074%;">Investigate all privacy, legal or ethical constraints associated with the data set.</td>
+<td style="width: 24.1926%;">Data ethics/policy advisor</td>
+<td style="width: 25%;">Documentation on existing constraints, what actions(anonymization, approvals, .. ) needed to alleviate those constraints, etc..</td>
 </tr>
 <tr>
-<td>&nbsp;C&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td style="width: 3%;">&nbsp;C&nbsp;</td>
+<td style="width: 15%;">Converting data into usable digital format</td>
+<td style="width: 22.8074%;">Data could be on printed paper, PDF, or several web pages. This task aims to convert these data to a usable digital format.</td>
+<td style="width: 24.1926%;">Depends on original and end formats. Eg, if data is extracted via web scrapping or if the conversion is from digital to digital, then programming skills are required. else ...</td>
+<td style="width: 25%;">&nbsp;List of checks: Conversion, Testing, QA verification, Documentation (original format, converted format, number of data points converted, total data points found, decisions taken, etc.), Documentation review, etc..</td>
 </tr>
 <tr>
-<td>&nbsp;C</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td style="width: 3%;">&nbsp;C</td>
+<td style="width: 15%;">Item 4</td>
+<td style="width: 22.8074%;">Description</td>
+<td style="width: 24.1926%;">Skill Required</td>
+<td style="width: 25%;">DoD</td>
 </tr>
 <tr>
-<td>&nbsp;B&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td style="width: 3%;">&nbsp;B</td>
+<td style="width: 15%;">Item 1</td>
+<td style="width: 22.8074%;">Description</td>
+<td style="width: 24.1926%;">Skill Required</td>
+<td style="width: 25%;">DoD</td>
 </tr>
 <tr>
-<td>&nbsp;B&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td style="width: 3%;">&nbsp;B</td>
+<td style="width: 15%;">Item 2</td>
+<td style="width: 22.8074%;">Description</td>
+<td style="width: 24.1926%;">Skill Required</td>
+<td style="width: 25%;">DoD</td>
 </tr>
 <tr>
-<td>&nbsp;B&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td style="width: 3%;">&nbsp;B</td>
+<td style="width: 15%;">Item 3</td>
+<td style="width: 22.8074%;">Description</td>
+<td style="width: 24.1926%;">Skill Required</td>
+<td style="width: 25%;">DoD</td>
 </tr>
 <tr>
-<td>&nbsp;A&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td style="width: 3%;">&nbsp;A</td>
+<td style="width: 15%;">Item 2</td>
+<td style="width: 22.8074%;">Description</td>
+<td style="width: 24.1926%;">Skill Required</td>
+<td style="width: 25%;">DoD</td>
 </tr>
 <tr>
-<td>&nbsp;A</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td style="width: 3%;">&nbsp;A</td>
+<td style="width: 15%;">Item 2</td>
+<td style="width: 22.8074%;">Description</td>
+<td style="width: 24.1926%;">Skill Required</td>
+<td style="width: 25%;">DoD</td>
 </tr>
 </tbody>
 </table>
-<!-- DivTable.com -->
 
 From this point onwards **we might see an opportunity to define sub-bands based on work item ordering and skills required**. Because then those sub-bands makes complete sense when it comes to planning. Also when creating teams, this guides on which combination of skills set is required.
 		
