@@ -75,6 +75,50 @@ The product management team should be able to track the progress via well define
 This might not be easy as the work in a band seems too broad for a single work item and might require different skill sets.  
 To elaborate this more lets first consider below project planning scenario from a software engineering context,
 
+As a member of an agile software engineering team, once every week I sit for a product backlog grooming session.
+Let's assume our backlog items could look like below,
+* Epic: Enabling synchronization between multiple referencedata systems.
+  * Stroy 1: Skeleton implementation for multiple referencedata systems.
+  * Story 2: Connection management for multiple referencedata systems.
+  * Story 3: Implementation of FT mechanisms.
+  * Story 4: Audit Trail implementation related to multiple referencedata systems.
+  *  etc...
+			
+Most common questions we address in the discussion takes the form of,  
+	*"How much effort would it take to complete story 1?." "Ans: about 10 Man days/ 20 story points"*  
+	*"What is the confidence level of this effort estimate?"*  
+	*"Work required for Story 4 is not clear enough for us to give an estimate with a 70% confidence level. We might only be able to give a very high-level estimate. We need an analysis task first."*  
+	*"Effort for story 2 is too big for us to take into one sprint. We need to break it down."*  
+	*"Who can do this task?"*  
+	*"Can this task be parallelized by assigning multiple developers?"*  
+	*"What is the Definition of Done(DoD) for this work item?"*  
+		
+Most of the questions above are valid and arises directly or indirectly irrespective of the development methodology(agile, waterfall, etc...) we use.
+
+Let's assume a very high-level task breakdown of an ML project,
+Assume we have already decomposed our current system and identified a subprocess that needs to be automated.
+* Epic: Automating fraud detection system using Machine Learning.
+  * Stroy 1: Bring data to C1 readiness.
+  * Stroy 2: Bring data to B1 readiness.
+  * Stroy 3: Bring data to A1 readiness.
+  * Stroy 4: Modelling building and testing.
+  * Stroy 5: Testing in pre-production.
+  * Stroy 6: Deployment.
+  * etc...
+
+Now assume similar questions mentioned before arising in this discussion. What would make it easier to address those questions?. I suggest following refinements to the data readiness pipeline.
+
+#### What we could do
+1. Breaking data readiness bands to sub-bands or work items to enabling smaller goals.  
+Already data readiness levels description consists of three bands and possible work items in each band. These work items can be considered as an initial breakdown for a start. However, we would need to check them for completeness.
+
+2. Making smaller goals well defined to enable accurate time estimates and to increase accountability.   
+All most all the time estimates are made from a gut feeling. But that requires experience which won't be readily available as data processing is often neglected. Therefore, a clear description of the task and defining what "done" means(Definition of Done) would be really helpful.  
+
+3. Defining what skills would be most suitable at the task level to enabling effective resource allocation and team creation.  
+
+After refinement it could look like,
+
 ### 2. Continuous adaptation 
 Data readiness levels can also be seen as a grouping of work items required in the data preparation process. 
 	
