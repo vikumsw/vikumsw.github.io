@@ -134,6 +134,82 @@ After refinement it could look like,
 |  A | Item 1  | Description  | Skill Required  | DoD  |
 |  A | Item 2  | Description  | Skill Required  | DoD  |
 
+<table style="width: 100%;" border="1">
+<tbody>
+<tr>
+<td>&nbsp;Band</td>
+<td>&nbsp;Work item</td>
+<td>&nbsp;Description</td>
+<td>&nbsp;Skill Required</td>
+<td>&nbsp;DoD</td>
+</tr>
+<tr>
+<td>&nbsp;C</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;C&nbsp;</td>
+<td>&nbsp;Investigate privacy, legal or ethical accessibility constraints.</td>
+<td>&nbsp;Investigate all privacy, legal or ethical constraints associated with the data set.</td>
+<td>&nbsp;Data ethics/policy advisor</td>
+<td>&nbsp;&nbsp;Documentation on existing constraints, what actions(anonymization, approvals, .. ) needed to alleviate those constraints, etc..</td>
+</tr>
+<tr>
+<td>&nbsp;C&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;C</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;B&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;B&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;B&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;A&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;A</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- DivTable.com -->
+
 From this point onwards **we might see an opportunity to define sub-bands based on work item ordering and skills required**. Because then those sub-bands makes complete sense when it comes to planning. Also when creating teams, this guides on which combination of skills set is required.
 		
 Why solving this problem is important?  
