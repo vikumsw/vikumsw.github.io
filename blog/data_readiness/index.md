@@ -77,6 +77,16 @@ To elaborate this more lets first consider below project planning scenario from 
 
 ### 2. Continuous adaptation 
 ### 3. Standardize documentation for work items done in each band.
+Assume a scenario that we have to build a machine learning application and we are also aware that the required data set is available off the shelf in B1 readiness level. We have to be extra careful at Band A investigations because decisions on data preparation taken outside the context of the application (band C, band B) have dangerous downstream consequences.
+Therefore with the dataset, I would also like to receive two reports.
+1. **C1 Report:** This report contains all the documentation done in Band C work.  
+2. **B1 Report:** This report contains all the documentation done in Band B work.   
+
+If done correctly, experts might be able to do most work in band A, only with C1 & B1 reports. Only the POC will require opening the data set.
+However, this will be most effective only if the documentation in the B1, C1 is done according to a common standard which would be very simple.
+	
+* How to come up with a standard?: *It's difficult to come up with best practices for me by simulating the process mentally without much experience. If I have to come up with a standard, I  would start with a C4 data set, will bring it to A1 while creating a list of best practices and defining a standard with the feedback of different stakeholders. Few iterations of the whole process might be needed with different data sets until we got a standard with adequate quality. (An easier and quicker way could be arranging a meeting series with experts to get it done using their experience).*
+
 ### Other Thoughts...
 * For all of this to work, we should ensure we get broader consensus across data sciences. What can we do to make the idea spread faster among decision-makers and practitioners?
   * **Courses on data processing which speak the proposed data readiness language:** The author also mentions that processes involved in Grade C and B are often badly taught in courses on data science. I see this as a gap which can be converted to an opportunity. *What if we offer courses on data processing which speak the proposed data readiness language to fill this gap?*. This way the idea of data readiness levels can be spread first to practitioners and then to managers through practitioners. However, this idea is based on the assumption that there would be considerable demand for a free course on data processing (which can be assessed by market research).		
