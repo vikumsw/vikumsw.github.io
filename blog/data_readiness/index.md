@@ -122,7 +122,7 @@ After refinement it could look like,
 |  Band | Work item  | Description | Skill Required  |  DoD |
 |---|---|---|---|---|
 |  C | Item 1  | Description  | Skill Required  | DoD  |
-|  C | Item 2  | Description  | Skill Required  | DoD  |
+|  C | Investigate privacy, legal or ethical accessability contraints.  | Investigate all privacy, legal or ethical constraints associated with the data set.  | Data ethics/policy advisor  | Documentation on existing contraints, what actions(anonymization, approvals, .. ) needed to alleviate those constrains, etc..  |
 |  C | Converting data into usable digital format  | Data could be on printed paper, PDF, or several web pages. This task aims to convert these data to a usable digital format.  | Depends on original and end formats. Eg, if data is extracted via web scrapping or if the convertion is from digital to digital, then programming skills are required. else ...  | List of checks : Conversion, Testing, QA verification, Documentation (original format, converted format, number of data points converted, total data points found, decisions taken, etc.), Documentation review, etc..|
 |  C | Item 4  | Description  | Skill Required  | DoD  |
 |  B | Item 1  | Description  | Skill Required  | DoD  |
