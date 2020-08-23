@@ -22,9 +22,9 @@ comments: false
 <hr />
 <h3 style="text-align: left;"><strong><a href="/blog/what_is_summaries_in_ml">What is summaries in ML</a> </strong></h3>
 <p>This is a collection of short notes I am preparing in the area of machine learning as I am learning.</p>
-<hr />
+<!--hr />
 <h3 style="text-align: left;"><strong><a href="">Paper reviews</a></strong></h3>
-<p>I soon hope to publish the research paper reviews that I have done in the area of machine learning here. Stay tuned!.</p>
+<p>I soon hope to publish the research paper reviews that I have done in the area of machine learning here. Stay tuned!.</p-->
 <hr />
 <h3 style="text-align: left;"><strong>Kaggle as a learning platform</strong></h3>
 <p>In my early days into ML, I used kaggle heavily to gain knowledge in applied ML and achieved masters ranking tear in Notebooks. With my experience I recommend kaggle as one of the best go to places for beginners in ML. Following is some selected notebooks I compiled on kaggle.</p>
