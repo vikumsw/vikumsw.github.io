@@ -69,3 +69,7 @@ Need continuous monitoring systems to ensure their existing functionality has no
 * Create 'hypervisor' systems that understand the context in which models are deployed and recognize when circumstance has changed and models need retraining or restructuring.
 * Consider a major re-architecting of systems around our services.
 * Should scope the use of a streaming architecture (such as Apache Kafka) that ensures data persistence and enables asynchronous operation of our systems. This would enable the provision of QC streams, and real time dash boards as well as hypervisors.
+
+
+## My idea on this topic
+Work In Progress..... Will be publishing soon!
