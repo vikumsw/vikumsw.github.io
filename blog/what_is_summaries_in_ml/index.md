@@ -71,3 +71,13 @@ resources :
 
 resources :
 * [Wikipedia](https://en.wikipedia.org/wiki/A/B_testing)
+
+## What is GPT-3?
+* GPT-3 is a language model developed by OpenAI.
+* GPT stands for “generative pre-training transformer”.
+* It’s basically a language predictor: you feed it some content, and it guesses what should come next.
+* Size of the model: 175 billion parameters.
+  
+Resources:
+* https://nesslabs.com/gpt-3-future-productivity
+* https://gpt3examples.com/#examples
