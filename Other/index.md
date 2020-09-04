@@ -118,6 +118,14 @@ Fascinated by this chaotic queue, you decide you must know the minimum number of
 </td>
 <td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/C%2B%2B/Array%20Manipulation.cpp"><strong>Code</strong></a></td>
 </tr>
+<tr style="height: 21px;">
+<td style="width: 1.61765%; height: 21px; border-style: solid;">12</td>
+<td style="width: 89.422%; height: 21px; border-style: solid;">
+<b>Super Palindromes: </b>
+<span>Let's say a positive integer is a superpalindrome if it is a palindrome, and it is also the square of a palindrome. Now, given two positive integers L and R, return the number of superpalindromes in the inclusive range [L,R].</span>
+</td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/python/SuperPalindrome.py"><strong>Code</strong></a></td>
+</tr>
 </tbody>
 </table>
 <p>More fun algorithm problems with answers can be found here in this <a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving">repository</a>.</p>
