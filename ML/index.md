@@ -8,6 +8,9 @@ comments: false
 
 <p style="text-align: left;">I find machine learning fascinating because it's fun, diverse, pervasive, not magic, creative, science and free!.</p>
 <hr />
+<h3 style="text-align: left;"><strong><a href="/blog/intellectual_debt">A short note of the talk "Intellectual Debt and the Death of the Programmer" by Professor Neil D. Lawrence.</a> </strong></h3>
+<p>This is a short note of the talk "Intellectual Debt and the Death of the Programmer" by Professor Neil D. Lawrence.</p>
+<hr />
 <h3 style="text-align: left;"><strong><a href="/blog/data_readiness">My take on "Data Readiness Levels" by Professor Neil Lawrence</a> </strong></h3>
 <p>This is my take on "Data Readiness Levels" which is based on this wonderful <a href="https://arxiv.org/abs/1705.02245">paper</a>, <a href="http://inverseprobability.com/2017/01/12/data-readiness-levels">blog post</a>, <a href="http://inverseprobability.com/talks/notes/data-readiness-levels.html">talk</a> and <a href="http://data-readiness.org//">webpage</a> by Professor Neil D. Lawrence.</p>
 <hr />
