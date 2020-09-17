@@ -81,3 +81,13 @@ resources :
 Resources:
 * https://nesslabs.com/gpt-3-future-productivity
 * https://gpt3examples.com/#examples
+
+## What’s a Fourier transform?
+* A method to decompose functions into a superposition of symmetric functions.
+* given a smoothie, it’s how we find the recipe.
+* A Fourier transform converts a signal from time to frequency domain
+* Read more : https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
+  
+Resources:
+* https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/
+
