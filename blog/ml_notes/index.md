@@ -352,13 +352,13 @@ Unsupervised learning can be broadly split into methods that cluster the data (i
     * ‌Logistic regression, Scalar Vector Machine, Traditional neural networks
 
 * Cross-validation for time series dataset
-  * time series is not randomly distributed data—it is ordered by chronological order. K-fold wont work.
-  * A technique : Forward chaining,
-	fold 1 : training [1], test [2]
-	fold 2 : training [1 2], test [3]
-	fold 3 : training [1 2 3], test [4]
-	fold 4 : training [1 2 3 4], test [5]
-	fold 5 : training [1 2 3 4 5], test [6]
+  * Time series is not randomly distributed data—it is ordered by chronological order. K-fold wont work.
+  * A technique : Forward chaining,  
+	fold 1 : training [1], test [2]  
+	fold 2 : training [1 2], test [3]  
+	fold 3 : training [1 2 3], test [4]  
+	fold 4 : training [1 2 3 4], test [5]  
+	fold 5 : training [1 2 3 4 5], test [6]  
 	
 * What’s a Fourier transform?
   * A method to decompose functions into a superposition of symmetric functions.	
