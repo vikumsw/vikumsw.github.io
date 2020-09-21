@@ -23,6 +23,9 @@ comments: false
 <h3 style="text-align: left;"><strong><a href="/blog/ml_interpretablity">My notes on ML interpretablity</a> </strong></h3>
 <p>My short notes on ML interpretablity here.</p>
 <hr />
+<h3 style="text-align: left;"><strong><a href="/blog/ml_notes">My short notes on Machine Learning</a> </strong></h3>
+<p>My My short notes on Machine Learning here.</p>
+<hr />
 <h3 style="text-align: left;"><strong><a href="/blog/what_is_summaries_in_ml">What is summaries in ML</a> </strong></h3>
 <p>This is a collection of short notes I am preparing in the area of machine learning as I am learning.</p>
 <!--hr />
