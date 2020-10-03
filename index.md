@@ -24,9 +24,44 @@ At the moment I am seeking an opportunity to push the frontiers of machine learn
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Oct 2020]</strong></td>
+        <td>New   
+        <a href="/Other">Algorithm Challenges</a> added
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Sep 2020]</strong></td>
+        <td>Published a <a href="/blog/intellectual_debt">short note</a> of the talk "Intellectual Debt and the Death of the Programmer" by Professor Neil D. Lawrence.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Aug 2020]</strong></td>
+        <td>
+        <a href="/blog/data_readiness">My take on "Data Readiness Levels" by Professor Neil Lawrence</a>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[July 2020]</strong></td>
+        <td>    
+        <a href="/blog/the_3Ds_of_machine_learning_systems_design_note"> My take on "The 3Ds of Machine Learning Systems Design" by Professor Neil Lawrence</a> 
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Jun 2020]</strong></td>
         <td>VIP(Values in Practice) Award Winner for Excellence and Partnership at 
         <a href="https://www.lseg.com/markets-products-and-services/technology/lseg-technology">London Stock Exchange Group Technology</a>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[May 2020]</strong></td>
+        <td>
+        <a href="/blog/AutoMLShortNote">[Notes] My notes on AutoML</a>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Apr 2020]</strong></td>
+        <td>
+        <a href="/blog/ml_interpretablity">My notes on ML interpretablity</a>
         </td>
     </tr>
     <tr>
