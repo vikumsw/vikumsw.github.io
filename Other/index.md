@@ -126,6 +126,20 @@ Fascinated by this chaotic queue, you decide you must know the minimum number of
 </td>
 <td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/python/SuperPalindrome.py"><strong>Code</strong></a></td>
 </tr>
+<tr style="height: 21px;">
+<td style="width: 1.61765%; height: 21px; border-style: solid;">13</td>
+<td style="width: 89.422%; height: 21px; border-style: solid;">
+<b>Moving Robot: </b>
+<span>On a infinite plane, a robot initially stands at (0,0) and faces north. The robot can recieve one of three insructions: 'G': go straight 1 unit.
+'L': turn 90 degrees to the left.
+'R': turn 90 degrees to the right.
+The robot performs the instructions given in order, and repeats them forever.
+return true if there exists a circle, in the plane such that the robot never leaves the circle.
+
+Input: "GGLLGG". Ouput: True</span>
+</td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/python/IsLooping.py"><strong>Code</strong></a></td>
+</tr>
 </tbody>
 </table>
 <p>More fun algorithm problems with answers can be found here in this <a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving">repository</a>.</p>

@@ -303,9 +303,11 @@ Unsupervised learning can be broadly split into methods that cluster the data (i
 * Bias and Variance trade off
   * Bias : ‘how much on an average are the predicted values different from the actual value.’
   * Varience : ‘how different will the predictions of the model be at the same point if different samples are taken from the same population’
-  * Low model complexity  -> high bias (underfitting)
-  * High model complexity -> high variance (overfitting)
+  * Low model complexity  -> high bias (underfitting)    : Bias -> learning algorithm is not complex enough-> cannot capture the patterns in data.
+  * High model complexity -> high variance (overfitting) : Variance -> too much complexity in the learning algorithm -> fits to the noise
   * The optimal model complexity -> balanced bias and varience
+  
+	
 
 * Reinforcement Learning
   * model free approach known as Q-learning
@@ -352,13 +354,13 @@ Unsupervised learning can be broadly split into methods that cluster the data (i
     * ‌Logistic regression, Scalar Vector Machine, Traditional neural networks
 
 * Cross-validation for time series dataset
-  * Time series is not randomly distributed data—it is ordered by chronological order. K-fold wont work.
-  * A technique : Forward chaining,  
-	fold 1 : training [1], test [2]  
-	fold 2 : training [1 2], test [3]  
-	fold 3 : training [1 2 3], test [4]  
-	fold 4 : training [1 2 3 4], test [5]  
-	fold 5 : training [1 2 3 4 5], test [6]  
+  * time series is not randomly distributed data—it is ordered by chronological order. K-fold wont work.
+  * A technique : Forward chaining,
+	fold 1 : training [1], test [2]
+	fold 2 : training [1 2], test [3]
+	fold 3 : training [1 2 3], test [4]
+	fold 4 : training [1 2 3 4], test [5]
+	fold 5 : training [1 2 3 4 5], test [6]
 	
 * What’s a Fourier transform?
   * A method to decompose functions into a superposition of symmetric functions.	
