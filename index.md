@@ -24,6 +24,12 @@ At the moment I am seeking an opportunity to push the frontiers of machine learn
     <col width="15%">
     <col width="85%">
     <tr>
+        <td valign="top"><strong>[Nov 2020]</strong></td>
+        <td>VIP(Values in Practice) Award Winner for Excellence and Partnership at 
+        <a href="https://www.lseg.com/markets-products-and-services/technology/lseg-technology">London Stock Exchange Group Technology</a>
+        </td>
+    </tr>
+    <tr>
         <td valign="top"><strong>[Oct 2020]</strong></td>
         <td>New   
         <a href="/Other">Algorithm Challenges</a> added
