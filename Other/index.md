@@ -140,6 +140,14 @@ Input: "GGLLGG". Ouput: True</span>
 </td>
 <td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/python/IsLooping.py"><strong>Code</strong></a></td>
 </tr>
+<tr style="height: 21px;">
+<td style="width: 1.61765%; height: 21px; border-style: solid;">14</td>
+<td style="width: 89.422%; height: 21px; border-style: solid;">
+<b>Minimum Cost: </b>
+<span>A builder is looking to build a row of N houses that can be of K different colors. He has a goal of minimizing cost while ensuring that no two neighboring houses are of the same color. Given an N by K matrix where the nth row and kth column represents the cost to build the nth house with kth color, return the minimum cost which achieves this goal.</span>
+</td>
+<td style="width: 13.5037%; height: 21px; border-style: solid;"><a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving/blob/master/src/main/python/LowestCost.py"><strong>Code</strong></a></td>
+</tr>
 </tbody>
 </table>
 <p>More fun algorithm problems with answers can be found here in this <a href="https://github.com/vikumsw/Algorithms_For_Problem_Solving">repository</a>.</p>
